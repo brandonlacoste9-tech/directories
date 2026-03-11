@@ -17,8 +17,14 @@ def simulate_responses():
     while True:
         try:
             if os.path.exists(directory_file):
-                with open(directory_file, "r", encoding="utf-8") as f:
-                    db = json.load(f)
+                db = {}
+                for _ in range(5):
+                    try:
+                        with open(directory_file, "r", encoding="utf-8") as f:
+                            db = json.load(f)
+                        break
+                    except (IOError, json.JSONDecodeError):
+                        time.sleep(0.5)
                 
                 # Find a business that was SENT but not yet REPLIED
                 for slug, biz in db.items():

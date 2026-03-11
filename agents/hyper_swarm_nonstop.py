@@ -25,7 +25,7 @@ class NonStopHyperSwarm:
         self.root_dir = root_dir
         self.claw = GravityClaw(root_dir=root_dir)
         self.remedy = RemediationSwarm(root_dir=root_dir)
-        self.offset = 0
+        self.offset = random.randint(0, 500)
         self.batch_size = 3
         self.is_running = True
 

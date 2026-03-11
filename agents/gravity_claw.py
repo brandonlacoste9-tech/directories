@@ -1,6 +1,7 @@
 import json
 import os
 import uuid
+import time
 from datetime import datetime
 from typing import Dict, Any, List
 
@@ -32,15 +33,24 @@ class GravityClaw:
         self.save_memory(initial_state)
 
     def load_memory(self) -> Dict[str, Any]:
-        try:
-            with open(self.memory_file, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except Exception:
-            return {}
+        for _ in range(5):
+            try:
+                if not os.path.exists(self.memory_file):
+                    return {}
+                with open(self.memory_file, "r", encoding="utf-8") as f:
+                    return json.load(f)
+            except (IOError, json.JSONDecodeError):
+                time.sleep(0.5)
+        return {}
 
     def save_memory(self, data: Dict[str, Any]):
-        with open(self.memory_file, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2)
+        for _ in range(5):
+            try:
+                with open(self.memory_file, "w", encoding="utf-8") as f:
+                    json.dump(data, f, indent=2)
+                return
+            except IOError:
+                time.sleep(0.5)
 
     def prying_action(self, target: str, action: str):
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -51,7 +61,8 @@ class GravityClaw:
             "target": target,
             "action": action
         })
-        mem["active_tasks"] = mem["active_tasks"][:20] 
+        mem["active_tasks"] = mem["active_tasks"][:20]
+        self.save_memory(mem)
         self.save_memory(mem)
 
     def scout_new_leads(self, sector: str = "Construction"):
@@ -99,9 +110,14 @@ class GravityClaw:
             }
             db[slug] = new_entry
             
-            with open(self.directory_file, "w", encoding="utf-8") as f:
-                json.dump(db, f, indent=2, ensure_ascii=False)
-            print(f"✅ [SYNC]: Successfully written {slug}.")
+            for _ in range(5):
+                try:
+                    with open(self.directory_file, "w", encoding="utf-8") as f:
+                        json.dump(db, f, indent=2, ensure_ascii=False)
+                    print(f"✅ [SYNC]: Successfully written {slug}.")
+                    return
+                except IOError:
+                    time.sleep(0.5)
         except Exception as e:
             print(f"❌ [SYNC_ERR]: {str(e)}")
 
@@ -228,11 +244,14 @@ class GravityClaw:
             # Update memory to notify the user/orchestrator
             self.prying_action(target_domain, f"INBOUND_{signal_type}")
 
-            with open(self.directory_file, "w", encoding="utf-8") as f:
-                json.dump(db, f, indent=2, ensure_ascii=False)
-            
-            print(f"✅ [NEXUS]: Successfully logged {signal_type} for {target_slug}.")
-            return {"status": "LOGGED", "target": target_slug}
+            for _ in range(5):
+                try:
+                    with open(self.directory_file, "w", encoding="utf-8") as f:
+                        json.dump(db, f, indent=2, ensure_ascii=False)
+                    print(f"✅ [NEXUS]: Successfully logged {signal_type} for {target_slug}.")
+                    return {"status": "LOGGED", "target": target_slug}
+                except IOError:
+                    time.sleep(0.5)
         except Exception as e:
             print(f"❌ [NEXUS_ERR]: {str(e)}")
             return {"status": "ERROR", "message": str(e)}

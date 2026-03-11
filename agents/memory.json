@@ -1,108 +1,108 @@
 {
   "version": "1.0",
   "uptime": "2026-03-09T21:59:53.509839",
-  "total_audits": 465,
+  "total_audits": 569,
   "compliance_buffer": [],
   "semantic_index": {},
   "active_tasks": [
     {
-      "time": "2026-03-11 03:27:22",
-      "target": "\u00e9lite-technologie-laval-ltee.ca",
+      "time": "2026-03-11 03:34:07",
+      "target": "groupe-technologie-l\u00e9vis-enr.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:27:21",
-      "target": "bor\u00e9al-restauration-laval-ltee.ca",
+      "time": "2026-03-11 03:34:07",
+      "target": "solutions-construction-montr\u00e9al-enr.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:27:21",
-      "target": "groupe-restauration-longueuil-ltee.ca",
+      "time": "2026-03-11 03:34:06",
+      "target": "expert-services-l\u00e9vis-ltee.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:27:18",
-      "target": "syst\u00e8mes-services-l\u00e9vis-inc.ca",
+      "time": "2026-03-11 03:34:03",
+      "target": "groupe-services-sherbrooke-inc.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:27:18",
-      "target": "expert-services-gatineau-enr.ca",
+      "time": "2026-03-11 03:34:03",
+      "target": "solutions-manufacturier-montr\u00e9al-enr.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:27:18",
-      "target": "\u00e9lite-services-gatineau-enr.ca",
+      "time": "2026-03-11 03:30:42",
+      "target": "bor\u00e9al-services-longueuil-inc.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:27:14",
-      "target": "\u00e9lite-commerce-longueuil-inc.ca",
+      "time": "2026-03-11 03:30:38",
+      "target": "groupe-construction-longueuil-ltee.ca",
+      "action": "INBOUND_CLICKED"
+    },
+    {
+      "time": "2026-03-11 03:30:38",
+      "target": "bor\u00e9al-construction-laval-enr.ca",
+      "action": "INBOUND_REPLIED"
+    },
+    {
+      "time": "2026-03-11 03:30:38",
+      "target": "bor\u00e9al-services-l\u00e9vis-enr.ca",
+      "action": "INBOUND_REPLIED"
+    },
+    {
+      "time": "2026-03-11 03:30:38",
+      "target": "solutions-manufacturier-montr\u00e9al-enr.ca",
+      "action": "INBOUND_CLICKED"
+    },
+    {
+      "time": "2026-03-11 03:30:38",
+      "target": "bor\u00e9al-restauration-longueuil-ltee.ca",
+      "action": "INBOUND_CONVERTED"
+    },
+    {
+      "time": "2026-03-11 03:30:38",
+      "target": "groupe-services-montr\u00e9al-inc.ca",
+      "action": "INBOUND_CLICKED"
+    },
+    {
+      "time": "2026-03-11 03:30:38",
+      "target": "expert-commerce-l\u00e9vis-inc.ca",
+      "action": "INBOUND_CONVERTED"
+    },
+    {
+      "time": "2026-03-11 03:30:38",
+      "target": "solutions-restauration-gatineau-ltee.ca",
+      "action": "INBOUND_REPLIED"
+    },
+    {
+      "time": "2026-03-11 03:30:38",
+      "target": "groupe-construction-longueuil-ltee.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:27:14",
-      "target": "expert-manufacturier-longueuil-ltee.ca",
+      "time": "2026-03-11 03:30:38",
+      "target": "bor\u00e9al-technologie-montr\u00e9al-ltee.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:27:14",
-      "target": "nordique-construction-laval-enr.ca",
+      "time": "2026-03-11 03:30:34",
+      "target": "groupe-construction-qu\u00e9bec-enr.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:27:11",
-      "target": "expert-manufacturier-gatineau-inc.ca",
+      "time": "2026-03-11 03:30:34",
+      "target": "syst\u00e8mes-restauration-gatineau-enr.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:27:11",
-      "target": "syst\u00e8mes-commerce-longueuil-inc.ca",
+      "time": "2026-03-11 03:30:34",
+      "target": "bor\u00e9al-construction-laval-enr.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:27:11",
-      "target": "bor\u00e9al-technologie-sherbrooke-enr.ca",
-      "action": "NOTICE_DISPATCHED_HIGH"
-    },
-    {
-      "time": "2026-03-11 03:27:07",
-      "target": "syst\u00e8mes-construction-sherbrooke-inc.ca",
-      "action": "NOTICE_DISPATCHED_HIGH"
-    },
-    {
-      "time": "2026-03-11 03:27:07",
-      "target": "expert-technologie-gatineau-inc.ca",
-      "action": "NOTICE_DISPATCHED_HIGH"
-    },
-    {
-      "time": "2026-03-11 03:27:07",
-      "target": "solutions-restauration-l\u00e9vis-enr.ca",
-      "action": "NOTICE_DISPATCHED_HIGH"
-    },
-    {
-      "time": "2026-03-11 03:27:03",
-      "target": "syst\u00e8mes-services-sherbrooke-enr.ca",
-      "action": "NOTICE_DISPATCHED_HIGH"
-    },
-    {
-      "time": "2026-03-11 03:27:03",
-      "target": "nordique-manufacturier-qu\u00e9bec-ltee.ca",
-      "action": "NOTICE_DISPATCHED_HIGH"
-    },
-    {
-      "time": "2026-03-11 03:27:03",
-      "target": "solutions-construction-longueuil-enr.ca",
-      "action": "NOTICE_DISPATCHED_HIGH"
-    },
-    {
-      "time": "2026-03-11 03:27:00",
-      "target": "syst\u00e8mes-commerce-montr\u00e9al-ltee.ca",
-      "action": "NOTICE_DISPATCHED_HIGH"
-    },
-    {
-      "time": "2026-03-11 03:26:56",
-      "target": "groupe-services-l\u00e9vis-inc.ca",
+      "time": "2026-03-11 03:30:31",
+      "target": "nordique-technologie-longueuil-ltee.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     }
   ]

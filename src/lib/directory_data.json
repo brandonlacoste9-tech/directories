@@ -772,12 +772,12 @@
     "domain": "stlaurent-services-troisrivières-ltee.ca"
   },
   "groupe-technologie-lévis-enr": {
-    "id": "ZY-6F1C0",
+    "id": "ZY-41277",
     "name": "Groupe Technologie Lévis Enr.",
     "category": "SERVICES",
     "slug": "groupe-technologie-lévis-enr",
     "isVerified": false,
-    "neq": "1172351336",
+    "neq": "1179576279",
     "loc": "QUEBEC, CA",
     "auditDate": "2026-03-11",
     "riskLevel": "HIGH",
@@ -787,6 +787,14 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "groupe-technologie-lévis-enr.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:34:07.082244",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
     "isOutreachSent": true,
     "outreachDate": "2026-03-11"
   },
@@ -1418,12 +1426,12 @@
     "outreachDate": "2026-03-11"
   },
   "élite-services-sherbrooke-ltee": {
-    "id": "ZY-D1284",
+    "id": "ZY-80F54",
     "name": "Élite Services Sherbrooke Ltee",
     "category": "SERVICES",
     "slug": "élite-services-sherbrooke-ltee",
     "isVerified": false,
-    "neq": "1173142468",
+    "neq": "1171006820",
     "loc": "QUEBEC, CA",
     "auditDate": "2026-03-11",
     "riskLevel": "HIGH",
@@ -1432,6 +1440,20 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "élite-services-sherbrooke-ltee.ca",
+    "outreachStatus": "CLICKED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:27.563620",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:28.431244",
+        "signal": "CLICKED",
+        "detail": "Portal access detected."
+      }
+    ],
     "isOutreachSent": true,
     "outreachDate": "2026-03-11"
   },
@@ -1565,12 +1587,12 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-restauration-gatineau-ltee": {
-    "id": "ZY-C86C4",
+    "id": "ZY-99F1B",
     "name": "Solutions Restauration Gatineau Ltee",
     "category": "SERVICES",
     "slug": "solutions-restauration-gatineau-ltee",
     "isVerified": false,
-    "neq": "1178707222",
+    "neq": "1172241603",
     "loc": "QUEBEC, CA",
     "auditDate": "2026-03-11",
     "riskLevel": "HIGH",
@@ -1580,6 +1602,20 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "solutions-restauration-gatineau-ltee.ca",
+    "outreachStatus": "REPLIED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:47.879264",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:38.553761",
+        "signal": "REPLIED",
+        "detail": "Interested in remediation. Please send contract."
+      }
+    ],
     "isOutreachSent": true,
     "outreachDate": "2026-03-11"
   },
@@ -2330,12 +2366,12 @@
     "domain": "boréal-commerce-troisrivières-enr.ca"
   },
   "systèmes-construction-laval-enr": {
-    "id": "ZY-4F441",
+    "id": "ZY-8E6D2",
     "name": "Systèmes Construction Laval Enr.",
     "category": "SERVICES",
     "slug": "systèmes-construction-laval-enr",
     "isVerified": false,
-    "neq": "1174494639",
+    "neq": "1179299996",
     "loc": "QUEBEC, CA",
     "auditDate": "2026-03-11",
     "riskLevel": "HIGH",
@@ -2346,6 +2382,14 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "systèmes-construction-laval-enr.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:44.345756",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
     "isOutreachSent": true,
     "outreachDate": "2026-03-11"
   },
@@ -2443,12 +2487,12 @@
     "outreachDate": "2026-03-11"
   },
   "élite-commerce-trois-rivières-inc": {
-    "id": "ZY-6052B",
+    "id": "ZY-3CBDC",
     "name": "Élite Commerce Trois-Rivières Inc.",
     "category": "SERVICES",
     "slug": "élite-commerce-trois-rivières-inc",
     "isVerified": false,
-    "neq": "1171954713",
+    "neq": "1176061153",
     "loc": "QUEBEC, CA",
     "auditDate": "2026-03-11",
     "riskLevel": "HIGH",
@@ -2456,7 +2500,9 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "élite-commerce-troisrivières-inc.ca"
+    "domain": "élite-commerce-troisrivières-inc.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
   },
   "systèmes-services-québec-inc": {
     "id": "ZY-143BF",
@@ -2909,12 +2955,12 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-manufacturier-longueuil-inc": {
-    "id": "ZY-BD6B6",
+    "id": "ZY-90F9B",
     "name": "Groupe Manufacturier Longueuil Inc.",
     "category": "SERVICES",
     "slug": "groupe-manufacturier-longueuil-inc",
     "isVerified": false,
-    "neq": "1172867014",
+    "neq": "1179848352",
     "loc": "QUEBEC, CA",
     "auditDate": "2026-03-11",
     "riskLevel": "HIGH",
@@ -2923,6 +2969,14 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "groupe-manufacturier-longueuil-inc.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:13.113037",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
     "isOutreachSent": true,
     "outreachDate": "2026-03-11"
   },
@@ -3161,12 +3215,12 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-restauration-longueuil-enr": {
-    "id": "ZY-0906A",
+    "id": "ZY-6F842",
     "name": "St-Laurent Restauration Longueuil Enr.",
     "category": "SERVICES",
     "slug": "st-laurent-restauration-longueuil-enr",
     "isVerified": false,
-    "neq": "1178502998",
+    "neq": "1176054168",
     "loc": "QUEBEC, CA",
     "auditDate": "2026-03-11",
     "riskLevel": "HIGH",
@@ -3174,7 +3228,9 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-restauration-longueuil-enr.ca"
+    "domain": "stlaurent-restauration-longueuil-enr.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
   },
   "expert-commerce-gatineau-inc": {
     "id": "ZY-AAA30",
@@ -3352,12 +3408,12 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-restauration-lévis-enr": {
-    "id": "ZY-24904",
+    "id": "ZY-5C4A4",
     "name": "Solutions Restauration Lévis Enr.",
     "category": "SERVICES",
     "slug": "solutions-restauration-lévis-enr",
     "isVerified": false,
-    "neq": "1173843576",
+    "neq": "1177994524",
     "loc": "QUEBEC, CA",
     "auditDate": "2026-03-11",
     "riskLevel": "HIGH",
@@ -3367,6 +3423,20 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "solutions-restauration-lévis-enr.ca",
+    "outreachStatus": "REPLIED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:05.877144",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:18.197796",
+        "signal": "REPLIED",
+        "detail": "Interested in remediation. Please send contract."
+      }
+    ],
     "isOutreachSent": true,
     "outreachDate": "2026-03-11"
   },
@@ -3410,12 +3480,12 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-technologie-sherbrooke-enr": {
-    "id": "ZY-2FE7F",
+    "id": "ZY-3BE16",
     "name": "Boréal Technologie Sherbrooke Enr.",
     "category": "SERVICES",
     "slug": "boréal-technologie-sherbrooke-enr",
     "isVerified": false,
-    "neq": "1177461846",
+    "neq": "1174702477",
     "loc": "QUEBEC, CA",
     "auditDate": "2026-03-11",
     "riskLevel": "HIGH",
@@ -3425,6 +3495,14 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "boréal-technologie-sherbrooke-enr.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:09.507362",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
     "isOutreachSent": true,
     "outreachDate": "2026-03-11"
   },
@@ -3608,6 +3686,1971 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "élite-technologie-laval-ltee.ca",
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "élite-manufacturier-trois-rivières-inc": {
+    "id": "ZY-D9DE5",
+    "name": "Élite Manufacturier Trois-Rivières Inc.",
+    "category": "SERVICES",
+    "slug": "élite-manufacturier-trois-rivières-inc",
+    "isVerified": false,
+    "neq": "1174113070",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "élite-manufacturier-troisrivières-inc.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
+  },
+  "expert-services-laval-enr": {
+    "id": "ZY-304AB",
+    "name": "Expert Services Laval Enr.",
+    "category": "SERVICES",
+    "slug": "expert-services-laval-enr",
+    "isVerified": false,
+    "neq": "1176866931",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "expert-services-laval-enr.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:15.491499",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "st-laurent-restauration-trois-rivières-ltee": {
+    "id": "ZY-784F7",
+    "name": "St-Laurent Restauration Trois-Rivières Ltee",
+    "category": "SERVICES",
+    "slug": "st-laurent-restauration-trois-rivières-ltee",
+    "isVerified": false,
+    "neq": "1176105633",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "stlaurent-restauration-troisrivières-ltee.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
+  },
+  "groupe-restauration-longueuil-inc": {
+    "id": "ZY-938D0",
+    "name": "Groupe Restauration Longueuil Inc.",
+    "category": "SERVICES",
+    "slug": "groupe-restauration-longueuil-inc",
+    "isVerified": false,
+    "neq": "1175790367",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "groupe-restauration-longueuil-inc.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:19.031225",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "systèmes-construction-gatineau-ltee": {
+    "id": "ZY-8E97D",
+    "name": "Systèmes Construction Gatineau Ltee",
+    "category": "SERVICES",
+    "slug": "systèmes-construction-gatineau-ltee",
+    "isVerified": false,
+    "neq": "1174689567",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "systèmes-construction-gatineau-ltee.ca",
+    "outreachStatus": "CLICKED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:19.072099",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:29:37.744662",
+        "signal": "CLICKED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "nordique-services-montréal-ltee": {
+    "id": "ZY-0806C",
+    "name": "Nordique Services Montréal Ltee",
+    "category": "SERVICES",
+    "slug": "nordique-services-montréal-ltee",
+    "isVerified": false,
+    "neq": "1178070679",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "nordique-services-montréal-ltee.ca",
+    "outreachStatus": "CLICKED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:19.114615",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:29:47.812848",
+        "signal": "CLICKED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "élite-restauration-sherbrooke-enr": {
+    "id": "ZY-EE7DB",
+    "name": "Élite Restauration Sherbrooke Enr.",
+    "category": "SERVICES",
+    "slug": "élite-restauration-sherbrooke-enr",
+    "isVerified": false,
+    "neq": "1171114015",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "élite-restauration-sherbrooke-enr.ca",
+    "outreachStatus": "CLICKED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:22.640715",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:08.105634",
+        "signal": "CLICKED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "élite-manufacturier-montréal-enr": {
+    "id": "ZY-688AA",
+    "name": "Élite Manufacturier Montréal Enr.",
+    "category": "SERVICES",
+    "slug": "élite-manufacturier-montréal-enr",
+    "isVerified": false,
+    "neq": "1175168704",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "élite-manufacturier-montréal-enr.ca",
+    "outreachStatus": "REPLIED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:22.681656",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:29:57.921214",
+        "signal": "REPLIED",
+        "detail": "Interested in remediation. Please send contract."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "expert-manufacturier-laval-ltee": {
+    "id": "ZY-4F677",
+    "name": "Expert Manufacturier Laval Ltee",
+    "category": "SERVICES",
+    "slug": "expert-manufacturier-laval-ltee",
+    "isVerified": false,
+    "neq": "1171872450",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "expert-manufacturier-laval-ltee.ca",
+    "outreachStatus": "CONVERTED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:22.723976",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:29:57.956176",
+        "signal": "CONVERTED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "élite-technologie-sherbrooke-inc": {
+    "id": "ZY-1BF30",
+    "name": "Élite Technologie Sherbrooke Inc.",
+    "category": "SERVICES",
+    "slug": "élite-technologie-sherbrooke-inc",
+    "isVerified": false,
+    "neq": "1171520437",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "METADATA_MISMATCH: SEO targeting English-only.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "élite-technologie-sherbrooke-inc.ca",
+    "outreachStatus": "REPLIED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:26.339140",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:08.150998",
+        "signal": "REPLIED",
+        "detail": "Interested in remediation. Please send contract."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "expert-construction-québec-inc": {
+    "id": "ZY-23576",
+    "name": "Expert Construction Québec Inc.",
+    "category": "SERVICES",
+    "slug": "expert-construction-québec-inc",
+    "isVerified": false,
+    "neq": "1175023912",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "expert-construction-québec-inc.ca",
+    "outreachStatus": "CLICKED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:26.379895",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:29:27.723697",
+        "signal": "CLICKED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "solutions-restauration-québec-ltee": {
+    "id": "ZY-600CA",
+    "name": "Solutions Restauration Québec Ltee",
+    "category": "SERVICES",
+    "slug": "solutions-restauration-québec-ltee",
+    "isVerified": false,
+    "neq": "1173613256",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "METADATA_MISMATCH: SEO targeting English-only.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "solutions-restauration-québec-ltee.ca",
+    "outreachStatus": "CONVERTED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:29.873620",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:29:37.771259",
+        "signal": "CONVERTED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "solutions-restauration-longueuil-inc": {
+    "id": "ZY-1B256",
+    "name": "Solutions Restauration Longueuil Inc.",
+    "category": "SERVICES",
+    "slug": "solutions-restauration-longueuil-inc",
+    "isVerified": false,
+    "neq": "1175207234",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "METADATA_MISMATCH: SEO targeting English-only.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "solutions-restauration-longueuil-inc.ca",
+    "outreachStatus": "REPLIED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:29.913252",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:29:57.979254",
+        "signal": "REPLIED",
+        "detail": "Interested in remediation. Please send contract."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "boréal-manufacturier-gatineau-ltee": {
+    "id": "ZY-47ECD",
+    "name": "Boréal Manufacturier Gatineau Ltee",
+    "category": "SERVICES",
+    "slug": "boréal-manufacturier-gatineau-ltee",
+    "isVerified": false,
+    "neq": "1175736046",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "boréal-manufacturier-gatineau-ltee.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:29.961326",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "élite-services-gatineau-inc": {
+    "id": "ZY-790E1",
+    "name": "Élite Services Gatineau Inc.",
+    "category": "SERVICES",
+    "slug": "élite-services-gatineau-inc",
+    "isVerified": false,
+    "neq": "1179708321",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "élite-services-gatineau-inc.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:33.508222",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "expert-commerce-lévis-inc": {
+    "id": "ZY-C4D4B",
+    "name": "Expert Commerce Lévis Inc.",
+    "category": "SERVICES",
+    "slug": "expert-commerce-lévis-inc",
+    "isVerified": false,
+    "neq": "1171784047",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "expert-commerce-lévis-inc.ca",
+    "outreachStatus": "CONVERTED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:33.554311",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:38.582797",
+        "signal": "CONVERTED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "systèmes-construction-lévis-inc": {
+    "id": "ZY-03652",
+    "name": "Systèmes Construction Lévis Inc.",
+    "category": "SERVICES",
+    "slug": "systèmes-construction-lévis-inc",
+    "isVerified": false,
+    "neq": "1178910407",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "systèmes-construction-lévis-inc.ca",
+    "outreachStatus": "REPLIED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:33.594347",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:29:58.003065",
+        "signal": "REPLIED",
+        "detail": "Interested in remediation. Please send contract."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "solutions-manufacturier-montréal-ltee": {
+    "id": "ZY-2112B",
+    "name": "Solutions Manufacturier Montréal Ltee",
+    "category": "SERVICES",
+    "slug": "solutions-manufacturier-montréal-ltee",
+    "isVerified": false,
+    "neq": "1175895114",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "METADATA_MISMATCH: SEO targeting English-only.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "solutions-manufacturier-montréal-ltee.ca",
+    "outreachStatus": "CONVERTED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:37.115643",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:29:37.795574",
+        "signal": "CONVERTED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "boréal-services-longueuil-enr": {
+    "id": "ZY-09D8B",
+    "name": "Boréal Services Longueuil Enr.",
+    "category": "SERVICES",
+    "slug": "boréal-services-longueuil-enr",
+    "isVerified": false,
+    "neq": "1178864901",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "boréal-services-longueuil-enr.ca",
+    "outreachStatus": "REPLIED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:37.163670",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:29:58.027038",
+        "signal": "REPLIED",
+        "detail": "Interested in remediation. Please send contract."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "systèmes-manufacturier-montréal-enr": {
+    "id": "ZY-C6171",
+    "name": "Systèmes Manufacturier Montréal Enr.",
+    "category": "SERVICES",
+    "slug": "systèmes-manufacturier-montréal-enr",
+    "isVerified": false,
+    "neq": "1173400559",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "systèmes-manufacturier-montréal-enr.ca",
+    "outreachStatus": "CONVERTED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:37.206096",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:29:58.050230",
+        "signal": "CONVERTED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "st-laurent-construction-longueuil-enr": {
+    "id": "ZY-5B4DB",
+    "name": "St-Laurent Construction Longueuil Enr.",
+    "category": "SERVICES",
+    "slug": "st-laurent-construction-longueuil-enr",
+    "isVerified": false,
+    "neq": "1174151274",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "stlaurent-construction-longueuil-enr.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
+  },
+  "solutions-construction-lévis-ltee": {
+    "id": "ZY-90EB6",
+    "name": "Solutions Construction Lévis Ltee",
+    "category": "SERVICES",
+    "slug": "solutions-construction-lévis-ltee",
+    "isVerified": false,
+    "neq": "1175476109",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "solutions-construction-lévis-ltee.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:40.717639",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "solutions-technologie-laval-inc": {
+    "id": "ZY-16A0A",
+    "name": "Solutions Technologie Laval Inc.",
+    "category": "SERVICES",
+    "slug": "solutions-technologie-laval-inc",
+    "isVerified": false,
+    "neq": "1171395863",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "METADATA_MISMATCH: SEO targeting English-only.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "solutions-technologie-laval-inc.ca",
+    "outreachStatus": "REPLIED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:40.757936",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:18.229219",
+        "signal": "REPLIED",
+        "detail": "Interested in remediation. Please send contract."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "boréal-construction-lévis-enr": {
+    "id": "ZY-41C02",
+    "name": "Boréal Construction Lévis Enr.",
+    "category": "SERVICES",
+    "slug": "boréal-construction-lévis-enr",
+    "isVerified": false,
+    "neq": "1179232654",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "boréal-construction-lévis-enr.ca",
+    "outreachStatus": "CLICKED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:44.275842",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:28.470287",
+        "signal": "CLICKED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "groupe-services-trois-rivières-ltee": {
+    "id": "ZY-BF956",
+    "name": "Groupe Services Trois-Rivières Ltee",
+    "category": "SERVICES",
+    "slug": "groupe-services-trois-rivières-ltee",
+    "isVerified": false,
+    "neq": "1175524838",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "groupe-services-troisrivières-ltee.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
+  },
+  "nordique-construction-sherbrooke-inc": {
+    "id": "ZY-6790F",
+    "name": "Nordique Construction Sherbrooke Inc.",
+    "category": "SERVICES",
+    "slug": "nordique-construction-sherbrooke-inc",
+    "isVerified": false,
+    "neq": "1174909752",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "nordique-construction-sherbrooke-inc.ca",
+    "outreachStatus": "REPLIED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:47.933444",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:29:58.075794",
+        "signal": "REPLIED",
+        "detail": "Interested in remediation. Please send contract."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "groupe-commerce-laval-inc": {
+    "id": "ZY-1A777",
+    "name": "Groupe Commerce Laval Inc.",
+    "category": "SERVICES",
+    "slug": "groupe-commerce-laval-inc",
+    "isVerified": false,
+    "neq": "1172379314",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "groupe-commerce-laval-inc.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:47.975931",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "groupe-technologie-sherbrooke-inc": {
+    "id": "ZY-89428",
+    "name": "Groupe Technologie Sherbrooke Inc.",
+    "category": "SERVICES",
+    "slug": "groupe-technologie-sherbrooke-inc",
+    "isVerified": false,
+    "neq": "1177079203",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "METADATA_MISMATCH: SEO targeting English-only.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "groupe-technologie-sherbrooke-inc.ca",
+    "outreachStatus": "CONVERTED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:51.483320",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:18.254943",
+        "signal": "CONVERTED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "groupe-services-montréal-inc": {
+    "id": "ZY-8F4DA",
+    "name": "Groupe Services Montréal Inc.",
+    "category": "SERVICES",
+    "slug": "groupe-services-montréal-inc",
+    "isVerified": false,
+    "neq": "1173548310",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "groupe-services-montréal-inc.ca",
+    "outreachStatus": "CLICKED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:51.525204",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:38.612604",
+        "signal": "CLICKED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "boréal-manufacturier-trois-rivières-ltee": {
+    "id": "ZY-3D391",
+    "name": "Boréal Manufacturier Trois-Rivières Ltee",
+    "category": "SERVICES",
+    "slug": "boréal-manufacturier-trois-rivières-ltee",
+    "isVerified": false,
+    "neq": "1176900197",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "boréal-manufacturier-troisrivières-ltee.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
+  },
+  "st-laurent-services-longueuil-ltee": {
+    "id": "ZY-7E986",
+    "name": "St-Laurent Services Longueuil Ltee",
+    "category": "SERVICES",
+    "slug": "st-laurent-services-longueuil-ltee",
+    "isVerified": false,
+    "neq": "1173669232",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "stlaurent-services-longueuil-ltee.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
+  },
+  "systèmes-manufacturier-longueuil-ltee": {
+    "id": "ZY-B5FE3",
+    "name": "Systèmes Manufacturier Longueuil Ltee",
+    "category": "SERVICES",
+    "slug": "systèmes-manufacturier-longueuil-ltee",
+    "isVerified": false,
+    "neq": "1171930717",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "systèmes-manufacturier-longueuil-ltee.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:55.103330",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "nordique-construction-gatineau-enr": {
+    "id": "ZY-62FD1",
+    "name": "Nordique Construction Gatineau Enr.",
+    "category": "SERVICES",
+    "slug": "nordique-construction-gatineau-enr",
+    "isVerified": false,
+    "neq": "1171987076",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "nordique-construction-gatineau-enr.ca",
+    "outreachStatus": "CONVERTED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:58.640295",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:18.279422",
+        "signal": "CONVERTED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "systèmes-manufacturier-laval-ltee": {
+    "id": "ZY-6A30E",
+    "name": "Systèmes Manufacturier Laval Ltee",
+    "category": "SERVICES",
+    "slug": "systèmes-manufacturier-laval-ltee",
+    "isVerified": false,
+    "neq": "1173280108",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "systèmes-manufacturier-laval-ltee.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:58.681308",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "groupe-manufacturier-sherbrooke-inc": {
+    "id": "ZY-681C4",
+    "name": "Groupe Manufacturier Sherbrooke Inc.",
+    "category": "SERVICES",
+    "slug": "groupe-manufacturier-sherbrooke-inc",
+    "isVerified": false,
+    "neq": "1178460392",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "groupe-manufacturier-sherbrooke-inc.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:29:58.721453",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "st-laurent-manufacturier-gatineau-enr": {
+    "id": "ZY-50ED2",
+    "name": "St-Laurent Manufacturier Gatineau Enr.",
+    "category": "SERVICES",
+    "slug": "st-laurent-manufacturier-gatineau-enr",
+    "isVerified": false,
+    "neq": "1178658227",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "stlaurent-manufacturier-gatineau-enr.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
+  },
+  "boréal-restauration-longueuil-ltee": {
+    "id": "ZY-027E0",
+    "name": "Boréal Restauration Longueuil Ltee",
+    "category": "SERVICES",
+    "slug": "boréal-restauration-longueuil-ltee",
+    "isVerified": false,
+    "neq": "1176639948",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "boréal-restauration-longueuil-ltee.ca",
+    "outreachStatus": "CONVERTED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:02.272301",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:38.639851",
+        "signal": "CONVERTED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "boréal-services-montréal-inc": {
+    "id": "ZY-34237",
+    "name": "Boréal Services Montréal Inc.",
+    "category": "SERVICES",
+    "slug": "boréal-services-montréal-inc",
+    "isVerified": false,
+    "neq": "1171507904",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "boréal-services-montréal-inc.ca",
+    "outreachStatus": "CONVERTED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:02.313457",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:28.497126",
+        "signal": "CONVERTED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "groupe-restauration-laval-ltee": {
+    "id": "ZY-FAF7A",
+    "name": "Groupe Restauration Laval Ltee",
+    "category": "SERVICES",
+    "slug": "groupe-restauration-laval-ltee",
+    "isVerified": false,
+    "neq": "1175719509",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "groupe-restauration-laval-ltee.ca",
+    "outreachStatus": "CONVERTED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:05.837185",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:08.175409",
+        "signal": "CONVERTED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "st-laurent-restauration-lévis-ltee": {
+    "id": "ZY-9AD4E",
+    "name": "St-Laurent Restauration Lévis Ltee",
+    "category": "SERVICES",
+    "slug": "st-laurent-restauration-lévis-ltee",
+    "isVerified": false,
+    "neq": "1171134388",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "stlaurent-restauration-lévis-ltee.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
+  },
+  "boréal-manufacturier-longueuil-inc": {
+    "id": "ZY-4DD3F",
+    "name": "Boréal Manufacturier Longueuil Inc.",
+    "category": "SERVICES",
+    "slug": "boréal-manufacturier-longueuil-inc",
+    "isVerified": false,
+    "neq": "1179980614",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "boréal-manufacturier-longueuil-inc.ca",
+    "outreachStatus": "REPLIED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:09.426477",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:18.303966",
+        "signal": "REPLIED",
+        "detail": "Interested in remediation. Please send contract."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "élite-commerce-québec-ltee": {
+    "id": "ZY-BADD0",
+    "name": "Élite Commerce Québec Ltee",
+    "category": "SERVICES",
+    "slug": "élite-commerce-québec-ltee",
+    "isVerified": false,
+    "neq": "1177706393",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "élite-commerce-québec-ltee.ca",
+    "outreachStatus": "CLICKED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:09.466952",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:18.329310",
+        "signal": "CLICKED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "nordique-construction-sherbrooke-ltee": {
+    "id": "ZY-ECCA5",
+    "name": "Nordique Construction Sherbrooke Ltee",
+    "category": "SERVICES",
+    "slug": "nordique-construction-sherbrooke-ltee",
+    "isVerified": false,
+    "neq": "1172010981",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "nordique-construction-sherbrooke-ltee.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:13.028601",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "groupe-commerce-québec-ltee": {
+    "id": "ZY-CA5A5",
+    "name": "Groupe Commerce Québec Ltee",
+    "category": "SERVICES",
+    "slug": "groupe-commerce-québec-ltee",
+    "isVerified": false,
+    "neq": "1176339407",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "groupe-commerce-québec-ltee.ca",
+    "outreachStatus": "REPLIED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:13.070753",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:18.359257",
+        "signal": "REPLIED",
+        "detail": "Interested in remediation. Please send contract."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "boréal-manufacturier-lévis-inc": {
+    "id": "ZY-46024",
+    "name": "Boréal Manufacturier Lévis Inc.",
+    "category": "SERVICES",
+    "slug": "boréal-manufacturier-lévis-inc",
+    "isVerified": false,
+    "neq": "1171449944",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "boréal-manufacturier-lévis-inc.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:20.271881",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "expert-services-longueuil-ltee": {
+    "id": "ZY-CBE5D",
+    "name": "Expert Services Longueuil Ltee",
+    "category": "SERVICES",
+    "slug": "expert-services-longueuil-ltee",
+    "isVerified": false,
+    "neq": "1175053730",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "expert-services-longueuil-ltee.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:16.697919",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "nordique-construction-gatineau-inc": {
+    "id": "ZY-172AE",
+    "name": "Nordique Construction Gatineau Inc.",
+    "category": "SERVICES",
+    "slug": "nordique-construction-gatineau-inc",
+    "isVerified": false,
+    "neq": "1172234795",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "nordique-construction-gatineau-inc.ca",
+    "outreachStatus": "REPLIED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:16.740629",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:18.408743",
+        "signal": "REPLIED",
+        "detail": "Interested in remediation. Please send contract."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "systèmes-construction-laval-ltee": {
+    "id": "ZY-DB739",
+    "name": "Systèmes Construction Laval Ltee",
+    "category": "SERVICES",
+    "slug": "systèmes-construction-laval-ltee",
+    "isVerified": false,
+    "neq": "1179928572",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "systèmes-construction-laval-ltee.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:20.314967",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "solutions-manufacturier-montréal-enr": {
+    "id": "ZY-DF474",
+    "name": "Solutions Manufacturier Montréal Enr.",
+    "category": "SERVICES",
+    "slug": "solutions-manufacturier-montréal-enr",
+    "isVerified": false,
+    "neq": "1174039379",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "METADATA_MISMATCH: SEO targeting English-only.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "solutions-manufacturier-montréal-enr.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:34:03.297376",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "nordique-manufacturier-québec-inc": {
+    "id": "ZY-666AC",
+    "name": "Nordique Manufacturier Québec Inc.",
+    "category": "SERVICES",
+    "slug": "nordique-manufacturier-québec-inc",
+    "isVerified": false,
+    "neq": "1175782954",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "nordique-manufacturier-québec-inc.ca",
+    "outreachStatus": "CONVERTED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:23.892629",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:28.524522",
+        "signal": "CONVERTED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "solutions-commerce-longueuil-enr": {
+    "id": "ZY-A3923",
+    "name": "Solutions Commerce Longueuil Enr.",
+    "category": "SERVICES",
+    "slug": "solutions-commerce-longueuil-enr",
+    "isVerified": false,
+    "neq": "1176403056",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "METADATA_MISMATCH: SEO targeting English-only.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "solutions-commerce-longueuil-enr.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:23.939215",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "st-laurent-commerce-lévis-ltee": {
+    "id": "ZY-155BE",
+    "name": "St-Laurent Commerce Lévis Ltee",
+    "category": "SERVICES",
+    "slug": "st-laurent-commerce-lévis-ltee",
+    "isVerified": false,
+    "neq": "1175689254",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "stlaurent-commerce-lévis-ltee.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
+  },
+  "boréal-services-sherbrooke-ltee": {
+    "id": "ZY-FA95C",
+    "name": "Boréal Services Sherbrooke Ltee",
+    "category": "SERVICES",
+    "slug": "boréal-services-sherbrooke-ltee",
+    "isVerified": false,
+    "neq": "1171717499",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "boréal-services-sherbrooke-ltee.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:27.477991",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "boréal-services-lévis-enr": {
+    "id": "ZY-1F717",
+    "name": "Boréal Services Lévis Enr.",
+    "category": "SERVICES",
+    "slug": "boréal-services-lévis-enr",
+    "isVerified": false,
+    "neq": "1172613109",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "boréal-services-lévis-enr.ca",
+    "outreachStatus": "REPLIED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:27.521160",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:38.692125",
+        "signal": "REPLIED",
+        "detail": "Interested in remediation. Please send contract."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "nordique-restauration-québec-enr": {
+    "id": "ZY-02DBF",
+    "name": "Nordique Restauration Québec Enr.",
+    "category": "SERVICES",
+    "slug": "nordique-restauration-québec-enr",
+    "isVerified": false,
+    "neq": "1178767359",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "nordique-restauration-québec-enr.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:31.116522",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "élite-construction-gatineau-ltee": {
+    "id": "ZY-EA531",
+    "name": "Élite Construction Gatineau Ltee",
+    "category": "SERVICES",
+    "slug": "élite-construction-gatineau-ltee",
+    "isVerified": false,
+    "neq": "1172085155",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "élite-construction-gatineau-ltee.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:31.161223",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "nordique-technologie-longueuil-ltee": {
+    "id": "ZY-CEDD5",
+    "name": "Nordique Technologie Longueuil Ltee",
+    "category": "SERVICES",
+    "slug": "nordique-technologie-longueuil-ltee",
+    "isVerified": false,
+    "neq": "1176042341",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "METADATA_MISMATCH: SEO targeting English-only.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "nordique-technologie-longueuil-ltee.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:31.203499",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "boréal-construction-laval-enr": {
+    "id": "ZY-40C79",
+    "name": "Boréal Construction Laval Enr.",
+    "category": "SERVICES",
+    "slug": "boréal-construction-laval-enr",
+    "isVerified": false,
+    "neq": "1174190330",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "boréal-construction-laval-enr.ca",
+    "outreachStatus": "REPLIED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:34.736785",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:38.718248",
+        "signal": "REPLIED",
+        "detail": "Interested in remediation. Please send contract."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "systèmes-restauration-gatineau-enr": {
+    "id": "ZY-F85FA",
+    "name": "Systèmes Restauration Gatineau Enr.",
+    "category": "SERVICES",
+    "slug": "systèmes-restauration-gatineau-enr",
+    "isVerified": false,
+    "neq": "1177033838",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "systèmes-restauration-gatineau-enr.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:34.780101",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "groupe-construction-québec-enr": {
+    "id": "ZY-F2713",
+    "name": "Groupe Construction Québec Enr.",
+    "category": "SERVICES",
+    "slug": "groupe-construction-québec-enr",
+    "isVerified": false,
+    "neq": "1173389000",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "groupe-construction-québec-enr.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:34.824944",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "boréal-technologie-montréal-ltee": {
+    "id": "ZY-2BC84",
+    "name": "Boréal Technologie Montréal Ltee",
+    "category": "SERVICES",
+    "slug": "boréal-technologie-montréal-ltee",
+    "isVerified": false,
+    "neq": "1174682436",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "METADATA_MISMATCH: SEO targeting English-only.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "boréal-technologie-montréal-ltee.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:38.379726",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "nordique-restauration-trois-rivières-enr": {
+    "id": "ZY-224ED",
+    "name": "Nordique Restauration Trois-Rivières Enr.",
+    "category": "SERVICES",
+    "slug": "nordique-restauration-trois-rivières-enr",
+    "isVerified": false,
+    "neq": "1178412086",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "nordique-restauration-troisrivières-enr.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
+  },
+  "groupe-construction-longueuil-ltee": {
+    "id": "ZY-5DCFC",
+    "name": "Groupe Construction Longueuil Ltee",
+    "category": "SERVICES",
+    "slug": "groupe-construction-longueuil-ltee",
+    "isVerified": false,
+    "neq": "1176233239",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "groupe-construction-longueuil-ltee.ca",
+    "outreachStatus": "CLICKED",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:38.445159",
+        "detail": "Forensic notice dispatched: HIGH"
+      },
+      {
+        "type": "INBOUND",
+        "timestamp": "2026-03-11T03:30:38.746168",
+        "signal": "CLICKED",
+        "detail": "Portal access detected."
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "solutions-technologie-trois-rivières-enr": {
+    "id": "ZY-51127",
+    "name": "Solutions Technologie Trois-Rivières Enr.",
+    "category": "SERVICES",
+    "slug": "solutions-technologie-trois-rivières-enr",
+    "isVerified": false,
+    "neq": "1177966848",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "METADATA_MISMATCH: SEO targeting English-only.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "solutions-technologie-troisrivières-enr.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
+  },
+  "nordique-services-trois-rivières-ltee": {
+    "id": "ZY-D7744",
+    "name": "Nordique Services Trois-Rivières Ltee",
+    "category": "SERVICES",
+    "slug": "nordique-services-trois-rivières-ltee",
+    "isVerified": false,
+    "neq": "1174001783",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "nordique-services-troisrivières-ltee.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
+  },
+  "boréal-services-longueuil-inc": {
+    "id": "ZY-178C7",
+    "name": "Boréal Services Longueuil Inc.",
+    "category": "SERVICES",
+    "slug": "boréal-services-longueuil-inc",
+    "isVerified": false,
+    "neq": "1178732379",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "boréal-services-longueuil-inc.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:30:42.064864",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "nordique-manufacturier-lévis-inc": {
+    "id": "ZY-55442",
+    "name": "Nordique Manufacturier Lévis Inc.",
+    "category": "SERVICES",
+    "slug": "nordique-manufacturier-lévis-inc",
+    "isVerified": false,
+    "neq": "1178701338",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "nordique-manufacturier-lévis-inc.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
+  },
+  "groupe-services-sherbrooke-inc": {
+    "id": "ZY-BE372",
+    "name": "Groupe Services Sherbrooke Inc.",
+    "category": "SERVICES",
+    "slug": "groupe-services-sherbrooke-inc",
+    "isVerified": false,
+    "neq": "1175722067",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "groupe-services-sherbrooke-inc.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:34:03.355934",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "st-laurent-construction-laval-ltee": {
+    "id": "ZY-67290",
+    "name": "St-Laurent Construction Laval Ltee",
+    "category": "SERVICES",
+    "slug": "st-laurent-construction-laval-ltee",
+    "isVerified": false,
+    "neq": "1177652233",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "stlaurent-construction-laval-ltee.ca",
+    "outreachStatus": "PENDING",
+    "interactions": []
+  },
+  "expert-services-lévis-ltee": {
+    "id": "ZY-2E1EA",
+    "name": "Expert Services Lévis Ltee",
+    "category": "SERVICES",
+    "slug": "expert-services-lévis-ltee",
+    "isVerified": false,
+    "neq": "1172762807",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "expert-services-lévis-ltee.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:34:06.981037",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
+  },
+  "solutions-construction-montréal-enr": {
+    "id": "ZY-8FCBA",
+    "name": "Solutions Construction Montréal Enr.",
+    "category": "SERVICES",
+    "slug": "solutions-construction-montréal-enr",
+    "isVerified": false,
+    "neq": "1172499483",
+    "loc": "QUEBEC, CA",
+    "auditDate": "2026-03-11",
+    "riskLevel": "HIGH",
+    "riskScore": 70,
+    "violations": [
+      "MISSING_FR_LEGAL: English-only Terms/Privacy.",
+      "BILL_96_GAP: Client portal lacks French gateway.",
+      "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
+    ],
+    "domain": "solutions-construction-montréal-enr.ca",
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T03:34:07.033275",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
     "isOutreachSent": true,
     "outreachDate": "2026-03-11"
   }
