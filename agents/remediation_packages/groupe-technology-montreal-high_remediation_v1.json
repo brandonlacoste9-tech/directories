@@ -1,0 +1,26 @@
+{
+  "business": "Groupe Technology Montreal High",
+  "neq": "115E07A",
+  "compliance_date": "2026-03-10",
+  "pricing_applied": {
+    "tier": "FORTERESSE / FORTRESS",
+    "price": "599$",
+    "complexity": "EXTRAORDINARY",
+    "estimated_time": "Instant (Automated) / 4h (Human Review)",
+    "fr_desc": "Remédiation complète incluant défense légale, infrastructure bilingue et protection contre les amendes de l'OQLF."
+  },
+  "patches": {
+    "linguistic": {
+      "hero_title": "Bienvenue chez Groupe Technology Montreal High",
+      "hero_subtitle": "Expertise et excellence au service du Québec.",
+      "cta_button": "Contactez-nous aujourd'hui",
+      "footer_legal": "Tous droits réservés. Conformité Loi 96 active."
+    },
+    "seo": {
+      "title": "Groupe Technology Montreal High | Services Professionnels au Québec",
+      "description": "Découvrez les services de Groupe Technology Montreal High. Nous sommes fiers de servir la communauté québécoise.",
+      "lang": "fr-CA"
+    },
+    "legal": "POLITIQUE DE CONFIDENTIALITÉ / PRIVACY POLICY\n--------------------------------------------\nCette politique régit l'utilisation des données par Groupe Technology Montreal High.\nEn vertu de la Loi 96, cette version française prévaut sur toute version anglaise.\n"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "business": "Roofing Excellence Plus",
+  "neq": "11785D2",
+  "compliance_date": "2026-03-10",
+  "pricing_applied": {
+    "tier": "SENTINELLE / SENTINEL",
+    "price": "249$",
+    "complexity": "HIGH",
+    "estimated_time": "6h",
+    "fr_desc": "Conformité standard : Traductions complètes, SEO localisé et Politiques de confidentialité conformes à la Loi 25/96."
+  },
+  "patches": {
+    "linguistic": {
+      "hero_title": "Bienvenue chez Roofing Excellence Plus",
+      "hero_subtitle": "Expertise et excellence au service du Québec.",
+      "cta_button": "Contactez-nous aujourd'hui",
+      "footer_legal": "Tous droits réservés. Conformité Loi 96 active."
+    },
+    "seo": {
+      "title": "Roofing Excellence Plus | Services Professionnels au Québec",
+      "description": "Découvrez les services de Roofing Excellence Plus. Nous sommes fiers de servir la communauté québécoise.",
+      "lang": "fr-CA"
+    },
+    "legal": "POLITIQUE DE CONFIDENTIALITÉ / PRIVACY POLICY\n--------------------------------------------\nCette politique régit l'utilisation des données par Roofing Excellence Plus.\nEn vertu de la Loi 96, cette version française prévaut sur toute version anglaise.\n"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "business": "Tech-Solutions Laval",
+  "neq": "11459928...",
+  "compliance_date": "2026-03-10",
+  "pricing_applied": {
+    "tier": "FORTERESSE / FORTRESS",
+    "price": "599$",
+    "complexity": "EXTRAORDINARY",
+    "estimated_time": "Instant (Automated) / 4h (Human Review)",
+    "fr_desc": "Remédiation complète incluant défense légale, infrastructure bilingue et protection contre les amendes de l'OQLF."
+  },
+  "patches": {
+    "linguistic": {
+      "hero_title": "Bienvenue chez Tech-Solutions Laval",
+      "hero_subtitle": "Expertise et excellence au service du Québec.",
+      "cta_button": "Contactez-nous aujourd'hui",
+      "footer_legal": "Tous droits réservés. Conformité Loi 96 active."
+    },
+    "seo": {
+      "title": "Tech-Solutions Laval | Services Professionnels au Québec",
+      "description": "Découvrez les services de Tech-Solutions Laval. Nous sommes fiers de servir la communauté québécoise.",
+      "lang": "fr-CA"
+    },
+    "legal": "POLITIQUE DE CONFIDENTIALITÉ / PRIVACY POLICY\n--------------------------------------------\nCette politique régit l'utilisation des données par Tech-Solutions Laval.\nEn vertu de la Loi 96, cette version française prévaut sur toute version anglaise.\n"
+  }
+}
