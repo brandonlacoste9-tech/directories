@@ -10,7 +10,7 @@ except ImportError:
     resend = None
 
 
-class Sentinelle-96:
+class Sentinelle96:
     """
     SENTINELLE-96 ORCHESTRATOR v2.0 - SWARM EDITION
     Mission: Autonomous Bill 96 Compliance Discovery & Remediation

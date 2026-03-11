@@ -9,9 +9,9 @@ from fastapi import FastAPI, BackgroundTasks, Query
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 
-class GravityClawOrchestrator:
+class Sentinelle96Orchestrator:
     """
-    GRAVITYCLAW MASTER ORCHESTRATOR v2.2 - "THE WAR MACHINE"
+    SENTINELLE-96 MASTER ORCHESTRATOR v2.2 - "THE WAR MACHINE"
     Orchestrates audits, swarm remediation, payment validation, and certification.
     """
     
@@ -83,7 +83,7 @@ class GravityClawOrchestrator:
 
 # --- API SERVER SETUP ---
 app = FastAPI(title="GravityClaw Master Orchestrator")
-claw = GravityClawOrchestrator()
+claw = Sentinelle96Orchestrator()
 
 app.add_middleware(
     CORSMiddleware,

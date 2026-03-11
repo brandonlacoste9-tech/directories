@@ -58,7 +58,7 @@ def check_orchestrator_logs():
         print("[ERROR]: Could not reach Orchestrator.")
 
 if __name__ == "__main__":
-    print("=== GRAVITYCLAW MASS PAYMENT SIMULATION ===")
+    print("=== SENTINELLE-96 MASS PAYMENT SIMULATION ===")
     
     for slug in TARGETS:
         simulate_webhook_payment(slug)
