@@ -86,8 +86,13 @@ class GravityClaw:
         try:
             db = {}
             if os.path.exists(self.directory_file):
-                with open(self.directory_file, "r", encoding="utf-8") as f:
-                    db = json.load(f)
+                for _ in range(5):
+                    try:
+                        with open(self.directory_file, "r", encoding="utf-8") as f:
+                            db = json.load(f)
+                        break
+                    except (IOError, json.JSONDecodeError):
+                        time.sleep(0.5)
             
             name_clean = business_data["name"].lower().replace(" ", "-")
             slug = "".join(c for c in name_clean if c.isalnum() or c == "-")

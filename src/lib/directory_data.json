@@ -1451,7 +1451,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:28.431244",
         "signal": "CLICKED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:48",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -1613,7 +1618,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:38.553761",
         "signal": "REPLIED",
-        "detail": "Interested in remediation. Please send contract."
+        "detail": "Interested in remediation. Please send contract.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:48",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -3434,7 +3444,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:18.197796",
         "signal": "REPLIED",
-        "detail": "Interested in remediation. Please send contract."
+        "detail": "Interested in remediation. Please send contract.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:48",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -3805,7 +3820,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:29:37.744662",
         "signal": "CLICKED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:48",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -3837,7 +3857,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:29:47.812848",
         "signal": "CLICKED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -3869,7 +3894,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:08.105634",
         "signal": "CLICKED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -3901,7 +3931,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:29:57.921214",
         "signal": "REPLIED",
-        "detail": "Interested in remediation. Please send contract."
+        "detail": "Interested in remediation. Please send contract.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -3933,7 +3968,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:29:57.956176",
         "signal": "CONVERTED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -3966,7 +4006,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:08.150998",
         "signal": "REPLIED",
-        "detail": "Interested in remediation. Please send contract."
+        "detail": "Interested in remediation. Please send contract.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4000,7 +4045,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:29:27.723697",
         "signal": "CLICKED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4033,7 +4083,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:29:37.771259",
         "signal": "CONVERTED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4066,7 +4121,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:29:57.979254",
         "signal": "REPLIED",
-        "detail": "Interested in remediation. Please send contract."
+        "detail": "Interested in remediation. Please send contract.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4150,7 +4210,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:38.582797",
         "signal": "CONVERTED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4184,7 +4249,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:29:58.003065",
         "signal": "REPLIED",
-        "detail": "Interested in remediation. Please send contract."
+        "detail": "Interested in remediation. Please send contract.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4217,7 +4287,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:29:37.795574",
         "signal": "CONVERTED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4249,7 +4324,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:29:58.027038",
         "signal": "REPLIED",
-        "detail": "Interested in remediation. Please send contract."
+        "detail": "Interested in remediation. Please send contract.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4281,7 +4361,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:29:58.050230",
         "signal": "CONVERTED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4362,7 +4447,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:18.229219",
         "signal": "REPLIED",
-        "detail": "Interested in remediation. Please send contract."
+        "detail": "Interested in remediation. Please send contract.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4396,7 +4486,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:28.470287",
         "signal": "CLICKED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4448,7 +4543,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:29:58.075794",
         "signal": "REPLIED",
-        "detail": "Interested in remediation. Please send contract."
+        "detail": "Interested in remediation. Please send contract.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4507,7 +4607,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:18.254943",
         "signal": "CONVERTED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:49",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4539,7 +4644,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:38.612604",
         "signal": "CLICKED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:50",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4635,7 +4745,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:18.279422",
         "signal": "CONVERTED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:50",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4737,7 +4852,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:38.639851",
         "signal": "CONVERTED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:50",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4769,7 +4889,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:28.497126",
         "signal": "CONVERTED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:50",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4801,7 +4926,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:08.175409",
         "signal": "CONVERTED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:50",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4851,7 +4981,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:18.303966",
         "signal": "REPLIED",
-        "detail": "Interested in remediation. Please send contract."
+        "detail": "Interested in remediation. Please send contract.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:50",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4883,7 +5018,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:18.329310",
         "signal": "CLICKED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:50",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -4943,7 +5083,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:18.359257",
         "signal": "REPLIED",
-        "detail": "Interested in remediation. Please send contract."
+        "detail": "Interested in remediation. Please send contract.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:50",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -5029,7 +5174,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:18.408743",
         "signal": "REPLIED",
-        "detail": "Interested in remediation. Please send contract."
+        "detail": "Interested in remediation. Please send contract.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:50",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -5116,7 +5266,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:28.524522",
         "signal": "CONVERTED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:50",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -5219,7 +5374,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:38.692125",
         "signal": "REPLIED",
-        "detail": "Interested in remediation. Please send contract."
+        "detail": "Interested in remediation. Please send contract.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:50",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -5334,7 +5494,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:38.718248",
         "signal": "REPLIED",
-        "detail": "Interested in remediation. Please send contract."
+        "detail": "Interested in remediation. Please send contract.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:50",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
@@ -5467,7 +5632,12 @@
         "type": "INBOUND",
         "timestamp": "2026-03-11T03:30:38.746168",
         "signal": "CLICKED",
-        "detail": "Portal access detected."
+        "detail": "Portal access detected.",
+        "reply_sent": {
+          "time": "2026-03-11 03:55:50",
+          "content": "Action enregistrée dans le registre Zyeuté.",
+          "agent": "ZYEUTÉ_DIPLOMAT_01"
+        }
       }
     ],
     "isOutreachSent": true,
