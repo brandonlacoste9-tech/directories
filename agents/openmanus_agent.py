@@ -81,7 +81,7 @@ class OpenManusAgent:
             except Exception:
                 time.sleep(0.3)
 
-    def dispatch_to_openmanus(self, prompt: str, timeout: int = 120) -> str:
+    def dispatch_to_openmanus(self, prompt: str, timeout: int = 300) -> str:
         """
         Send a prompt to OpenManus and capture the output.
         Uses a one-shot subprocess invocation with the prompt piped in.
@@ -167,7 +167,7 @@ asyncio.run(run())
                     self.save_task_queue(tasks)
 
                     # Dispatch to OpenManus
-                    result = self.dispatch_to_openmanus(prompt)
+                    result = self.dispatch_to_openmanus(prompt, timeout=300)
 
                     # Mark as done
                     task["status"] = "DONE"
