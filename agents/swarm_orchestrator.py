@@ -56,4 +56,4 @@ def launch_swarm(num_sweepers=3, num_monitors=2, num_diplomats=1):
             p.terminate()
 
 if __name__ == "__main__":
-    launch_swarm(num_sweepers=4, num_monitors=2)
+    launch_swarm(num_sweepers=4, num_monitors=2, num_diplomats=1)

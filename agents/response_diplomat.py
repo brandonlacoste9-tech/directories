@@ -14,14 +14,42 @@ class ResponseDiplomat:
         self.is_running = True
 
     def generate_reply(self, signal_type: str, company_name: str):
-        """Generates a high-fidelity French compliance response based on intent."""
+        """
+        Generates a high-fidelity French compliance response based on intent.
+        Following @bill-96-forensic-diplomat skill guidelines.
+        """
         replies = {
-            "REPLIED": f"Bonjour {company_name}, merci de votre intérêt. Nous préparons votre dossier de remédiation Loi 96 complet. Un agent vous contactera pour finaliser l'implémentation.",
-            "CLICKED": f"Nous avons détecté votre consultation du portail pour {company_name}. C'est un premier pas crucial vers la conformité.",
-            "CONVERTED": f"Félicitations {company_name}! Votre bouclier de conformité est maintenant actif. Bienvenue dans l'écosystème Zyeuté.",
-            "DISPUTED": f"Nous avons pris note de votre contestation pour {company_name}. Nos experts révisent actuellement les preuves de non-conformité relevées."
+            "REPLIED": (
+                f"Bonjour {company_name},\n\n"
+                "Merci de votre intérêt pour la conformité linguistique. Nous préparons actuellement votre dossier "
+                "de remédiation Loi 96 complet. Ce document détaille les étapes pour aligner votre présence numérique "
+                "avec les exigences de l'OQLF.\n\n"
+                "Un agent de notre équipe d'accompagnement vous contactera sous peu pour finaliser l'implémentation.\n\n"
+                "Cordialement,\nL'Équipe de Diplomatie Zyeuté"
+            ),
+            "CLICKED": (
+                f"Bonjour {company_name},\n\n"
+                "Nous avons remarqué votre intérêt pour le rapport de conformité de votre entreprise. "
+                "C'est un premier pas crucial pour sécuriser vos opérations au Québec.\n\n"
+                "Souhaitez-vous une consultation gratuite pour interpréter les résultats de votre audit ?\n\n"
+                "Cordialement,\nL'Équipe de Diplomatie Zyeuté"
+            ),
+            "CONVERTED": (
+                f"Félicitations {company_name}!\n\n"
+                "Votre bouclier de conformité Zyeuté est maintenant actif. Votre entreprise est désormais protégée par "
+                "notre système de surveillance continue des normes de la Loi 96.\n\n"
+                "Bienvenue dans l'écosystème de pérennité linguistique Zyeuté."
+            ),
+            "DISPUTED": (
+                f"Bonjour {company_name},\n\n"
+                "Nous avons pris note de votre contestation. Nos experts en audit forensic révisent actuellement les "
+                "preuves de non-conformité relevées sur vos actifs numériques.\n\n"
+                "Nous vous reviendrons avec un rapport détaillé liant chaque manquement aux articles spécifiques "
+                "de la Charte de la langue française.\n\n"
+                "Cordialement,\nService de Vérification Zyeuté"
+            )
         }
-        return replies.get(signal_type, "Action enregistrée dans le registre Zyeuté.")
+        return replies.get(signal_type, "Action enregistrée dans le registre Zyeuté. En attente de traitement diplomatique.")
 
     def run_diplomacy(self):
         print("🕊️ [RESPONSE_DIPLOMAT]: NEXUS DIPLOMACY ACTIVE.")
