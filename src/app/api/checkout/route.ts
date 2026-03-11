@@ -1,9 +1,7 @@
 // src/app/api/checkout/route.ts
 import { NextResponse } from 'next/server';
-import Stripe from 'stripe';
+import { stripe } from '@/lib/stripe';
 import directoryData from '@/lib/directory_data.json';
-
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY || '');
 
 export async function POST(req: Request) {
   try {
