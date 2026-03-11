@@ -5,10 +5,10 @@ import sys
 # ZYEUTÉ MULTI-AGENT ORCHESTRATOR
 # Mission: Scale the swarm to maximum capacity.
 
-def launch_swarm(num_sweepers=3, num_monitors=2, num_diplomats=1, num_openmanus=1):
+def launch_swarm(num_sweepers=3, num_monitors=2, num_diplomats=1, num_openmanus=1, num_outreach=1):
     processes = []
     
-    print(f"🚀 [ORCHESTRATOR]: Spawning {num_sweepers} Sweepers, {num_monitors} Monitors, {num_diplomats} Diplomats, {num_openmanus} OpenManus Bridge(s)...")
+    print(f"🚀 [ORCHESTRATOR]: Spawning {num_sweepers} Sweepers, {num_monitors} Monitors, {num_diplomats} Diplomats, {num_openmanus} OpenManus Bridge(s), {num_outreach} Outreach Swarm(s)...")
     
     # Launch Sweepers (Hyper-Swarm)
     for i in range(num_sweepers):
@@ -50,6 +50,16 @@ def launch_swarm(num_sweepers=3, num_monitors=2, num_diplomats=1, num_openmanus=
         processes.append(p)
         time.sleep(1)
 
+    # Launch Outreach Swarm (Automated Email)
+    for i in range(num_outreach):
+        print(f"🕊️ [AGENT]: Starting Outreach-Swarm #{i+1}")
+        p = subprocess.Popen([sys.executable, "agents/outreach_agent.py"],
+                             stdout=subprocess.PIPE,
+                             stderr=subprocess.PIPE,
+                             text=True)
+        processes.append(p)
+        time.sleep(1)
+
     print(f"✅ [SYSTEM]: Swarm fully operational with {len(processes)} active agents.")
     
     try:
@@ -66,4 +76,4 @@ def launch_swarm(num_sweepers=3, num_monitors=2, num_diplomats=1, num_openmanus=
             p.terminate()
 
 if __name__ == "__main__":
-    launch_swarm(num_sweepers=4, num_monitors=2, num_diplomats=1, num_openmanus=1)
+    launch_swarm(num_sweepers=4, num_monitors=2, num_diplomats=1, num_openmanus=1, num_outreach=1)

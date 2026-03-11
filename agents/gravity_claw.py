@@ -4,6 +4,10 @@ import uuid
 import time
 from datetime import datetime
 from typing import Dict, Any, List
+try:
+    import resend
+except ImportError:
+    resend = None
 
 
 class GravityClaw:
@@ -17,7 +21,10 @@ class GravityClaw:
         self.memory_file = os.path.join(root_dir, "agents", "memory.json")
         self.findings_file = os.path.join(root_dir, "agents", "findings.md")
         self.directory_file = os.path.join(root_dir, "src", "lib", "directory_data.json")
-        self.active_swarms: List[str] = ["Linguistic_Scout_v1", "Outreach_Agent_v2"]
+        self.active_swarms: List[str] = ["Linguistic_Scout_v1", "Outreach_Agent_v3"]
+        self.resend_key = os.getenv("RESEND_API_KEY")
+        if self.resend_key and resend:
+            resend.api_key = self.resend_key
 
         if not os.path.exists(self.memory_file):
             self._initialize_memory()
@@ -188,18 +195,36 @@ class GravityClaw:
             
             status = "STAGED"
             if auto_send:
-                # Mock high-fidelity transmission
+                # High-fidelity transmission
                 print(f"📨 [SEND]: Dispatching to linguistic nexus for {target_biz['name']}...")
-                self.prying_action(target_biz["domain"], f"NOTICE_DISPATCHED_{target_biz['riskLevel']}")
-                target_biz["isOutreachSent"] = True
-                target_biz["outreachDate"] = datetime.now().strftime("%Y-%m-%d")
-                target_biz["outreachStatus"] = "SENT"
-                target_biz["interactions"].append({
-                    "type": "OUTREACH",
-                    "timestamp": datetime.now().isoformat(),
-                    "detail": f"Forensic notice dispatched: {target_biz['riskLevel']}"
-                })
-                status = "SENT"
+                
+                send_success = True
+                if self.resend_key and resend:
+                    try:
+                        resend.Emails.send({
+                            "from": "Zyeuté Compliance <compliance@zyeute.qc.ca>",
+                            "to": ["brandonlacoste9@gmail.com"], # Safety: Send to user for verification in dev
+                            "subject": notice["subject"],
+                            "html": notice["body"].replace("\n", "<br>")
+                        })
+                        print(f"✅ [RESEND]: Email sent via API.")
+                    except Exception as e:
+                        print(f"❌ [RESEND_ERR]: {str(e)}")
+                        send_success = False
+
+                if send_success:
+                    self.prying_action(target_biz["domain"], f"NOTICE_DISPATCHED_{target_biz['riskLevel']}")
+                    target_biz["isOutreachSent"] = True
+                    target_biz["outreachDate"] = datetime.now().strftime("%Y-%m-%d")
+                    target_biz["outreachStatus"] = "SENT"
+                    target_biz["interactions"].append({
+                        "type": "OUTREACH",
+                        "timestamp": datetime.now().isoformat(),
+                        "detail": f"Forensic notice dispatched: {target_biz['riskLevel']}"
+                    })
+                    status = "SENT"
+                else:
+                    status = "FAILED"
                 
                 # Persist the SENT state
                 with open(self.directory_file, "w", encoding="utf-8") as f:
