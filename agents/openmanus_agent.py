@@ -4,9 +4,9 @@ import time
 import subprocess
 import sys
 from datetime import datetime
-from gravity_claw import GravityClaw
+from gravity_claw import Sentinelle-96
 
-# ZYEUTÉ × OPENMANUS BRIDGE AGENT
+# REGISTRE_LOI96 × OPENMANUS BRIDGE AGENT
 # Mission: Escalate complex tasks from the swarm to OpenManus for deep AI execution.
 # OpenManus handles: web research, full remediation plans, multi-step browser tasks.
 
@@ -20,7 +20,7 @@ OPENMANUS_PYTHON = os.path.join(OPENMANUS_DIR, ".venv", "Scripts", "python.exe")
 class OpenManusAgent:
     def __init__(self, root_dir: str):
         self.root_dir = root_dir
-        self.claw = GravityClaw(root_dir=root_dir)
+        self.claw = Sentinelle-96(root_dir=root_dir)
         self.is_running = True
         self.task_queue_file = os.path.join(root_dir, "agents", "openmanus_tasks.json")
         self.results_file = os.path.join(root_dir, "agents", "openmanus_results.json")
@@ -177,7 +177,7 @@ asyncio.run(run())
                     # Save result
                     self.save_result(task_id, prompt, result, "DONE")
 
-                    # Log to GravityClaw
+                    # Log to Sentinelle-96
                     self.claw.prying_action(domain, f"OPENMANUS_TASK_COMPLETED_{task_id}")
 
                     print(f"✅ [OPENMANUS_BRIDGE]: Task [{task_id}] complete.")

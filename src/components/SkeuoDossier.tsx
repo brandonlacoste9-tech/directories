@@ -81,7 +81,7 @@ export default function SkeuoDossier({ businessName, neq, riskScore, violations,
       {/* Official Red Wax Seal (Simulated) */}
       <div className="absolute bottom-16 right-16 w-32 h-32 opacity-20 pointer-events-none rotate-[-10deg]">
          <div className="w-full h-full border-[8px] border-double border-red-700 rounded-full flex items-center justify-center text-center p-4">
-            <span className="text-red-700 font-black text-[10px] leading-tight uppercase">Bureau de <br /> Vérification <br /> Zyeuté</span>
+            <span className="text-red-700 font-black text-[10px] leading-tight uppercase">Bureau de <br /> Vérification <br /> Officielle</span>
          </div>
       </div>
       
@@ -137,7 +137,7 @@ export default function SkeuoDossier({ businessName, neq, riskScore, violations,
                  </div>
                  <div className="flex justify-between border-b border-slate-50 pb-2">
                     <span className="opacity-50">Protocole :</span>
-                    <span className="text-emerald-700 font-black tracking-widest">GRAVITY_CLAW_AUTO</span>
+                    <span className="text-emerald-700 font-black tracking-widest">SENTINELLE_96_AUTO</span>
                  </div>
               </div>
 
@@ -186,7 +186,7 @@ export default function SkeuoDossier({ businessName, neq, riskScore, violations,
 
       {/* Forensic Report Footer */}
       <div className="mt-12 pt-8 border-t border-slate-200 text-[8px] text-slate-400 text-center tracking-[0.8em] font-black uppercase opacity-30">
-        SUITE FORENSIQUE ZYEUTÉ // GRAVITYCLAW ORCHESTRATOR // NE PAS DUPLIQUER
+        SUITE FORENSIQUE LOI 96 // SENTINELLE-96 ORCHESTRATOR // NE PAS DUPLIQUER
       </div>
     </div>
   );

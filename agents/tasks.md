@@ -1,4 +1,4 @@
-# 📋 GRAVITYCLAW: ACTIVE_TASKS
+# 📋 SENTINELLE-96: ACTIVE_TASKS
 
 ## RUNNING
 - [x] **Linguistic Scout Swarm**: Scanning multi-sector (Construction, Plumbing, HVAC, Cleaning).
@@ -11,7 +11,7 @@
 - [ ] **Regional Scaling**: Expand scouting to Laval and Quebec City specifically.
 
 ## COMPLETED
-- [x] Refactor GravityClaw to v2.0 (Swarm Architecture).
+- [x] Refactor Sentinelle-96 to v2.0 (Swarm Architecture).
 - [x] Implement `/api/swarm/deploy` for autonomous loops.
 - [x] Create **Swarm Control Center** UI (`/swarm`).
 - [x] Add Agent Identity (`soul.md`) and Specification (`agent.md`).

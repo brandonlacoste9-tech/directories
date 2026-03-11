@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import directoryData from '@/lib/directory_data.json';
 
 interface BusinessItem {
@@ -27,7 +28,10 @@ export default function DirectoryPage() {
     <main className="min-h-screen bg-neutral-950 font-sans text-white pb-60">
       {/* Navigation Header */}
       <nav className="h-24 border-b border-white/5 flex items-center justify-between px-6 lg:px-20 backdrop-blur-xl sticky top-0 z-50 bg-black/60">
-        <Link href="/" className="text-2xl font-black tracking-tighter uppercase text-gradient-gold">ZYEUTÉ <span className="font-light text-white">RÉPERTOIRE</span></Link>
+        <Link href="/" className="flex items-center gap-4">
+          <Image src="/bill96-logo.png" alt="Loi 96 Logo" width={32} height={32} className="rounded-sm brightness-110" />
+          <span className="text-2xl font-black tracking-tighter uppercase text-gradient-gold">LOI 96 <span className="font-light text-white">RÉPERTOIRE</span></span>
+        </Link>
         <div className="flex items-center gap-6">
            <Link href="/audit" className="bg-white/5 hover:bg-white/10 px-6 py-2 rounded-full border border-white/10 text-[10px] font-black uppercase tracking-widest transition-all">
              Audit de site / <span className="opacity-60">Audit Portal</span>

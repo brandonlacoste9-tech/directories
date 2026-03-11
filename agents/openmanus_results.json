@@ -24,7 +24,7 @@
     "agent": "OPENMANUS_BRIDGE_01"
   },
   {
-    "task_id": "SWEEP_ZY-407A8",
+    "task_id": "SWEEP_LOI96-407A8",
     "prompt": "Audite le site web 'tech-sol.com' (Tech-Solutions Laval) pour vérifier la conformité à la Loi 96 du Québec. Identifie au moins 3 sources de non-conformité (ex: menus en anglais, manque de bascule de langue, CGU non traduites). Fournis un rapport détaillé en français avec des recommandations.",
     "result": "189, in async_wrapped\n    return await copy(fn, *args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\booboo\\directorie\\directories\\OpenManus\\.venv\\Lib\\site-packages\\tenacity\\asyncio\\__init__.py\", line 111, in __call__\n    do = await self.iter(retry_state=retry_state)\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\booboo\\directorie\\directories\\OpenManus\\.venv\\Lib\\site-packages\\tenacity\\asyncio\\__init__.py\", line 153, in iter\n    result = await action(retry_state)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\booboo\\directorie\\directories\\OpenManus\\.venv\\Lib\\site-packages\\tenacity\\_utils.py\", line 99, in inner\n    return call(*args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\booboo\\directorie\\directories\\OpenManus\\.venv\\Lib\\site-packages\\tenacity\\__init__.py\", line 419, in exc_check\n    raise retry_exc from fut.exception()\ntenacity.RetryError: RetryError[<Future at 0x1c864bb7e60 state=finished raised BadRequestError>]",
     "status": "DONE",

@@ -2,15 +2,15 @@ import json
 import os
 import time
 from datetime import datetime
-from gravity_claw import GravityClaw
+from gravity_claw import Sentinelle-96
 
-# ZYEUTÉ AUTOMATED OUTREACH AGENT
+# REGISTRE_LOI96 AUTOMATED OUTREACH AGENT
 # Mission: Scan the directory and automatically dispatch compliance notices to high-risk leads.
 
 class OutreachAgent:
     def __init__(self, root_dir: str):
         self.root_dir = root_dir
-        self.claw = GravityClaw(root_dir=root_dir)
+        self.claw = Sentinelle-96(root_dir=root_dir)
         self.directory_file = os.path.join(root_dir, "src", "lib", "directory_data.json")
         self.is_running = True
 

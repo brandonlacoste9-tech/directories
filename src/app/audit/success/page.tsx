@@ -12,7 +12,7 @@ function SuccessContent() {
     <div className="max-w-4xl w-full text-center relative p-12 lg:p-20 overflow-hidden">
       {/* Verification Certificate Look */}
       <div className="absolute inset-0 border-[20px] border-double border-emerald-500/10 pointer-events-none rounded-[60px]" />
-      <div className="absolute top-10 left-10 text-[8px] font-black tracking-widest text-emerald-500/20 uppercase">ZYEUTÉ_SECURE_CHANNEL_ENCRYPTED</div>
+      <div className="absolute top-10 left-10 text-[8px] font-black tracking-widest text-emerald-500/20 uppercase">LOI96_OFFICIAL_CHANNEL_ENCRYPTED</div>
       <div className="absolute bottom-10 right-10 text-[8px] font-black tracking-widest text-white/5 uppercase select-none">AUTHORIZED_BY_MAX_AGENT_ZERO</div>
       
       <div className="mb-16 relative inline-block">

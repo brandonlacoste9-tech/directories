@@ -1,7 +1,7 @@
 import json
 import os
 from datetime import datetime
-from gravity_claw import GravityClaw
+from gravity_claw import Sentinelle-96
 
 
 def deploy_bulk_outreach():
@@ -13,7 +13,7 @@ def deploy_bulk_outreach():
         print(f"Error: {data_path} not found.")
         return
 
-    claw = GravityClaw(root_dir=project_root)
+    claw = Sentinelle-96(root_dir=project_root)
 
     with open(data_path, "r", encoding="utf-8") as f:
         data = json.load(f)

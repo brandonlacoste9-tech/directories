@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import RadarScanner from '@/components/RadarScanner';
 import SkeuoDossier from '@/components/SkeuoDossier';
 
@@ -36,7 +37,7 @@ export default function AuditPage() {
   }, []);
 
   const [logs, setLogs] = useState<string[]>([
-    "[SYSTEM]: GRAVITY_CLAW Initialized.",
+    "[SYSTEM]: SENTINELLE_96 Initialized.",
     "[SYSTEM]: Handshake with Antigravity Node complete.",
     "[SYSTEM]: Awaiting target acquisition..."
   ]);
@@ -92,7 +93,10 @@ export default function AuditPage() {
       {/* Header Portal Info */}
       <div className="flex justify-between items-center mb-12 border-b border-white/5 pb-8">
         <div>
-          <h1 className="text-4xl font-black tracking-tighter uppercase text-gradient-gold">ZYEUTÉ <span className="font-light text-white">DIRECTORY</span></h1>
+          <Link href="/" className="flex items-center gap-4">
+            <Image src="/bill96-logo.png" alt="Loi 96 Logo" width={48} height={48} className="rounded-sm shadow-2xl brightness-110" />
+            <h1 className="text-4xl font-black tracking-tighter uppercase text-gradient-gold">LOI 96 <span className="font-light text-white">RÉPERTOIRE</span></h1>
+          </Link>
           <p className="text-xs text-neutral-500 uppercase font-black tracking-widest mt-2">Opérateur : MAX-AGENT-ZERO | Division Québec/Alberta</p>
         </div>
         <div className="text-right flex flex-col items-end gap-2">
@@ -193,11 +197,11 @@ export default function AuditPage() {
                      <p className="text-[8px] mt-4 text-zinc-400">LES AMENDES POUR NON-CONFORMITÉ DÉBUTENT À 3 000 $ / JOUR.</p>
                   </div>
 
-                  {/* GRAVITYCLAW Status Card */}
+                  {/* SENTINELLE-96 Status Card */}
                   <div className="p-6 bg-black border border-white/10 rounded-2xl relative overflow-hidden group">
                      <div className="absolute top-0 left-0 w-1 h-full bg-gold-primary" />
                      <div className="flex justify-between items-start mb-4">
-                        <span className="text-[8px] font-black uppercase tracking-widest text-neutral-500">GRAVITYCLAW_LINK</span>
+                        <span className="text-[8px] font-black uppercase tracking-widest text-neutral-500">SENTINELLE-96_LINK</span>
                         <div className={`w-2 h-2 rounded-full ${systemStatus?.status === 'OPERATIONAL' ? 'bg-emerald-500 animate-pulse' : 'bg-red-500'}`} />
                      </div>
                      <div className="space-y-2">

@@ -26,7 +26,7 @@ export async function POST(req: Request) {
       amount = 99900;
     }
 
-    console.log(`[ZYEUTE_BILLING]: Initializing checkout for ${slug}, Amount: ${amount}`);
+    console.log(`[LOI96_BILLING]: Initializing checkout for ${slug}, Amount: ${amount}`);
 
     const session = await stripe.checkout.sessions.create({
       payment_method_types: ['card'],
@@ -35,7 +35,7 @@ export async function POST(req: Request) {
           price_data: {
             currency: 'cad',
             product_data: {
-              name: `Zyeuté - ${business?.remediationPrice?.tier || 'Audit Standard'}`,
+              name: `Répertoire Loi 96 - ${business?.remediationPrice?.tier || 'Audit Standard'}`,
               description: description,
             },
             unit_amount: amount,
@@ -59,7 +59,7 @@ export async function POST(req: Request) {
     });
   } catch (error) {
     const message = error instanceof Error ? error.message : 'Checkout initialization failed';
-    console.error('[ZYEUTE_BILLING_ERROR]:', message);
+    console.error('[LOI96_BILLING_ERROR]:', message);
     return NextResponse.json({ error: message }, { status: 500 });
   }
 }

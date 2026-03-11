@@ -1,6 +1,6 @@
 {
   "plomberie-montréal-inc": {
-    "id": "ZY-2ADB2",
+    "id": "LOI96-2ADB2",
     "name": "Plomberie Montréal Inc.",
     "category": "SERVICES",
     "slug": "plomberie-montréal-inc",
@@ -27,7 +27,7 @@
     "outreachDate": "2026-03-11"
   },
   "tech-solutions-laval": {
-    "id": "ZY-407A8",
+    "id": "LOI96-407A8",
     "name": "Tech-Solutions Laval",
     "category": "SERVICES",
     "slug": "tech-solutions-laval",
@@ -54,7 +54,7 @@
     "outreachDate": "2026-03-11"
   },
   "construction-jean-paul": {
-    "id": "ZY-3D33D",
+    "id": "LOI96-3D33D",
     "name": "Construction Jean-Paul",
     "category": "SERVICES",
     "slug": "construction-jean-paul",
@@ -81,7 +81,7 @@
     "outreachDate": "2026-03-11"
   },
   "boulangerie-québec-centre": {
-    "id": "ZY-5B9F7",
+    "id": "LOI96-5B9F7",
     "name": "Boulangerie Québec Centre",
     "category": "SERVICES",
     "slug": "boulangerie-québec-centre",
@@ -106,7 +106,7 @@
     "outreachDate": "2026-03-11"
   },
   "audit-target": {
-    "id": "ZY-F5DD6",
+    "id": "LOI96-F5DD6",
     "name": "Audit Target",
     "category": "SERVICES",
     "slug": "audit-target",
@@ -139,7 +139,7 @@
     "outreachStatus": "SENT"
   },
   "cleaning-systems-elite": {
-    "id": "ZY-6FA69",
+    "id": "LOI96-6FA69",
     "name": "Cleaning Systems Elite",
     "category": "SERVICES",
     "slug": "cleaning-systems-elite",
@@ -164,7 +164,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-cleaning-montreal-high": {
-    "id": "ZY-6FB1A",
+    "id": "LOI96-6FB1A",
     "name": "Groupe Cleaning Montreal High",
     "category": "SERVICES",
     "slug": "groupe-cleaning-montreal-high",
@@ -190,7 +190,7 @@
     "outreachDate": "2026-03-11"
   },
   "hospitality-systems-elite": {
-    "id": "ZY-F04A7",
+    "id": "LOI96-F04A7",
     "name": "Hospitality Systems Elite",
     "category": "SERVICES",
     "slug": "hospitality-systems-elite",
@@ -215,7 +215,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-hospitality-montreal-high": {
-    "id": "ZY-7BB79",
+    "id": "LOI96-7BB79",
     "name": "Groupe Hospitality Montreal High",
     "category": "SERVICES",
     "slug": "groupe-hospitality-montreal-high",
@@ -241,7 +241,7 @@
     "outreachDate": "2026-03-11"
   },
   "old-montreal-hospitality-systems-elite": {
-    "id": "ZY-0E101",
+    "id": "LOI96-0E101",
     "name": "Old Montreal Hospitality Systems Elite",
     "category": "SERVICES",
     "slug": "old-montreal-hospitality-systems-elite",
@@ -266,7 +266,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-old-montreal-hospitality-montreal-high": {
-    "id": "ZY-C7501",
+    "id": "LOI96-C7501",
     "name": "Groupe Old Montreal Hospitality Montreal High",
     "category": "SERVICES",
     "slug": "groupe-old-montreal-hospitality-montreal-high",
@@ -292,7 +292,7 @@
     "outreachDate": "2026-03-11"
   },
   "technology-systems-elite": {
-    "id": "ZY-04484",
+    "id": "LOI96-04484",
     "name": "Technology Systems Elite",
     "category": "SERVICES",
     "slug": "technology-systems-elite",
@@ -318,7 +318,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-technology-montreal-high": {
-    "id": "ZY-AFA6F",
+    "id": "LOI96-AFA6F",
     "name": "Groupe Technology Montreal High",
     "category": "SERVICES",
     "slug": "groupe-technology-montreal-high",
@@ -345,7 +345,7 @@
     "outreachDate": "2026-03-11"
   },
   "boulangerie-du-village-enr": {
-    "id": "ZY-7004C",
+    "id": "LOI96-7004C",
     "name": "Boulangerie-Du-Village Enr.",
     "category": "SERVICES",
     "slug": "boulangerie-du-village-enr",
@@ -370,7 +370,7 @@
     "outreachDate": "2026-03-11"
   },
   "hvac-excellence-plus": {
-    "id": "ZY-12D08",
+    "id": "LOI96-12D08",
     "name": "HVAC Excellence Plus",
     "category": "SERVICES",
     "slug": "hvac-excellence-plus",
@@ -396,7 +396,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-hvac-qc": {
-    "id": "ZY-11D50",
+    "id": "LOI96-11D50",
     "name": "Groupe HVAC QC",
     "category": "SERVICES",
     "slug": "groupe-hvac-qc",
@@ -421,7 +421,7 @@
     "outreachDate": "2026-03-11"
   },
   "plumbing-excellence-plus": {
-    "id": "ZY-F9269",
+    "id": "LOI96-F9269",
     "name": "Plumbing Excellence Plus",
     "category": "SERVICES",
     "slug": "plumbing-excellence-plus",
@@ -447,7 +447,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-plumbing-qc": {
-    "id": "ZY-64D11",
+    "id": "LOI96-64D11",
     "name": "Groupe Plumbing QC",
     "category": "SERVICES",
     "slug": "groupe-plumbing-qc",
@@ -473,7 +473,7 @@
     "outreachDate": "2026-03-11"
   },
   "roofing-excellence-plus": {
-    "id": "ZY-12700",
+    "id": "LOI96-12700",
     "name": "Roofing Excellence Plus",
     "category": "SERVICES",
     "slug": "roofing-excellence-plus",
@@ -499,7 +499,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-roofing-qc": {
-    "id": "ZY-46002",
+    "id": "LOI96-46002",
     "name": "Groupe Roofing QC",
     "category": "SERVICES",
     "slug": "groupe-roofing-qc",
@@ -525,7 +525,7 @@
     "outreachDate": "2026-03-11"
   },
   "construction-systems-elite": {
-    "id": "ZY-71383",
+    "id": "LOI96-71383",
     "name": "Construction Systems Elite",
     "category": "SERVICES",
     "slug": "construction-systems-elite",
@@ -545,7 +545,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-construction-montreal-high": {
-    "id": "ZY-D94F5",
+    "id": "LOI96-D94F5",
     "name": "Groupe Construction Montreal High",
     "category": "SERVICES",
     "slug": "groupe-construction-montreal-high",
@@ -566,7 +566,7 @@
     "outreachDate": "2026-03-11"
   },
   "services-systems-elite": {
-    "id": "ZY-F60C9",
+    "id": "LOI96-F60C9",
     "name": "Services Systems Elite",
     "category": "SERVICES",
     "slug": "services-systems-elite",
@@ -584,7 +584,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-services-montreal-high": {
-    "id": "ZY-E75AB",
+    "id": "LOI96-E75AB",
     "name": "Groupe Services Montreal High",
     "category": "SERVICES",
     "slug": "groupe-services-montreal-high",
@@ -603,7 +603,7 @@
     "outreachDate": "2026-03-11"
   },
   "commerce-systems-elite": {
-    "id": "ZY-5A255",
+    "id": "LOI96-5A255",
     "name": "Commerce Systems Elite",
     "category": "SERVICES",
     "slug": "commerce-systems-elite",
@@ -621,7 +621,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-commerce-montreal-high": {
-    "id": "ZY-A1852",
+    "id": "LOI96-A1852",
     "name": "Groupe Commerce Montreal High",
     "category": "SERVICES",
     "slug": "groupe-commerce-montreal-high",
@@ -640,7 +640,7 @@
     "outreachDate": "2026-03-11"
   },
   "technologie-systems-elite": {
-    "id": "ZY-AE008",
+    "id": "LOI96-AE008",
     "name": "Technologie Systems Elite",
     "category": "SERVICES",
     "slug": "technologie-systems-elite",
@@ -659,7 +659,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-technologie-montreal-high": {
-    "id": "ZY-89F7D",
+    "id": "LOI96-89F7D",
     "name": "Groupe Technologie Montreal High",
     "category": "SERVICES",
     "slug": "groupe-technologie-montreal-high",
@@ -679,7 +679,7 @@
     "outreachDate": "2026-03-11"
   },
   "entreprise-inconnue": {
-    "id": "ZY-DB934",
+    "id": "LOI96-DB934",
     "name": "Entreprise Inconnue",
     "category": "SERVICES",
     "slug": "entreprise-inconnue",
@@ -697,7 +697,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-construction-lévis-inc": {
-    "id": "ZY-C1539",
+    "id": "LOI96-C1539",
     "name": "Élite Construction Lévis Inc.",
     "category": "SERVICES",
     "slug": "élite-construction-lévis-inc",
@@ -717,7 +717,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-technologie-trois-rivières-inc": {
-    "id": "ZY-95745",
+    "id": "LOI96-95745",
     "name": "Nordique Technologie Trois-Rivières Inc.",
     "category": "SERVICES",
     "slug": "nordique-technologie-trois-rivières-inc",
@@ -744,7 +744,7 @@
     "outreachStatus": "SENT"
   },
   "groupe-restauration-trois-rivières-ltee": {
-    "id": "ZY-5450D",
+    "id": "LOI96-5450D",
     "name": "Groupe Restauration Trois-Rivières Ltee",
     "category": "SERVICES",
     "slug": "groupe-restauration-trois-rivières-ltee",
@@ -770,7 +770,7 @@
     "outreachStatus": "SENT"
   },
   "boréal-restauration-trois-rivières-inc": {
-    "id": "ZY-445C3",
+    "id": "LOI96-445C3",
     "name": "Boréal Restauration Trois-Rivières Inc.",
     "category": "SERVICES",
     "slug": "boréal-restauration-trois-rivières-inc",
@@ -796,7 +796,7 @@
     "outreachStatus": "SENT"
   },
   "st-laurent-services-trois-rivières-ltee": {
-    "id": "ZY-D75F0",
+    "id": "LOI96-D75F0",
     "name": "St-Laurent Services Trois-Rivières Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-services-trois-rivières-ltee",
@@ -822,7 +822,7 @@
     "outreachStatus": "SENT"
   },
   "groupe-technologie-lévis-enr": {
-    "id": "ZY-41277",
+    "id": "LOI96-41277",
     "name": "Groupe Technologie Lévis Enr.",
     "category": "SERVICES",
     "slug": "groupe-technologie-lévis-enr",
@@ -849,7 +849,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-services-sherbrooke-enr": {
-    "id": "ZY-C1623",
+    "id": "LOI96-C1623",
     "name": "Groupe Services Sherbrooke Enr.",
     "category": "SERVICES",
     "slug": "groupe-services-sherbrooke-enr",
@@ -867,7 +867,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-restauration-gatineau-enr": {
-    "id": "ZY-7BE8E",
+    "id": "LOI96-7BE8E",
     "name": "St-Laurent Restauration Gatineau Enr.",
     "category": "SERVICES",
     "slug": "st-laurent-restauration-gatineau-enr",
@@ -893,7 +893,7 @@
     "outreachStatus": "SENT"
   },
   "st-laurent-manufacturier-laval-inc": {
-    "id": "ZY-898E7",
+    "id": "LOI96-898E7",
     "name": "St-Laurent Manufacturier Laval Inc.",
     "category": "SERVICES",
     "slug": "st-laurent-manufacturier-laval-inc",
@@ -919,7 +919,7 @@
     "outreachStatus": "SENT"
   },
   "élite-services-montréal-enr": {
-    "id": "ZY-0E419",
+    "id": "LOI96-0E419",
     "name": "Élite Services Montréal Enr.",
     "category": "SERVICES",
     "slug": "élite-services-montréal-enr",
@@ -937,7 +937,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-manufacturier-longueuil-inc": {
-    "id": "ZY-E368C",
+    "id": "LOI96-E368C",
     "name": "Solutions Manufacturier Longueuil Inc.",
     "category": "SERVICES",
     "slug": "solutions-manufacturier-longueuil-inc",
@@ -956,7 +956,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-services-gatineau-ltee": {
-    "id": "ZY-69BC6",
+    "id": "LOI96-69BC6",
     "name": "Groupe Services Gatineau Ltee",
     "category": "SERVICES",
     "slug": "groupe-services-gatineau-ltee",
@@ -974,7 +974,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-technologie-laval-enr": {
-    "id": "ZY-38489",
+    "id": "LOI96-38489",
     "name": "Expert Technologie Laval Enr.",
     "category": "SERVICES",
     "slug": "expert-technologie-laval-enr",
@@ -993,7 +993,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-manufacturier-lévis-enr": {
-    "id": "ZY-FB694",
+    "id": "LOI96-FB694",
     "name": "Systèmes Manufacturier Lévis Enr.",
     "category": "SERVICES",
     "slug": "systèmes-manufacturier-lévis-enr",
@@ -1011,7 +1011,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-commerce-trois-rivières-ltee": {
-    "id": "ZY-AC3C3",
+    "id": "LOI96-AC3C3",
     "name": "St-Laurent Commerce Trois-Rivières Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-commerce-trois-rivières-ltee",
@@ -1037,7 +1037,7 @@
     "outreachStatus": "SENT"
   },
   "solutions-services-québec-ltee": {
-    "id": "ZY-9A23A",
+    "id": "LOI96-9A23A",
     "name": "Solutions Services Québec Ltee",
     "category": "SERVICES",
     "slug": "solutions-services-québec-ltee",
@@ -1056,7 +1056,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-services-laval-enr": {
-    "id": "ZY-25C88",
+    "id": "LOI96-25C88",
     "name": "St-Laurent Services Laval Enr.",
     "category": "SERVICES",
     "slug": "st-laurent-services-laval-enr",
@@ -1082,7 +1082,7 @@
     "outreachStatus": "SENT"
   },
   "boréal-commerce-sherbrooke-ltee": {
-    "id": "ZY-53FB3",
+    "id": "LOI96-53FB3",
     "name": "Boréal Commerce Sherbrooke Ltee",
     "category": "SERVICES",
     "slug": "boréal-commerce-sherbrooke-ltee",
@@ -1100,7 +1100,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-commerce-sherbrooke-ltee": {
-    "id": "ZY-12493",
+    "id": "LOI96-12493",
     "name": "Élite Commerce Sherbrooke Ltee",
     "category": "SERVICES",
     "slug": "élite-commerce-sherbrooke-ltee",
@@ -1118,7 +1118,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-construction-laval-inc": {
-    "id": "ZY-F9D0F",
+    "id": "LOI96-F9D0F",
     "name": "St-Laurent Construction Laval Inc.",
     "category": "SERVICES",
     "slug": "st-laurent-construction-laval-inc",
@@ -1146,7 +1146,7 @@
     "outreachStatus": "SENT"
   },
   "nordique-services-montréal-enr": {
-    "id": "ZY-2D781",
+    "id": "LOI96-2D781",
     "name": "Nordique Services Montréal Enr.",
     "category": "SERVICES",
     "slug": "nordique-services-montréal-enr",
@@ -1164,7 +1164,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-manufacturier-gatineau-ltee": {
-    "id": "ZY-09860",
+    "id": "LOI96-09860",
     "name": "Élite Manufacturier Gatineau Ltee",
     "category": "SERVICES",
     "slug": "élite-manufacturier-gatineau-ltee",
@@ -1182,7 +1182,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-technologie-trois-rivières-ltee": {
-    "id": "ZY-3ACE1",
+    "id": "LOI96-3ACE1",
     "name": "St-Laurent Technologie Trois-Rivières Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-technologie-trois-rivières-ltee",
@@ -1209,7 +1209,7 @@
     "outreachStatus": "SENT"
   },
   "expert-manufacturier-laval-enr": {
-    "id": "ZY-F2CBD",
+    "id": "LOI96-F2CBD",
     "name": "Expert Manufacturier Laval Enr.",
     "category": "SERVICES",
     "slug": "expert-manufacturier-laval-enr",
@@ -1227,7 +1227,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-construction-longueuil-enr": {
-    "id": "ZY-3C839",
+    "id": "LOI96-3C839",
     "name": "Systèmes Construction Longueuil Enr.",
     "category": "SERVICES",
     "slug": "systèmes-construction-longueuil-enr",
@@ -1247,7 +1247,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-construction-sherbrooke-ltee": {
-    "id": "ZY-15963",
+    "id": "LOI96-15963",
     "name": "St-Laurent Construction Sherbrooke Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-construction-sherbrooke-ltee",
@@ -1275,7 +1275,7 @@
     "outreachStatus": "SENT"
   },
   "élite-restauration-montréal-inc": {
-    "id": "ZY-A6432",
+    "id": "LOI96-A6432",
     "name": "Élite Restauration Montréal Inc.",
     "category": "SERVICES",
     "slug": "élite-restauration-montréal-inc",
@@ -1293,7 +1293,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-technologie-lévis-ltee": {
-    "id": "ZY-E87F8",
+    "id": "LOI96-E87F8",
     "name": "Boréal Technologie Lévis Ltee",
     "category": "SERVICES",
     "slug": "boréal-technologie-lévis-ltee",
@@ -1312,7 +1312,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-technologie-laval-inc": {
-    "id": "ZY-A2BC4",
+    "id": "LOI96-A2BC4",
     "name": "Expert Technologie Laval Inc.",
     "category": "SERVICES",
     "slug": "expert-technologie-laval-inc",
@@ -1331,7 +1331,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-restauration-montréal-inc": {
-    "id": "ZY-D4637",
+    "id": "LOI96-D4637",
     "name": "Solutions Restauration Montréal Inc.",
     "category": "SERVICES",
     "slug": "solutions-restauration-montréal-inc",
@@ -1350,7 +1350,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-restauration-québec-inc": {
-    "id": "ZY-5564B",
+    "id": "LOI96-5564B",
     "name": "St-Laurent Restauration Québec Inc.",
     "category": "SERVICES",
     "slug": "st-laurent-restauration-québec-inc",
@@ -1376,7 +1376,7 @@
     "outreachStatus": "SENT"
   },
   "élite-commerce-longueuil-ltee": {
-    "id": "ZY-2B35B",
+    "id": "LOI96-2B35B",
     "name": "Élite Commerce Longueuil Ltee",
     "category": "SERVICES",
     "slug": "élite-commerce-longueuil-ltee",
@@ -1394,7 +1394,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-restauration-longueuil-enr": {
-    "id": "ZY-3C374",
+    "id": "LOI96-3C374",
     "name": "Solutions Restauration Longueuil Enr.",
     "category": "SERVICES",
     "slug": "solutions-restauration-longueuil-enr",
@@ -1413,7 +1413,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-manufacturier-gatineau-enr": {
-    "id": "ZY-57914",
+    "id": "LOI96-57914",
     "name": "Solutions Manufacturier Gatineau Enr.",
     "category": "SERVICES",
     "slug": "solutions-manufacturier-gatineau-enr",
@@ -1432,7 +1432,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-manufacturier-sherbrooke-inc": {
-    "id": "ZY-524A9",
+    "id": "LOI96-524A9",
     "name": "Expert Manufacturier Sherbrooke Inc.",
     "category": "SERVICES",
     "slug": "expert-manufacturier-sherbrooke-inc",
@@ -1450,7 +1450,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-construction-longueuil-ltee": {
-    "id": "ZY-516E5",
+    "id": "LOI96-516E5",
     "name": "Boréal Construction Longueuil Ltee",
     "category": "SERVICES",
     "slug": "boréal-construction-longueuil-ltee",
@@ -1470,7 +1470,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-services-laval-ltee": {
-    "id": "ZY-C9FF0",
+    "id": "LOI96-C9FF0",
     "name": "St-Laurent Services Laval Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-services-laval-ltee",
@@ -1496,7 +1496,7 @@
     "outreachStatus": "SENT"
   },
   "groupe-restauration-sherbrooke-inc": {
-    "id": "ZY-912CF",
+    "id": "LOI96-912CF",
     "name": "Groupe Restauration Sherbrooke Inc.",
     "category": "SERVICES",
     "slug": "groupe-restauration-sherbrooke-inc",
@@ -1514,7 +1514,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-technologie-trois-rivières-inc": {
-    "id": "ZY-66AFA",
+    "id": "LOI96-66AFA",
     "name": "Groupe Technologie Trois-Rivières Inc.",
     "category": "SERVICES",
     "slug": "groupe-technologie-trois-rivières-inc",
@@ -1541,7 +1541,7 @@
     "outreachStatus": "SENT"
   },
   "expert-technologie-trois-rivières-ltee": {
-    "id": "ZY-AE537",
+    "id": "LOI96-AE537",
     "name": "Expert Technologie Trois-Rivières Ltee",
     "category": "SERVICES",
     "slug": "expert-technologie-trois-rivières-ltee",
@@ -1568,7 +1568,7 @@
     "outreachStatus": "SENT"
   },
   "élite-commerce-laval-inc": {
-    "id": "ZY-808AA",
+    "id": "LOI96-808AA",
     "name": "Élite Commerce Laval Inc.",
     "category": "SERVICES",
     "slug": "élite-commerce-laval-inc",
@@ -1586,7 +1586,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-services-sherbrooke-ltee": {
-    "id": "ZY-80F54",
+    "id": "LOI96-80F54",
     "name": "Élite Services Sherbrooke Ltee",
     "category": "SERVICES",
     "slug": "élite-services-sherbrooke-ltee",
@@ -1614,8 +1614,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:48",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -1623,7 +1623,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-construction-gatineau-ltee": {
-    "id": "ZY-629C6",
+    "id": "LOI96-629C6",
     "name": "Groupe Construction Gatineau Ltee",
     "category": "SERVICES",
     "slug": "groupe-construction-gatineau-ltee",
@@ -1643,7 +1643,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-services-laval-ltee": {
-    "id": "ZY-0973E",
+    "id": "LOI96-0973E",
     "name": "Expert Services Laval Ltee",
     "category": "SERVICES",
     "slug": "expert-services-laval-ltee",
@@ -1661,7 +1661,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-manufacturier-montréal-ltee": {
-    "id": "ZY-FF459",
+    "id": "LOI96-FF459",
     "name": "Systèmes Manufacturier Montréal Ltee",
     "category": "SERVICES",
     "slug": "systèmes-manufacturier-montréal-ltee",
@@ -1679,7 +1679,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-services-laval-enr": {
-    "id": "ZY-128EA",
+    "id": "LOI96-128EA",
     "name": "Solutions Services Laval Enr.",
     "category": "SERVICES",
     "slug": "solutions-services-laval-enr",
@@ -1698,7 +1698,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-services-longueuil-inc": {
-    "id": "ZY-0BA04",
+    "id": "LOI96-0BA04",
     "name": "Expert Services Longueuil Inc.",
     "category": "SERVICES",
     "slug": "expert-services-longueuil-inc",
@@ -1716,7 +1716,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-services-trois-rivières-inc": {
-    "id": "ZY-AB218",
+    "id": "LOI96-AB218",
     "name": "Solutions Services Trois-Rivières Inc.",
     "category": "SERVICES",
     "slug": "solutions-services-trois-rivières-inc",
@@ -1743,7 +1743,7 @@
     "outreachStatus": "SENT"
   },
   "boréal-technologie-gatineau-inc": {
-    "id": "ZY-CA81D",
+    "id": "LOI96-CA81D",
     "name": "Boréal Technologie Gatineau Inc.",
     "category": "SERVICES",
     "slug": "boréal-technologie-gatineau-inc",
@@ -1762,7 +1762,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-restauration-gatineau-ltee": {
-    "id": "ZY-99F1B",
+    "id": "LOI96-99F1B",
     "name": "Solutions Restauration Gatineau Ltee",
     "category": "SERVICES",
     "slug": "solutions-restauration-gatineau-ltee",
@@ -1791,8 +1791,8 @@
         "detail": "Interested in remediation. Please send contract.",
         "reply_sent": {
           "time": "2026-03-11 03:55:48",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -1800,7 +1800,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-technologie-lévis-enr": {
-    "id": "ZY-1FC06",
+    "id": "LOI96-1FC06",
     "name": "Nordique Technologie Lévis Enr.",
     "category": "SERVICES",
     "slug": "nordique-technologie-lévis-enr",
@@ -1819,7 +1819,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-services-lévis-ltee": {
-    "id": "ZY-CAE4C",
+    "id": "LOI96-CAE4C",
     "name": "St-Laurent Services Lévis Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-services-lévis-ltee",
@@ -1845,7 +1845,7 @@
     "outreachStatus": "SENT"
   },
   "élite-technologie-sherbrooke-enr": {
-    "id": "ZY-7D778",
+    "id": "LOI96-7D778",
     "name": "Élite Technologie Sherbrooke Enr.",
     "category": "SERVICES",
     "slug": "élite-technologie-sherbrooke-enr",
@@ -1864,7 +1864,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-restauration-lévis-ltee": {
-    "id": "ZY-8BE55",
+    "id": "LOI96-8BE55",
     "name": "Solutions Restauration Lévis Ltee",
     "category": "SERVICES",
     "slug": "solutions-restauration-lévis-ltee",
@@ -1883,7 +1883,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-construction-sherbrooke-inc": {
-    "id": "ZY-9EDFA",
+    "id": "LOI96-9EDFA",
     "name": "Expert Construction Sherbrooke Inc.",
     "category": "SERVICES",
     "slug": "expert-construction-sherbrooke-inc",
@@ -1903,7 +1903,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-construction-montréal-enr": {
-    "id": "ZY-70DB0",
+    "id": "LOI96-70DB0",
     "name": "Élite Construction Montréal Enr.",
     "category": "SERVICES",
     "slug": "élite-construction-montréal-enr",
@@ -1923,7 +1923,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-manufacturier-québec-inc": {
-    "id": "ZY-DFD85",
+    "id": "LOI96-DFD85",
     "name": "Boréal Manufacturier Québec Inc.",
     "category": "SERVICES",
     "slug": "boréal-manufacturier-québec-inc",
@@ -1941,7 +1941,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-restauration-lévis-inc": {
-    "id": "ZY-BCB5D",
+    "id": "LOI96-BCB5D",
     "name": "Expert Restauration Lévis Inc.",
     "category": "SERVICES",
     "slug": "expert-restauration-lévis-inc",
@@ -1959,7 +1959,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-construction-longueuil-enr": {
-    "id": "ZY-23736",
+    "id": "LOI96-23736",
     "name": "Expert Construction Longueuil Enr.",
     "category": "SERVICES",
     "slug": "expert-construction-longueuil-enr",
@@ -1979,7 +1979,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-commerce-longueuil-inc": {
-    "id": "ZY-676E6",
+    "id": "LOI96-676E6",
     "name": "Élite Commerce Longueuil Inc.",
     "category": "SERVICES",
     "slug": "élite-commerce-longueuil-inc",
@@ -1997,7 +1997,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-commerce-gatineau-enr": {
-    "id": "ZY-9B59D",
+    "id": "LOI96-9B59D",
     "name": "Systèmes Commerce Gatineau Enr.",
     "category": "SERVICES",
     "slug": "systèmes-commerce-gatineau-enr",
@@ -2015,7 +2015,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-restauration-montréal-inc": {
-    "id": "ZY-A4960",
+    "id": "LOI96-A4960",
     "name": "Expert Restauration Montréal Inc.",
     "category": "SERVICES",
     "slug": "expert-restauration-montréal-inc",
@@ -2033,7 +2033,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-restauration-trois-rivières-inc": {
-    "id": "ZY-632DF",
+    "id": "LOI96-632DF",
     "name": "Solutions Restauration Trois-Rivières Inc.",
     "category": "SERVICES",
     "slug": "solutions-restauration-trois-rivières-inc",
@@ -2060,7 +2060,7 @@
     "outreachStatus": "SENT"
   },
   "solutions-commerce-montréal-inc": {
-    "id": "ZY-37D06",
+    "id": "LOI96-37D06",
     "name": "Solutions Commerce Montréal Inc.",
     "category": "SERVICES",
     "slug": "solutions-commerce-montréal-inc",
@@ -2079,7 +2079,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-restauration-québec-ltee": {
-    "id": "ZY-44403",
+    "id": "LOI96-44403",
     "name": "Nordique Restauration Québec Ltee",
     "category": "SERVICES",
     "slug": "nordique-restauration-québec-ltee",
@@ -2097,7 +2097,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-construction-laval-enr": {
-    "id": "ZY-B74C4",
+    "id": "LOI96-B74C4",
     "name": "Élite Construction Laval Enr.",
     "category": "SERVICES",
     "slug": "élite-construction-laval-enr",
@@ -2117,7 +2117,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-restauration-lévis-ltee": {
-    "id": "ZY-831F8",
+    "id": "LOI96-831F8",
     "name": "Expert Restauration Lévis Ltee",
     "category": "SERVICES",
     "slug": "expert-restauration-lévis-ltee",
@@ -2135,7 +2135,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-construction-gatineau-enr": {
-    "id": "ZY-E4A7F",
+    "id": "LOI96-E4A7F",
     "name": "Solutions Construction Gatineau Enr.",
     "category": "SERVICES",
     "slug": "solutions-construction-gatineau-enr",
@@ -2155,7 +2155,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-technologie-trois-rivières-enr": {
-    "id": "ZY-DCF72",
+    "id": "LOI96-DCF72",
     "name": "Groupe Technologie Trois-Rivières Enr.",
     "category": "SERVICES",
     "slug": "groupe-technologie-trois-rivières-enr",
@@ -2182,7 +2182,7 @@
     "outreachStatus": "SENT"
   },
   "élite-services-laval-inc": {
-    "id": "ZY-914D6",
+    "id": "LOI96-914D6",
     "name": "Élite Services Laval Inc.",
     "category": "SERVICES",
     "slug": "élite-services-laval-inc",
@@ -2200,7 +2200,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-restauration-montréal-inc": {
-    "id": "ZY-3556F",
+    "id": "LOI96-3556F",
     "name": "Boréal Restauration Montréal Inc.",
     "category": "SERVICES",
     "slug": "boréal-restauration-montréal-inc",
@@ -2218,7 +2218,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-technologie-trois-rivières-ltee": {
-    "id": "ZY-AD918",
+    "id": "LOI96-AD918",
     "name": "Groupe Technologie Trois-Rivières Ltee",
     "category": "SERVICES",
     "slug": "groupe-technologie-trois-rivières-ltee",
@@ -2245,7 +2245,7 @@
     "outreachStatus": "SENT"
   },
   "systèmes-services-montréal-ltee": {
-    "id": "ZY-2216B",
+    "id": "LOI96-2216B",
     "name": "Systèmes Services Montréal Ltee",
     "category": "SERVICES",
     "slug": "systèmes-services-montréal-ltee",
@@ -2263,7 +2263,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-technologie-longueuil-inc": {
-    "id": "ZY-D3209",
+    "id": "LOI96-D3209",
     "name": "Nordique Technologie Longueuil Inc.",
     "category": "SERVICES",
     "slug": "nordique-technologie-longueuil-inc",
@@ -2282,7 +2282,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-technologie-longueuil-enr": {
-    "id": "ZY-D2F48",
+    "id": "LOI96-D2F48",
     "name": "Systèmes Technologie Longueuil Enr.",
     "category": "SERVICES",
     "slug": "systèmes-technologie-longueuil-enr",
@@ -2301,7 +2301,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-technologie-québec-inc": {
-    "id": "ZY-386EE",
+    "id": "LOI96-386EE",
     "name": "Expert Technologie Québec Inc.",
     "category": "SERVICES",
     "slug": "expert-technologie-québec-inc",
@@ -2320,7 +2320,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-restauration-laval-inc": {
-    "id": "ZY-1A8D2",
+    "id": "LOI96-1A8D2",
     "name": "Nordique Restauration Laval Inc.",
     "category": "SERVICES",
     "slug": "nordique-restauration-laval-inc",
@@ -2338,7 +2338,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-manufacturier-trois-rivières-ltee": {
-    "id": "ZY-0274A",
+    "id": "LOI96-0274A",
     "name": "Expert Manufacturier Trois-Rivières Ltee",
     "category": "SERVICES",
     "slug": "expert-manufacturier-trois-rivières-ltee",
@@ -2364,7 +2364,7 @@
     "outreachStatus": "SENT"
   },
   "boréal-commerce-lévis-ltee": {
-    "id": "ZY-6AAA5",
+    "id": "LOI96-6AAA5",
     "name": "Boréal Commerce Lévis Ltee",
     "category": "SERVICES",
     "slug": "boréal-commerce-lévis-ltee",
@@ -2382,7 +2382,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-construction-gatineau-enr": {
-    "id": "ZY-6018C",
+    "id": "LOI96-6018C",
     "name": "Systèmes Construction Gatineau Enr.",
     "category": "SERVICES",
     "slug": "systèmes-construction-gatineau-enr",
@@ -2402,7 +2402,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-construction-longueuil-ltee": {
-    "id": "ZY-30084",
+    "id": "LOI96-30084",
     "name": "Solutions Construction Longueuil Ltee",
     "category": "SERVICES",
     "slug": "solutions-construction-longueuil-ltee",
@@ -2422,7 +2422,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-services-laval-enr": {
-    "id": "ZY-60C5A",
+    "id": "LOI96-60C5A",
     "name": "Nordique Services Laval Enr.",
     "category": "SERVICES",
     "slug": "nordique-services-laval-enr",
@@ -2440,7 +2440,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-manufacturier-gatineau-inc": {
-    "id": "ZY-59558",
+    "id": "LOI96-59558",
     "name": "Groupe Manufacturier Gatineau Inc.",
     "category": "SERVICES",
     "slug": "groupe-manufacturier-gatineau-inc",
@@ -2458,7 +2458,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-services-québec-inc": {
-    "id": "ZY-B353E",
+    "id": "LOI96-B353E",
     "name": "St-Laurent Services Québec Inc.",
     "category": "SERVICES",
     "slug": "st-laurent-services-québec-inc",
@@ -2484,7 +2484,7 @@
     "outreachStatus": "SENT"
   },
   "nordique-manufacturier-québec-enr": {
-    "id": "ZY-2F1CC",
+    "id": "LOI96-2F1CC",
     "name": "Nordique Manufacturier Québec Enr.",
     "category": "SERVICES",
     "slug": "nordique-manufacturier-québec-enr",
@@ -2502,7 +2502,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-restauration-sherbrooke-enr": {
-    "id": "ZY-37CEA",
+    "id": "LOI96-37CEA",
     "name": "Systèmes Restauration Sherbrooke Enr.",
     "category": "SERVICES",
     "slug": "systèmes-restauration-sherbrooke-enr",
@@ -2520,7 +2520,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-commerce-montréal-inc": {
-    "id": "ZY-BE9DA",
+    "id": "LOI96-BE9DA",
     "name": "Expert Commerce Montréal Inc.",
     "category": "SERVICES",
     "slug": "expert-commerce-montréal-inc",
@@ -2538,7 +2538,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-construction-montréal-ltee": {
-    "id": "ZY-F853F",
+    "id": "LOI96-F853F",
     "name": "Expert Construction Montréal Ltee",
     "category": "SERVICES",
     "slug": "expert-construction-montréal-ltee",
@@ -2558,7 +2558,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-services-trois-rivières-inc": {
-    "id": "ZY-83C92",
+    "id": "LOI96-83C92",
     "name": "Nordique Services Trois-Rivières Inc.",
     "category": "SERVICES",
     "slug": "nordique-services-trois-rivières-inc",
@@ -2584,7 +2584,7 @@
     "outreachStatus": "SENT"
   },
   "st-laurent-commerce-laval-ltee": {
-    "id": "ZY-C5E45",
+    "id": "LOI96-C5E45",
     "name": "St-Laurent Commerce Laval Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-commerce-laval-ltee",
@@ -2610,7 +2610,7 @@
     "outreachStatus": "SENT"
   },
   "boréal-commerce-trois-rivières-enr": {
-    "id": "ZY-9C26B",
+    "id": "LOI96-9C26B",
     "name": "Boréal Commerce Trois-Rivières Enr.",
     "category": "SERVICES",
     "slug": "boréal-commerce-trois-rivières-enr",
@@ -2636,7 +2636,7 @@
     "outreachStatus": "SENT"
   },
   "systèmes-construction-laval-enr": {
-    "id": "ZY-8E6D2",
+    "id": "LOI96-8E6D2",
     "name": "Systèmes Construction Laval Enr.",
     "category": "SERVICES",
     "slug": "systèmes-construction-laval-enr",
@@ -2664,7 +2664,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-technologie-québec-enr": {
-    "id": "ZY-D7CD1",
+    "id": "LOI96-D7CD1",
     "name": "Boréal Technologie Québec Enr.",
     "category": "SERVICES",
     "slug": "boréal-technologie-québec-enr",
@@ -2683,7 +2683,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-restauration-sherbrooke-ltee": {
-    "id": "ZY-9A03F",
+    "id": "LOI96-9A03F",
     "name": "Solutions Restauration Sherbrooke Ltee",
     "category": "SERVICES",
     "slug": "solutions-restauration-sherbrooke-ltee",
@@ -2702,7 +2702,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-services-lévis-inc": {
-    "id": "ZY-CE8F2",
+    "id": "LOI96-CE8F2",
     "name": "Groupe Services Lévis Inc.",
     "category": "SERVICES",
     "slug": "groupe-services-lévis-inc",
@@ -2720,7 +2720,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-technologie-montréal-inc": {
-    "id": "ZY-009BC",
+    "id": "LOI96-009BC",
     "name": "Systèmes Technologie Montréal Inc.",
     "category": "SERVICES",
     "slug": "systèmes-technologie-montréal-inc",
@@ -2739,7 +2739,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-commerce-lévis-enr": {
-    "id": "ZY-B9F98",
+    "id": "LOI96-B9F98",
     "name": "Expert Commerce Lévis Enr.",
     "category": "SERVICES",
     "slug": "expert-commerce-lévis-enr",
@@ -2757,7 +2757,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-commerce-trois-rivières-inc": {
-    "id": "ZY-3CBDC",
+    "id": "LOI96-3CBDC",
     "name": "Élite Commerce Trois-Rivières Inc.",
     "category": "SERVICES",
     "slug": "élite-commerce-trois-rivières-inc",
@@ -2783,7 +2783,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-services-québec-inc": {
-    "id": "ZY-143BF",
+    "id": "LOI96-143BF",
     "name": "Systèmes Services Québec Inc.",
     "category": "SERVICES",
     "slug": "systèmes-services-québec-inc",
@@ -2801,7 +2801,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-services-québec-inc": {
-    "id": "ZY-D34F7",
+    "id": "LOI96-D34F7",
     "name": "Expert Services Québec Inc.",
     "category": "SERVICES",
     "slug": "expert-services-québec-inc",
@@ -2819,7 +2819,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-manufacturier-montréal-inc": {
-    "id": "ZY-86041",
+    "id": "LOI96-86041",
     "name": "Boréal Manufacturier Montréal Inc.",
     "category": "SERVICES",
     "slug": "boréal-manufacturier-montréal-inc",
@@ -2837,7 +2837,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-restauration-laval-inc": {
-    "id": "ZY-02D59",
+    "id": "LOI96-02D59",
     "name": "Expert Restauration Laval Inc.",
     "category": "SERVICES",
     "slug": "expert-restauration-laval-inc",
@@ -2855,7 +2855,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-services-québec-inc": {
-    "id": "ZY-77BAC",
+    "id": "LOI96-77BAC",
     "name": "Élite Services Québec Inc.",
     "category": "SERVICES",
     "slug": "élite-services-québec-inc",
@@ -2873,7 +2873,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-technologie-montréal-ltee": {
-    "id": "ZY-2CE0D",
+    "id": "LOI96-2CE0D",
     "name": "St-Laurent Technologie Montréal Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-technologie-montréal-ltee",
@@ -2900,7 +2900,7 @@
     "outreachStatus": "SENT"
   },
   "solutions-services-montréal-inc": {
-    "id": "ZY-BD6E8",
+    "id": "LOI96-BD6E8",
     "name": "Solutions Services Montréal Inc.",
     "category": "SERVICES",
     "slug": "solutions-services-montréal-inc",
@@ -2919,7 +2919,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-restauration-sherbrooke-ltee": {
-    "id": "ZY-E9F18",
+    "id": "LOI96-E9F18",
     "name": "St-Laurent Restauration Sherbrooke Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-restauration-sherbrooke-ltee",
@@ -2945,7 +2945,7 @@
     "outreachStatus": "SENT"
   },
   "groupe-services-québec-inc": {
-    "id": "ZY-DD8F4",
+    "id": "LOI96-DD8F4",
     "name": "Groupe Services Québec Inc.",
     "category": "SERVICES",
     "slug": "groupe-services-québec-inc",
@@ -2963,7 +2963,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-manufacturier-laval-enr": {
-    "id": "ZY-B0D69",
+    "id": "LOI96-B0D69",
     "name": "Systèmes Manufacturier Laval Enr.",
     "category": "SERVICES",
     "slug": "systèmes-manufacturier-laval-enr",
@@ -2981,7 +2981,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-restauration-laval-inc": {
-    "id": "ZY-D42E6",
+    "id": "LOI96-D42E6",
     "name": "Solutions Restauration Laval Inc.",
     "category": "SERVICES",
     "slug": "solutions-restauration-laval-inc",
@@ -3000,7 +3000,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-technologie-montréal-inc": {
-    "id": "ZY-1A0D6",
+    "id": "LOI96-1A0D6",
     "name": "Élite Technologie Montréal Inc.",
     "category": "SERVICES",
     "slug": "élite-technologie-montréal-inc",
@@ -3019,7 +3019,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-commerce-trois-rivières-enr": {
-    "id": "ZY-B23EC",
+    "id": "LOI96-B23EC",
     "name": "Nordique Commerce Trois-Rivières Enr.",
     "category": "SERVICES",
     "slug": "nordique-commerce-trois-rivières-enr",
@@ -3045,7 +3045,7 @@
     "outreachStatus": "SENT"
   },
   "boréal-technologie-sherbrooke-inc": {
-    "id": "ZY-4C8BB",
+    "id": "LOI96-4C8BB",
     "name": "Boréal Technologie Sherbrooke Inc.",
     "category": "SERVICES",
     "slug": "boréal-technologie-sherbrooke-inc",
@@ -3064,7 +3064,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-restauration-sherbrooke-inc": {
-    "id": "ZY-1B60C",
+    "id": "LOI96-1B60C",
     "name": "Solutions Restauration Sherbrooke Inc.",
     "category": "SERVICES",
     "slug": "solutions-restauration-sherbrooke-inc",
@@ -3083,7 +3083,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-restauration-sherbrooke-inc": {
-    "id": "ZY-EFFBB",
+    "id": "LOI96-EFFBB",
     "name": "Boréal Restauration Sherbrooke Inc.",
     "category": "SERVICES",
     "slug": "boréal-restauration-sherbrooke-inc",
@@ -3101,7 +3101,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-commerce-québec-enr": {
-    "id": "ZY-4AAA2",
+    "id": "LOI96-4AAA2",
     "name": "Expert Commerce Québec Enr.",
     "category": "SERVICES",
     "slug": "expert-commerce-québec-enr",
@@ -3119,7 +3119,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-manufacturier-montréal-enr": {
-    "id": "ZY-5065F",
+    "id": "LOI96-5065F",
     "name": "Nordique Manufacturier Montréal Enr.",
     "category": "SERVICES",
     "slug": "nordique-manufacturier-montréal-enr",
@@ -3137,7 +3137,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-commerce-gatineau-enr": {
-    "id": "ZY-1BDCD",
+    "id": "LOI96-1BDCD",
     "name": "Solutions Commerce Gatineau Enr.",
     "category": "SERVICES",
     "slug": "solutions-commerce-gatineau-enr",
@@ -3156,7 +3156,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-restauration-longueuil-ltee": {
-    "id": "ZY-16D8C",
+    "id": "LOI96-16D8C",
     "name": "St-Laurent Restauration Longueuil Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-restauration-longueuil-ltee",
@@ -3182,7 +3182,7 @@
     "outreachStatus": "SENT"
   },
   "boréal-technologie-laval-inc": {
-    "id": "ZY-88172",
+    "id": "LOI96-88172",
     "name": "Boréal Technologie Laval Inc.",
     "category": "SERVICES",
     "slug": "boréal-technologie-laval-inc",
@@ -3201,7 +3201,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-commerce-longueuil-inc": {
-    "id": "ZY-8B936",
+    "id": "LOI96-8B936",
     "name": "Nordique Commerce Longueuil Inc.",
     "category": "SERVICES",
     "slug": "nordique-commerce-longueuil-inc",
@@ -3219,7 +3219,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-technologie-longueuil-inc": {
-    "id": "ZY-41D54",
+    "id": "LOI96-41D54",
     "name": "St-Laurent Technologie Longueuil Inc.",
     "category": "SERVICES",
     "slug": "st-laurent-technologie-longueuil-inc",
@@ -3246,7 +3246,7 @@
     "outreachStatus": "SENT"
   },
   "solutions-technologie-sherbrooke-ltee": {
-    "id": "ZY-6630D",
+    "id": "LOI96-6630D",
     "name": "Solutions Technologie Sherbrooke Ltee",
     "category": "SERVICES",
     "slug": "solutions-technologie-sherbrooke-ltee",
@@ -3265,7 +3265,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-manufacturier-sherbrooke-ltee": {
-    "id": "ZY-6BCD1",
+    "id": "LOI96-6BCD1",
     "name": "Systèmes Manufacturier Sherbrooke Ltee",
     "category": "SERVICES",
     "slug": "systèmes-manufacturier-sherbrooke-ltee",
@@ -3283,7 +3283,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-manufacturier-longueuil-inc": {
-    "id": "ZY-90F9B",
+    "id": "LOI96-90F9B",
     "name": "Groupe Manufacturier Longueuil Inc.",
     "category": "SERVICES",
     "slug": "groupe-manufacturier-longueuil-inc",
@@ -3309,7 +3309,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-technologie-longueuil-enr": {
-    "id": "ZY-7D5D5",
+    "id": "LOI96-7D5D5",
     "name": "Groupe Technologie Longueuil Enr.",
     "category": "SERVICES",
     "slug": "groupe-technologie-longueuil-enr",
@@ -3328,7 +3328,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-services-trois-rivières-ltee": {
-    "id": "ZY-BD984",
+    "id": "LOI96-BD984",
     "name": "Boréal Services Trois-Rivières Ltee",
     "category": "SERVICES",
     "slug": "boréal-services-trois-rivières-ltee",
@@ -3354,7 +3354,7 @@
     "outreachStatus": "SENT"
   },
   "nordique-services-gatineau-ltee": {
-    "id": "ZY-2AB3D",
+    "id": "LOI96-2AB3D",
     "name": "Nordique Services Gatineau Ltee",
     "category": "SERVICES",
     "slug": "nordique-services-gatineau-ltee",
@@ -3372,7 +3372,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-manufacturier-lévis-ltee": {
-    "id": "ZY-AF1E8",
+    "id": "LOI96-AF1E8",
     "name": "Expert Manufacturier Lévis Ltee",
     "category": "SERVICES",
     "slug": "expert-manufacturier-lévis-ltee",
@@ -3390,7 +3390,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-construction-montréal-ltee": {
-    "id": "ZY-0A3A4",
+    "id": "LOI96-0A3A4",
     "name": "Boréal Construction Montréal Ltee",
     "category": "SERVICES",
     "slug": "boréal-construction-montréal-ltee",
@@ -3410,7 +3410,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-construction-sherbrooke-inc": {
-    "id": "ZY-D2CC5",
+    "id": "LOI96-D2CC5",
     "name": "Groupe Construction Sherbrooke Inc.",
     "category": "SERVICES",
     "slug": "groupe-construction-sherbrooke-inc",
@@ -3430,7 +3430,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-commerce-trois-rivières-enr": {
-    "id": "ZY-6FDAB",
+    "id": "LOI96-6FDAB",
     "name": "Expert Commerce Trois-Rivières Enr.",
     "category": "SERVICES",
     "slug": "expert-commerce-trois-rivières-enr",
@@ -3456,7 +3456,7 @@
     "outreachStatus": "SENT"
   },
   "systèmes-services-trois-rivières-inc": {
-    "id": "ZY-F9C27",
+    "id": "LOI96-F9C27",
     "name": "Systèmes Services Trois-Rivières Inc.",
     "category": "SERVICES",
     "slug": "systèmes-services-trois-rivières-inc",
@@ -3482,7 +3482,7 @@
     "outreachStatus": "SENT"
   },
   "systèmes-technologie-trois-rivières-ltee": {
-    "id": "ZY-88186",
+    "id": "LOI96-88186",
     "name": "Systèmes Technologie Trois-Rivières Ltee",
     "category": "SERVICES",
     "slug": "systèmes-technologie-trois-rivières-ltee",
@@ -3509,7 +3509,7 @@
     "outreachStatus": "SENT"
   },
   "boréal-manufacturier-montréal-ltee": {
-    "id": "ZY-9B586",
+    "id": "LOI96-9B586",
     "name": "Boréal Manufacturier Montréal Ltee",
     "category": "SERVICES",
     "slug": "boréal-manufacturier-montréal-ltee",
@@ -3527,7 +3527,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-commerce-québec-enr": {
-    "id": "ZY-1FE34",
+    "id": "LOI96-1FE34",
     "name": "Systèmes Commerce Québec Enr.",
     "category": "SERVICES",
     "slug": "systèmes-commerce-québec-enr",
@@ -3545,7 +3545,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-construction-laval-ltee": {
-    "id": "ZY-37747",
+    "id": "LOI96-37747",
     "name": "Groupe Construction Laval Ltee",
     "category": "SERVICES",
     "slug": "groupe-construction-laval-ltee",
@@ -3565,7 +3565,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-manufacturier-longueuil-inc": {
-    "id": "ZY-55967",
+    "id": "LOI96-55967",
     "name": "Expert Manufacturier Longueuil Inc.",
     "category": "SERVICES",
     "slug": "expert-manufacturier-longueuil-inc",
@@ -3583,7 +3583,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-restauration-longueuil-enr": {
-    "id": "ZY-6F842",
+    "id": "LOI96-6F842",
     "name": "St-Laurent Restauration Longueuil Enr.",
     "category": "SERVICES",
     "slug": "st-laurent-restauration-longueuil-enr",
@@ -3609,7 +3609,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-commerce-gatineau-inc": {
-    "id": "ZY-AAA30",
+    "id": "LOI96-AAA30",
     "name": "Expert Commerce Gatineau Inc.",
     "category": "SERVICES",
     "slug": "expert-commerce-gatineau-inc",
@@ -3627,7 +3627,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-services-montréal-enr": {
-    "id": "ZY-AC89A",
+    "id": "LOI96-AC89A",
     "name": "Expert Services Montréal Enr.",
     "category": "SERVICES",
     "slug": "expert-services-montréal-enr",
@@ -3645,7 +3645,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-manufacturier-québec-inc": {
-    "id": "ZY-915D0",
+    "id": "LOI96-915D0",
     "name": "St-Laurent Manufacturier Québec Inc.",
     "category": "SERVICES",
     "slug": "st-laurent-manufacturier-québec-inc",
@@ -3671,7 +3671,7 @@
     "outreachStatus": "SENT"
   },
   "st-laurent-commerce-québec-ltee": {
-    "id": "ZY-E82F6",
+    "id": "LOI96-E82F6",
     "name": "St-Laurent Commerce Québec Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-commerce-québec-ltee",
@@ -3697,7 +3697,7 @@
     "outreachStatus": "SENT"
   },
   "systèmes-commerce-montréal-ltee": {
-    "id": "ZY-CC84E",
+    "id": "LOI96-CC84E",
     "name": "Systèmes Commerce Montréal Ltee",
     "category": "SERVICES",
     "slug": "systèmes-commerce-montréal-ltee",
@@ -3715,7 +3715,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-technologie-montréal-enr": {
-    "id": "ZY-8DBED",
+    "id": "LOI96-8DBED",
     "name": "St-Laurent Technologie Montréal Enr.",
     "category": "SERVICES",
     "slug": "st-laurent-technologie-montréal-enr",
@@ -3742,7 +3742,7 @@
     "outreachStatus": "SENT"
   },
   "st-laurent-restauration-trois-rivières-inc": {
-    "id": "ZY-42CAB",
+    "id": "LOI96-42CAB",
     "name": "St-Laurent Restauration Trois-Rivières Inc.",
     "category": "SERVICES",
     "slug": "st-laurent-restauration-trois-rivières-inc",
@@ -3755,10 +3755,20 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-restauration-troisrivières-inc.ca"
+    "domain": "stlaurent-restauration-troisrivières-inc.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:22:23.300599",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "solutions-construction-longueuil-enr": {
-    "id": "ZY-73D91",
+    "id": "LOI96-73D91",
     "name": "Solutions Construction Longueuil Enr.",
     "category": "SERVICES",
     "slug": "solutions-construction-longueuil-enr",
@@ -3778,7 +3788,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-manufacturier-québec-ltee": {
-    "id": "ZY-C3FE9",
+    "id": "LOI96-C3FE9",
     "name": "Nordique Manufacturier Québec Ltee",
     "category": "SERVICES",
     "slug": "nordique-manufacturier-québec-ltee",
@@ -3796,7 +3806,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-services-sherbrooke-enr": {
-    "id": "ZY-8E2E2",
+    "id": "LOI96-8E2E2",
     "name": "Systèmes Services Sherbrooke Enr.",
     "category": "SERVICES",
     "slug": "systèmes-services-sherbrooke-enr",
@@ -3814,7 +3824,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-restauration-lévis-enr": {
-    "id": "ZY-5C4A4",
+    "id": "LOI96-5C4A4",
     "name": "Solutions Restauration Lévis Enr.",
     "category": "SERVICES",
     "slug": "solutions-restauration-lévis-enr",
@@ -3843,8 +3853,8 @@
         "detail": "Interested in remediation. Please send contract.",
         "reply_sent": {
           "time": "2026-03-11 03:55:48",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -3852,7 +3862,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-technologie-gatineau-inc": {
-    "id": "ZY-D5846",
+    "id": "LOI96-D5846",
     "name": "Expert Technologie Gatineau Inc.",
     "category": "SERVICES",
     "slug": "expert-technologie-gatineau-inc",
@@ -3871,7 +3881,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-construction-sherbrooke-inc": {
-    "id": "ZY-619B3",
+    "id": "LOI96-619B3",
     "name": "Systèmes Construction Sherbrooke Inc.",
     "category": "SERVICES",
     "slug": "systèmes-construction-sherbrooke-inc",
@@ -3891,7 +3901,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-technologie-sherbrooke-enr": {
-    "id": "ZY-3BE16",
+    "id": "LOI96-3BE16",
     "name": "Boréal Technologie Sherbrooke Enr.",
     "category": "SERVICES",
     "slug": "boréal-technologie-sherbrooke-enr",
@@ -3918,7 +3928,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-commerce-longueuil-inc": {
-    "id": "ZY-8FD35",
+    "id": "LOI96-8FD35",
     "name": "Systèmes Commerce Longueuil Inc.",
     "category": "SERVICES",
     "slug": "systèmes-commerce-longueuil-inc",
@@ -3936,7 +3946,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-manufacturier-gatineau-inc": {
-    "id": "ZY-B5B73",
+    "id": "LOI96-B5B73",
     "name": "Expert Manufacturier Gatineau Inc.",
     "category": "SERVICES",
     "slug": "expert-manufacturier-gatineau-inc",
@@ -3954,7 +3964,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-construction-laval-enr": {
-    "id": "ZY-E6042",
+    "id": "LOI96-E6042",
     "name": "Nordique Construction Laval Enr.",
     "category": "SERVICES",
     "slug": "nordique-construction-laval-enr",
@@ -3974,7 +3984,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-manufacturier-longueuil-ltee": {
-    "id": "ZY-1DA1D",
+    "id": "LOI96-1DA1D",
     "name": "Expert Manufacturier Longueuil Ltee",
     "category": "SERVICES",
     "slug": "expert-manufacturier-longueuil-ltee",
@@ -3992,7 +4002,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-services-gatineau-enr": {
-    "id": "ZY-7416A",
+    "id": "LOI96-7416A",
     "name": "Élite Services Gatineau Enr.",
     "category": "SERVICES",
     "slug": "élite-services-gatineau-enr",
@@ -4010,7 +4020,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-services-gatineau-enr": {
-    "id": "ZY-DF660",
+    "id": "LOI96-DF660",
     "name": "Expert Services Gatineau Enr.",
     "category": "SERVICES",
     "slug": "expert-services-gatineau-enr",
@@ -4028,7 +4038,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-services-lévis-inc": {
-    "id": "ZY-84F3C",
+    "id": "LOI96-84F3C",
     "name": "Systèmes Services Lévis Inc.",
     "category": "SERVICES",
     "slug": "systèmes-services-lévis-inc",
@@ -4046,7 +4056,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-restauration-longueuil-ltee": {
-    "id": "ZY-C31EE",
+    "id": "LOI96-C31EE",
     "name": "Groupe Restauration Longueuil Ltee",
     "category": "SERVICES",
     "slug": "groupe-restauration-longueuil-ltee",
@@ -4064,7 +4074,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-restauration-laval-ltee": {
-    "id": "ZY-20651",
+    "id": "LOI96-20651",
     "name": "Boréal Restauration Laval Ltee",
     "category": "SERVICES",
     "slug": "boréal-restauration-laval-ltee",
@@ -4082,7 +4092,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-technologie-laval-ltee": {
-    "id": "ZY-F62BE",
+    "id": "LOI96-F62BE",
     "name": "Élite Technologie Laval Ltee",
     "category": "SERVICES",
     "slug": "élite-technologie-laval-ltee",
@@ -4101,7 +4111,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-manufacturier-trois-rivières-inc": {
-    "id": "ZY-D9DE5",
+    "id": "LOI96-D9DE5",
     "name": "Élite Manufacturier Trois-Rivières Inc.",
     "category": "SERVICES",
     "slug": "élite-manufacturier-trois-rivières-inc",
@@ -4115,11 +4125,19 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "élite-manufacturier-troisrivières-inc.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:22:25.346617",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "expert-services-laval-enr": {
-    "id": "ZY-304AB",
+    "id": "LOI96-304AB",
     "name": "Expert Services Laval Enr.",
     "category": "SERVICES",
     "slug": "expert-services-laval-enr",
@@ -4145,7 +4163,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-restauration-trois-rivières-ltee": {
-    "id": "ZY-784F7",
+    "id": "LOI96-784F7",
     "name": "St-Laurent Restauration Trois-Rivières Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-restauration-trois-rivières-ltee",
@@ -4159,11 +4177,19 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "stlaurent-restauration-troisrivières-ltee.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:22:27.375812",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "groupe-restauration-longueuil-inc": {
-    "id": "ZY-938D0",
+    "id": "LOI96-938D0",
     "name": "Groupe Restauration Longueuil Inc.",
     "category": "SERVICES",
     "slug": "groupe-restauration-longueuil-inc",
@@ -4189,7 +4215,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-construction-gatineau-ltee": {
-    "id": "ZY-8E97D",
+    "id": "LOI96-8E97D",
     "name": "Systèmes Construction Gatineau Ltee",
     "category": "SERVICES",
     "slug": "systèmes-construction-gatineau-ltee",
@@ -4219,8 +4245,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:48",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4228,7 +4254,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-services-montréal-ltee": {
-    "id": "ZY-0806C",
+    "id": "LOI96-0806C",
     "name": "Nordique Services Montréal Ltee",
     "category": "SERVICES",
     "slug": "nordique-services-montréal-ltee",
@@ -4256,8 +4282,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4265,7 +4291,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-restauration-sherbrooke-enr": {
-    "id": "ZY-EE7DB",
+    "id": "LOI96-EE7DB",
     "name": "Élite Restauration Sherbrooke Enr.",
     "category": "SERVICES",
     "slug": "élite-restauration-sherbrooke-enr",
@@ -4293,8 +4319,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4302,7 +4328,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-manufacturier-montréal-enr": {
-    "id": "ZY-688AA",
+    "id": "LOI96-688AA",
     "name": "Élite Manufacturier Montréal Enr.",
     "category": "SERVICES",
     "slug": "élite-manufacturier-montréal-enr",
@@ -4330,8 +4356,8 @@
         "detail": "Interested in remediation. Please send contract.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4339,7 +4365,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-manufacturier-laval-ltee": {
-    "id": "ZY-4F677",
+    "id": "LOI96-4F677",
     "name": "Expert Manufacturier Laval Ltee",
     "category": "SERVICES",
     "slug": "expert-manufacturier-laval-ltee",
@@ -4367,8 +4393,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4376,7 +4402,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-technologie-sherbrooke-inc": {
-    "id": "ZY-1BF30",
+    "id": "LOI96-1BF30",
     "name": "Élite Technologie Sherbrooke Inc.",
     "category": "SERVICES",
     "slug": "élite-technologie-sherbrooke-inc",
@@ -4405,8 +4431,8 @@
         "detail": "Interested in remediation. Please send contract.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4414,7 +4440,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-construction-québec-inc": {
-    "id": "ZY-23576",
+    "id": "LOI96-23576",
     "name": "Expert Construction Québec Inc.",
     "category": "SERVICES",
     "slug": "expert-construction-québec-inc",
@@ -4444,8 +4470,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4453,7 +4479,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-restauration-québec-ltee": {
-    "id": "ZY-600CA",
+    "id": "LOI96-600CA",
     "name": "Solutions Restauration Québec Ltee",
     "category": "SERVICES",
     "slug": "solutions-restauration-québec-ltee",
@@ -4482,8 +4508,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4491,7 +4517,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-restauration-longueuil-inc": {
-    "id": "ZY-1B256",
+    "id": "LOI96-1B256",
     "name": "Solutions Restauration Longueuil Inc.",
     "category": "SERVICES",
     "slug": "solutions-restauration-longueuil-inc",
@@ -4520,8 +4546,8 @@
         "detail": "Interested in remediation. Please send contract.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4529,7 +4555,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-manufacturier-gatineau-ltee": {
-    "id": "ZY-47ECD",
+    "id": "LOI96-47ECD",
     "name": "Boréal Manufacturier Gatineau Ltee",
     "category": "SERVICES",
     "slug": "boréal-manufacturier-gatineau-ltee",
@@ -4555,7 +4581,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-services-gatineau-inc": {
-    "id": "ZY-790E1",
+    "id": "LOI96-790E1",
     "name": "Élite Services Gatineau Inc.",
     "category": "SERVICES",
     "slug": "élite-services-gatineau-inc",
@@ -4581,7 +4607,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-commerce-lévis-inc": {
-    "id": "ZY-C4D4B",
+    "id": "LOI96-C4D4B",
     "name": "Expert Commerce Lévis Inc.",
     "category": "SERVICES",
     "slug": "expert-commerce-lévis-inc",
@@ -4609,8 +4635,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4618,7 +4644,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-construction-lévis-inc": {
-    "id": "ZY-03652",
+    "id": "LOI96-03652",
     "name": "Systèmes Construction Lévis Inc.",
     "category": "SERVICES",
     "slug": "systèmes-construction-lévis-inc",
@@ -4648,8 +4674,8 @@
         "detail": "Interested in remediation. Please send contract.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4657,7 +4683,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-manufacturier-montréal-ltee": {
-    "id": "ZY-2112B",
+    "id": "LOI96-2112B",
     "name": "Solutions Manufacturier Montréal Ltee",
     "category": "SERVICES",
     "slug": "solutions-manufacturier-montréal-ltee",
@@ -4686,8 +4712,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4695,7 +4721,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-services-longueuil-enr": {
-    "id": "ZY-09D8B",
+    "id": "LOI96-09D8B",
     "name": "Boréal Services Longueuil Enr.",
     "category": "SERVICES",
     "slug": "boréal-services-longueuil-enr",
@@ -4723,8 +4749,8 @@
         "detail": "Interested in remediation. Please send contract.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4732,7 +4758,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-manufacturier-montréal-enr": {
-    "id": "ZY-C6171",
+    "id": "LOI96-C6171",
     "name": "Systèmes Manufacturier Montréal Enr.",
     "category": "SERVICES",
     "slug": "systèmes-manufacturier-montréal-enr",
@@ -4760,8 +4786,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4769,7 +4795,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-construction-longueuil-enr": {
-    "id": "ZY-5B4DB",
+    "id": "LOI96-5B4DB",
     "name": "St-Laurent Construction Longueuil Enr.",
     "category": "SERVICES",
     "slug": "st-laurent-construction-longueuil-enr",
@@ -4785,11 +4811,19 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "stlaurent-construction-longueuil-enr.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:22:29.402138",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "solutions-construction-lévis-ltee": {
-    "id": "ZY-90EB6",
+    "id": "LOI96-90EB6",
     "name": "Solutions Construction Lévis Ltee",
     "category": "SERVICES",
     "slug": "solutions-construction-lévis-ltee",
@@ -4817,7 +4851,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-technologie-laval-inc": {
-    "id": "ZY-16A0A",
+    "id": "LOI96-16A0A",
     "name": "Solutions Technologie Laval Inc.",
     "category": "SERVICES",
     "slug": "solutions-technologie-laval-inc",
@@ -4846,8 +4880,8 @@
         "detail": "Interested in remediation. Please send contract.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4855,7 +4889,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-construction-lévis-enr": {
-    "id": "ZY-41C02",
+    "id": "LOI96-41C02",
     "name": "Boréal Construction Lévis Enr.",
     "category": "SERVICES",
     "slug": "boréal-construction-lévis-enr",
@@ -4885,8 +4919,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4894,7 +4928,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-services-trois-rivières-ltee": {
-    "id": "ZY-BF956",
+    "id": "LOI96-BF956",
     "name": "Groupe Services Trois-Rivières Ltee",
     "category": "SERVICES",
     "slug": "groupe-services-trois-rivières-ltee",
@@ -4908,11 +4942,19 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "groupe-services-troisrivières-ltee.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:22:31.428924",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "nordique-construction-sherbrooke-inc": {
-    "id": "ZY-6790F",
+    "id": "LOI96-6790F",
     "name": "Nordique Construction Sherbrooke Inc.",
     "category": "SERVICES",
     "slug": "nordique-construction-sherbrooke-inc",
@@ -4942,8 +4984,8 @@
         "detail": "Interested in remediation. Please send contract.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -4951,7 +4993,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-commerce-laval-inc": {
-    "id": "ZY-1A777",
+    "id": "LOI96-1A777",
     "name": "Groupe Commerce Laval Inc.",
     "category": "SERVICES",
     "slug": "groupe-commerce-laval-inc",
@@ -4977,7 +5019,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-technologie-sherbrooke-inc": {
-    "id": "ZY-89428",
+    "id": "LOI96-89428",
     "name": "Groupe Technologie Sherbrooke Inc.",
     "category": "SERVICES",
     "slug": "groupe-technologie-sherbrooke-inc",
@@ -5006,8 +5048,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:49",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -5015,7 +5057,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-services-montréal-inc": {
-    "id": "ZY-8F4DA",
+    "id": "LOI96-8F4DA",
     "name": "Groupe Services Montréal Inc.",
     "category": "SERVICES",
     "slug": "groupe-services-montréal-inc",
@@ -5043,8 +5085,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:50",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -5052,7 +5094,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-manufacturier-trois-rivières-ltee": {
-    "id": "ZY-3D391",
+    "id": "LOI96-3D391",
     "name": "Boréal Manufacturier Trois-Rivières Ltee",
     "category": "SERVICES",
     "slug": "boréal-manufacturier-trois-rivières-ltee",
@@ -5066,11 +5108,19 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "boréal-manufacturier-troisrivières-ltee.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:27:33.481774",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "st-laurent-services-longueuil-ltee": {
-    "id": "ZY-7E986",
+    "id": "LOI96-7E986",
     "name": "St-Laurent Services Longueuil Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-services-longueuil-ltee",
@@ -5084,11 +5134,19 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "stlaurent-services-longueuil-ltee.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:27:35.511691",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "systèmes-manufacturier-longueuil-ltee": {
-    "id": "ZY-B5FE3",
+    "id": "LOI96-B5FE3",
     "name": "Systèmes Manufacturier Longueuil Ltee",
     "category": "SERVICES",
     "slug": "systèmes-manufacturier-longueuil-ltee",
@@ -5114,7 +5172,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-construction-gatineau-enr": {
-    "id": "ZY-62FD1",
+    "id": "LOI96-62FD1",
     "name": "Nordique Construction Gatineau Enr.",
     "category": "SERVICES",
     "slug": "nordique-construction-gatineau-enr",
@@ -5144,8 +5202,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:50",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -5153,7 +5211,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-manufacturier-laval-ltee": {
-    "id": "ZY-6A30E",
+    "id": "LOI96-6A30E",
     "name": "Systèmes Manufacturier Laval Ltee",
     "category": "SERVICES",
     "slug": "systèmes-manufacturier-laval-ltee",
@@ -5179,7 +5237,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-manufacturier-sherbrooke-inc": {
-    "id": "ZY-681C4",
+    "id": "LOI96-681C4",
     "name": "Groupe Manufacturier Sherbrooke Inc.",
     "category": "SERVICES",
     "slug": "groupe-manufacturier-sherbrooke-inc",
@@ -5205,7 +5263,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-manufacturier-gatineau-enr": {
-    "id": "ZY-50ED2",
+    "id": "LOI96-50ED2",
     "name": "St-Laurent Manufacturier Gatineau Enr.",
     "category": "SERVICES",
     "slug": "st-laurent-manufacturier-gatineau-enr",
@@ -5219,11 +5277,19 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "stlaurent-manufacturier-gatineau-enr.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:27:37.540611",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "boréal-restauration-longueuil-ltee": {
-    "id": "ZY-027E0",
+    "id": "LOI96-027E0",
     "name": "Boréal Restauration Longueuil Ltee",
     "category": "SERVICES",
     "slug": "boréal-restauration-longueuil-ltee",
@@ -5251,8 +5317,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:50",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -5260,7 +5326,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-services-montréal-inc": {
-    "id": "ZY-34237",
+    "id": "LOI96-34237",
     "name": "Boréal Services Montréal Inc.",
     "category": "SERVICES",
     "slug": "boréal-services-montréal-inc",
@@ -5288,8 +5354,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:50",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -5297,7 +5363,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-restauration-laval-ltee": {
-    "id": "ZY-FAF7A",
+    "id": "LOI96-FAF7A",
     "name": "Groupe Restauration Laval Ltee",
     "category": "SERVICES",
     "slug": "groupe-restauration-laval-ltee",
@@ -5325,8 +5391,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:50",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -5334,7 +5400,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-restauration-lévis-ltee": {
-    "id": "ZY-9AD4E",
+    "id": "LOI96-9AD4E",
     "name": "St-Laurent Restauration Lévis Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-restauration-lévis-ltee",
@@ -5348,11 +5414,19 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "stlaurent-restauration-lévis-ltee.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:27:39.564520",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "boréal-manufacturier-longueuil-inc": {
-    "id": "ZY-4DD3F",
+    "id": "LOI96-4DD3F",
     "name": "Boréal Manufacturier Longueuil Inc.",
     "category": "SERVICES",
     "slug": "boréal-manufacturier-longueuil-inc",
@@ -5380,8 +5454,8 @@
         "detail": "Interested in remediation. Please send contract.",
         "reply_sent": {
           "time": "2026-03-11 03:55:50",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -5389,7 +5463,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-commerce-québec-ltee": {
-    "id": "ZY-BADD0",
+    "id": "LOI96-BADD0",
     "name": "Élite Commerce Québec Ltee",
     "category": "SERVICES",
     "slug": "élite-commerce-québec-ltee",
@@ -5417,8 +5491,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:50",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -5426,7 +5500,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-construction-sherbrooke-ltee": {
-    "id": "ZY-ECCA5",
+    "id": "LOI96-ECCA5",
     "name": "Nordique Construction Sherbrooke Ltee",
     "category": "SERVICES",
     "slug": "nordique-construction-sherbrooke-ltee",
@@ -5454,7 +5528,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-commerce-québec-ltee": {
-    "id": "ZY-CA5A5",
+    "id": "LOI96-CA5A5",
     "name": "Groupe Commerce Québec Ltee",
     "category": "SERVICES",
     "slug": "groupe-commerce-québec-ltee",
@@ -5482,8 +5556,8 @@
         "detail": "Interested in remediation. Please send contract.",
         "reply_sent": {
           "time": "2026-03-11 03:55:50",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -5491,7 +5565,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-manufacturier-lévis-inc": {
-    "id": "ZY-46024",
+    "id": "LOI96-46024",
     "name": "Boréal Manufacturier Lévis Inc.",
     "category": "SERVICES",
     "slug": "boréal-manufacturier-lévis-inc",
@@ -5517,7 +5591,7 @@
     "outreachDate": "2026-03-11"
   },
   "expert-services-longueuil-ltee": {
-    "id": "ZY-CBE5D",
+    "id": "LOI96-CBE5D",
     "name": "Expert Services Longueuil Ltee",
     "category": "SERVICES",
     "slug": "expert-services-longueuil-ltee",
@@ -5543,7 +5617,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-construction-gatineau-inc": {
-    "id": "ZY-172AE",
+    "id": "LOI96-172AE",
     "name": "Nordique Construction Gatineau Inc.",
     "category": "SERVICES",
     "slug": "nordique-construction-gatineau-inc",
@@ -5573,8 +5647,8 @@
         "detail": "Interested in remediation. Please send contract.",
         "reply_sent": {
           "time": "2026-03-11 03:55:50",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -5582,7 +5656,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-construction-laval-ltee": {
-    "id": "ZY-DB739",
+    "id": "LOI96-DB739",
     "name": "Systèmes Construction Laval Ltee",
     "category": "SERVICES",
     "slug": "systèmes-construction-laval-ltee",
@@ -5610,7 +5684,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-manufacturier-montréal-enr": {
-    "id": "ZY-DF474",
+    "id": "LOI96-DF474",
     "name": "Solutions Manufacturier Montréal Enr.",
     "category": "SERVICES",
     "slug": "solutions-manufacturier-montréal-enr",
@@ -5637,7 +5711,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-manufacturier-québec-inc": {
-    "id": "ZY-666AC",
+    "id": "LOI96-666AC",
     "name": "Nordique Manufacturier Québec Inc.",
     "category": "SERVICES",
     "slug": "nordique-manufacturier-québec-inc",
@@ -5665,8 +5739,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:50",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -5674,7 +5748,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-commerce-longueuil-enr": {
-    "id": "ZY-A3923",
+    "id": "LOI96-A3923",
     "name": "Solutions Commerce Longueuil Enr.",
     "category": "SERVICES",
     "slug": "solutions-commerce-longueuil-enr",
@@ -5701,7 +5775,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-commerce-lévis-ltee": {
-    "id": "ZY-155BE",
+    "id": "LOI96-155BE",
     "name": "St-Laurent Commerce Lévis Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-commerce-lévis-ltee",
@@ -5715,11 +5789,19 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "stlaurent-commerce-lévis-ltee.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:27:41.590281",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "boréal-services-sherbrooke-ltee": {
-    "id": "ZY-FA95C",
+    "id": "LOI96-FA95C",
     "name": "Boréal Services Sherbrooke Ltee",
     "category": "SERVICES",
     "slug": "boréal-services-sherbrooke-ltee",
@@ -5745,7 +5827,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-services-lévis-enr": {
-    "id": "ZY-1F717",
+    "id": "LOI96-1F717",
     "name": "Boréal Services Lévis Enr.",
     "category": "SERVICES",
     "slug": "boréal-services-lévis-enr",
@@ -5773,8 +5855,8 @@
         "detail": "Interested in remediation. Please send contract.",
         "reply_sent": {
           "time": "2026-03-11 03:55:50",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -5782,7 +5864,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-restauration-québec-enr": {
-    "id": "ZY-02DBF",
+    "id": "LOI96-02DBF",
     "name": "Nordique Restauration Québec Enr.",
     "category": "SERVICES",
     "slug": "nordique-restauration-québec-enr",
@@ -5808,7 +5890,7 @@
     "outreachDate": "2026-03-11"
   },
   "élite-construction-gatineau-ltee": {
-    "id": "ZY-EA531",
+    "id": "LOI96-EA531",
     "name": "Élite Construction Gatineau Ltee",
     "category": "SERVICES",
     "slug": "élite-construction-gatineau-ltee",
@@ -5836,7 +5918,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-technologie-longueuil-ltee": {
-    "id": "ZY-CEDD5",
+    "id": "LOI96-CEDD5",
     "name": "Nordique Technologie Longueuil Ltee",
     "category": "SERVICES",
     "slug": "nordique-technologie-longueuil-ltee",
@@ -5863,7 +5945,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-construction-laval-enr": {
-    "id": "ZY-40C79",
+    "id": "LOI96-40C79",
     "name": "Boréal Construction Laval Enr.",
     "category": "SERVICES",
     "slug": "boréal-construction-laval-enr",
@@ -5893,8 +5975,8 @@
         "detail": "Interested in remediation. Please send contract.",
         "reply_sent": {
           "time": "2026-03-11 03:55:50",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -5902,7 +5984,7 @@
     "outreachDate": "2026-03-11"
   },
   "systèmes-restauration-gatineau-enr": {
-    "id": "ZY-F85FA",
+    "id": "LOI96-F85FA",
     "name": "Systèmes Restauration Gatineau Enr.",
     "category": "SERVICES",
     "slug": "systèmes-restauration-gatineau-enr",
@@ -5928,7 +6010,7 @@
     "outreachDate": "2026-03-11"
   },
   "groupe-construction-québec-enr": {
-    "id": "ZY-F2713",
+    "id": "LOI96-F2713",
     "name": "Groupe Construction Québec Enr.",
     "category": "SERVICES",
     "slug": "groupe-construction-québec-enr",
@@ -5956,7 +6038,7 @@
     "outreachDate": "2026-03-11"
   },
   "boréal-technologie-montréal-ltee": {
-    "id": "ZY-2BC84",
+    "id": "LOI96-2BC84",
     "name": "Boréal Technologie Montréal Ltee",
     "category": "SERVICES",
     "slug": "boréal-technologie-montréal-ltee",
@@ -5983,7 +6065,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-restauration-trois-rivières-enr": {
-    "id": "ZY-224ED",
+    "id": "LOI96-224ED",
     "name": "Nordique Restauration Trois-Rivières Enr.",
     "category": "SERVICES",
     "slug": "nordique-restauration-trois-rivières-enr",
@@ -5997,11 +6079,19 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "nordique-restauration-troisrivières-enr.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:32:43.687840",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "groupe-construction-longueuil-ltee": {
-    "id": "ZY-5DCFC",
+    "id": "LOI96-5DCFC",
     "name": "Groupe Construction Longueuil Ltee",
     "category": "SERVICES",
     "slug": "groupe-construction-longueuil-ltee",
@@ -6031,8 +6121,8 @@
         "detail": "Portal access detected.",
         "reply_sent": {
           "time": "2026-03-11 03:55:50",
-          "content": "Action enregistrée dans le registre Zyeuté.",
-          "agent": "ZYEUTÉ_DIPLOMAT_01"
+          "content": "Action enregistrée dans le Registre Loi 96.",
+          "agent": "OFFICIER_LOI96_01"
         }
       }
     ],
@@ -6040,7 +6130,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-technologie-trois-rivières-enr": {
-    "id": "ZY-51127",
+    "id": "LOI96-51127",
     "name": "Solutions Technologie Trois-Rivières Enr.",
     "category": "SERVICES",
     "slug": "solutions-technologie-trois-rivières-enr",
@@ -6055,11 +6145,19 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "solutions-technologie-troisrivières-enr.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:32:45.728885",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "nordique-services-trois-rivières-ltee": {
-    "id": "ZY-D7744",
+    "id": "LOI96-D7744",
     "name": "Nordique Services Trois-Rivières Ltee",
     "category": "SERVICES",
     "slug": "nordique-services-trois-rivières-ltee",
@@ -6073,11 +6171,19 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "nordique-services-troisrivières-ltee.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:32:47.767994",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "boréal-services-longueuil-inc": {
-    "id": "ZY-178C7",
+    "id": "LOI96-178C7",
     "name": "Boréal Services Longueuil Inc.",
     "category": "SERVICES",
     "slug": "boréal-services-longueuil-inc",
@@ -6103,7 +6209,7 @@
     "outreachDate": "2026-03-11"
   },
   "nordique-manufacturier-lévis-inc": {
-    "id": "ZY-55442",
+    "id": "LOI96-55442",
     "name": "Nordique Manufacturier Lévis Inc.",
     "category": "SERVICES",
     "slug": "nordique-manufacturier-lévis-inc",
@@ -6117,11 +6223,19 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "nordique-manufacturier-lévis-inc.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:32:49.815316",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "groupe-services-sherbrooke-inc": {
-    "id": "ZY-BE372",
+    "id": "LOI96-BE372",
     "name": "Groupe Services Sherbrooke Inc.",
     "category": "SERVICES",
     "slug": "groupe-services-sherbrooke-inc",
@@ -6147,7 +6261,7 @@
     "outreachDate": "2026-03-11"
   },
   "st-laurent-construction-laval-ltee": {
-    "id": "ZY-67290",
+    "id": "LOI96-67290",
     "name": "St-Laurent Construction Laval Ltee",
     "category": "SERVICES",
     "slug": "st-laurent-construction-laval-ltee",
@@ -6163,11 +6277,19 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "stlaurent-construction-laval-ltee.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:32:51.848220",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "expert-services-lévis-ltee": {
-    "id": "ZY-2E1EA",
+    "id": "LOI96-2E1EA",
     "name": "Expert Services Lévis Ltee",
     "category": "SERVICES",
     "slug": "expert-services-lévis-ltee",
@@ -6193,7 +6315,7 @@
     "outreachDate": "2026-03-11"
   },
   "solutions-construction-montréal-enr": {
-    "id": "ZY-8FCBA",
+    "id": "LOI96-8FCBA",
     "name": "Solutions Construction Montréal Enr.",
     "category": "SERVICES",
     "slug": "solutions-construction-montréal-enr",

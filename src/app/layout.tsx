@@ -3,29 +3,29 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: {
-    default: "Zyeuté Répertoire | Conformité Loi 96 Québec",
-    template: "%s | Zyeuté Répertoire"
+    default: "Répertoire Loi 96 | Conformité Officielle Québec",
+    template: "%s | Répertoire Loi 96"
   },
-  description: "Zyeuté est le premier répertoire au monde pour la conformité à la Loi 96 au Québec. Découvrez, auditez et protégez votre entreprise avec l'intelligence artificielle. | The premier Bill 96 compliance directory in Quebec.",
+  description: "Le premier répertoire indépendant pour la conformité à la Loi 96 au Québec. Découvrez, auditez et protégez votre entreprise avec l'intelligence artificielle. | Official Bill 96 compliance registry for Quebec.",
   keywords: [
     "Répertoire entreprise Québec", "Conformité Loi 96", "Linguistic compliance", 
     "OQLF audit", "Bill 96 tracking", "Quebec business directory", 
-    "Loi sur la langue officielle", "Francisation Québec", "Zyeuté"
+    "Loi sur la langue officielle", "Francisation Québec", "Répertoire Loi 96"
   ],
-  authors: [{ name: "Zyeuté Swarm Orchestrator" }],
-  creator: "Zyeuté",
-  publisher: "Zyeuté Linguistic Swarm",
+  authors: [{ name: "Swarm Orchestrator - Loi 96" }],
+  creator: "Répertoire Loi 96",
+  publisher: "Linguistic Surveillance Swarm",
   openGraph: {
     type: 'website',
     locale: 'fr_CA',
     url: 'https://loi96repertoire.com',
-    title: 'Zyeuté Répertoire | Conformité Loi 96',
+    title: 'Répertoire Loi 96 | Conformité Québec',
     description: 'Surveillance autonome de la Loi 96 pour les entreprises québécoises.',
-    siteName: 'Zyeuté',
+    siteName: 'Répertoire Loi 96',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Zyeuté Répertoire | Loi 96',
+    title: 'Répertoire Loi 96 | Surveillance Officielle',
     description: 'Autonomous Bill 96 Compliance Tracking.',
   },
   alternates: {
@@ -34,6 +34,11 @@ export const metadata: Metadata = {
       'fr-CA': '/',
       'en-CA': '/en'
     }
+  },
+  icons: {
+    icon: '/favicon.svg',
+    shortcut: '/favicon.svg',
+    apple: '/favicon.svg',
   }
 };
 

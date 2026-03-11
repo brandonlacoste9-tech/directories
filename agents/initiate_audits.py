@@ -40,7 +40,7 @@ except ImportError:
 
 def calculate_risk_score(business_name, domain):
     """
-    ZYEUTÉ FORENSIC SCORING: 0-100
+    REGISTRE_LOI96 FORENSIC SCORING: 0-100
     Calculates liability based on domain and business name heuristics.
     """
     score = 15  # Base visibility score

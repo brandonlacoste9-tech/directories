@@ -1,8 +1,8 @@
-# 🤖 GRAVITYCLAW: AGENT_SPEC
+# 🤖 SENTINELLE-96: AGENT_SPEC
 
 **Version**: 2.0.0 (Swarm Enabled)
 **Type**: Autonomous Forensic Auditor
-**Host**: Zyeuté Compliance Engine
+**Host**: Le Registre Loi 96 Compliance Engine
 
 ## CAPABILITIES
 - **Discovery**: Scrapes industry registries for businesses lacking `.qc.ca` or French localized digital presence.

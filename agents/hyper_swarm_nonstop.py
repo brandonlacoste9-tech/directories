@@ -5,11 +5,11 @@ import time
 import requests
 import random
 from datetime import datetime
-from gravity_claw import GravityClaw
+from gravity_claw import Sentinelle-96
 from remediation_swarm import RemediationSwarm
 from initiate_audits import calculate_risk_score
 
-# ZYEUTÉ HYPER-SWARM v4.0: NON-STOP PERFORMANCE
+# REGISTRE_LOI96 HYPER-SWARM v4.0: NON-STOP PERFORMANCE
 # Mission: Exhaustive compliance monitoring.
 
 DATA_QUEBEC_URL = "https://www.donneesquebec.ca/recherche/api/3/action/datastore_search"
@@ -23,7 +23,7 @@ NAME_PARTS = ["Expert", "Groupe", "Solutions", "Nordique", "Boréal", "St-Lauren
 class NonStopHyperSwarm:
     def __init__(self, root_dir: str):
         self.root_dir = root_dir
-        self.claw = GravityClaw(root_dir=root_dir)
+        self.claw = Sentinelle-96(root_dir=root_dir)
         self.remedy = RemediationSwarm(root_dir=root_dir)
         self.offset = random.randint(0, 500)
         self.batch_size = 3
@@ -82,7 +82,7 @@ class NonStopHyperSwarm:
                 
                 # 3. DB Sync
                 entry = {
-                    "id": f"ZY-{uuid.uuid4().hex[:5].upper()}",
+                    "id": f"LOI96-{uuid.uuid4().hex[:5].upper()}",
                     "name": name,
                     "category": sector,
                     "slug": slug,

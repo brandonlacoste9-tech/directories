@@ -4,7 +4,7 @@ description: Comprehensive Bill 96 compliance audit matrix for Quebec businesses
 license: CC-BY-NC-SA-4.0
 ---
 
-# Bill 96 Compliance Matrix (Zyeuté Edition)
+# Bill 96 Compliance Matrix (Le Registre Loi 96 Edition)
 
 This skill provides the official internal compliance matrix for auditing Quebec businesses against the Charter of the French Language (Bill 96).
 
@@ -33,7 +33,7 @@ This skill provides the official internal compliance matrix for auditing Quebec 
 | **CRITICAL** (80-100) | No French version, hidden French toggle, English-only legal. | Immediate OQLF reporting potential. |
 | **HIGH** (60-79) | Mixed content, English-first navigation, missing French TOS. | High risk of formal notice. |
 | **MODERATE** (30-59) | French present but incomplete or lower quality than English. | Compliance gap identified. |
-| **LOW** (0-29) | Full French parity, localized SEO, bilingual gateway. | Compliant (Zyeuté Shield). |
+| **LOW** (0-29) | Full French parity, localized SEO, bilingual gateway. | Compliant (Le Registre Loi 96 Shield). |
 
 ## Forensic Audit Workflow
 

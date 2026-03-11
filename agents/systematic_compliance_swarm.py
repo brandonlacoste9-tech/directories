@@ -2,7 +2,7 @@ import os
 import json
 import uuid
 from datetime import datetime
-from gravity_claw import GravityClaw
+from gravity_claw import Sentinelle-96
 from remediation_swarm import RemediationSwarm
 from initiate_audits import calculate_risk_score
 
@@ -12,7 +12,7 @@ def systematic_sweep():
     Coalesces Scout, Audit, Pricing, and Outreach into a unified high-fidelity sweep.
     """
     project_root = "c:\\Users\\booboo\\directorie\\directories"
-    claw = GravityClaw(root_dir=project_root)
+    claw = Sentinelle-96(root_dir=project_root)
     remedy = RemediationSwarm(root_dir=project_root)
     
     sectors = ["Construction", "Services", "Commerce", "Technologie"]
@@ -38,7 +38,7 @@ def systematic_sweep():
             
             # 4. Prepare Unified Data
             business_entry = {
-                "id": f"ZY-{uuid.uuid4().hex[:5].upper()}",
+                "id": f"LOI96-{uuid.uuid4().hex[:5].upper()}",
                 "name": lead['name'],
                 "category": sector.upper(),
                 "slug": slug,
@@ -71,7 +71,7 @@ def systematic_sweep():
     # Final Reporting to findings.md
     findings_path = os.path.join(project_root, "agents", "findings.md")
     with open(findings_path, "w", encoding="utf-8") as f:
-        f.write("# ZYEUTÉ SYSTEMATIC AUDIT REPORT (MARCH 2026)\n\n")
+        f.write("# REGISTRE_LOI96 SYSTEMATIC AUDIT REPORT (MARCH 2026)\n\n")
         f.write("## Execution Summary\n")
         f.write(f"- **Total Targeted**: {len(total_leads)}\n")
         f.write(f"- **Sectors Scanned**: {', '.join(sectors)}\n")

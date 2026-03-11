@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Bill 96 Forensic Diplomat** skill is a specialized agentic playbook designed for the **Zyeuté** platform. It enables AI agents to navigate the complex legal and linguistic landscape of Quebec's **Bill 96** (Charter of the French Language).
+The **Bill 96 Forensic Diplomat** skill is a specialized agentic playbook designed for the **Le Registre Loi 96** platform. It enables AI agents to navigate the complex legal and linguistic landscape of Quebec's **Bill 96** (Charter of the French Language).
 
 This skill combines **Forensic Auditing** (technical verification of linguistic compliance) with **Diplomatic Outreach** (professional, empathetic communication in French).
 
@@ -20,10 +20,10 @@ Once installed, invoke the skill by asking your agent to perform a Bill 96 audit
 
 > "Use the **@bill-96-forensic-diplomat** skill to audit 'Boutique XYZ' and generate a diplomatic outreach email in French."
 
-## Role in the Zyeuté Swarm
+## Role in the Le Registre Loi 96 Swarm
 
-This skill powers the **Response-Diplomat** agents within the Zyeuté swarm, ensuring that every interaction with a Quebec business is culturally appropriate and legally sound.
+This skill powers the **Response-Diplomat** agents within the Le Registre Loi 96 swarm, ensuring that every interaction with a Quebec business is culturally appropriate and legally sound.
 
 ---
 
-*Part of the Zyeuté Compliance Infrastructure.*
+*Part of the Le Registre Loi 96 Compliance Infrastructure.*

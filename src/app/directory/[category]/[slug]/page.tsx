@@ -1,6 +1,7 @@
 // src/app/directory/[category]/[slug]/page.tsx
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import SkeuoDossier from '@/components/SkeuoDossier';
 import directoryData from '@/lib/directory_data.json';
 
@@ -51,7 +52,7 @@ export default async function BusinessProfile({ params: paramsPromise }: { param
     return (
       <div className="min-h-screen bg-neutral-950 flex flex-col items-center justify-center text-center p-20">
          <h1 className="text-4xl font-black text-red-600 mb-8 tracking-tighter uppercase">DOSSIER NOT FOUND</h1>
-         <p className="text-neutral-500 max-w-md mx-auto mb-12">The business NEQ identifier has not been audited by Max Agent-Zero or is currently being processed by the Zyeuté swarm.</p>
+         <p className="text-neutral-500 max-w-md mx-auto mb-12">The business NEQ identifier has not been audited by Max Agent-Zero or is currently being processed by the official compliance pipeline.</p>
          <Link href="/" className="bg-white/5 px-6 py-2 rounded-full border border-white/10 text-[10px] font-black uppercase tracking-widest text-white">Return to Registry Home</Link>
       </div>
     );
@@ -62,7 +63,10 @@ export default async function BusinessProfile({ params: paramsPromise }: { param
       
       {/* Navigation Header */}
       <nav className="h-24 border-b border-white/5 flex items-center justify-between px-6 lg:px-20 backdrop-blur-xl sticky top-0 z-50">
-        <Link href="/" className="text-2xl font-black tracking-tighter uppercase text-gradient-gold">ZYEUTÉ <span className="font-light text-white">RÉPERTOIRE</span></Link>
+        <Link href="/" className="flex items-center gap-4">
+          <Image src="/bill96-logo.png" alt="Loi 96 Logo" width={32} height={32} className="rounded-sm brightness-110" />
+          <span className="text-2xl font-black tracking-tighter uppercase text-gradient-gold">LOI 96 <span className="font-light text-white">RÉPERTOIRE</span></span>
+        </Link>
         <div className="flex items-center gap-6">
            <Link href="/audit" className="bg-white/5 hover:bg-white/10 px-6 py-2 rounded-full border border-white/10 text-[10px] font-black uppercase tracking-widest transition-all">
              Audit de site / <span className="opacity-60">Audit Portal</span>
@@ -139,7 +143,7 @@ export default async function BusinessProfile({ params: paramsPromise }: { param
                         />
                         <ReviewPostIt 
                           author="Sarah D. (Laval)"
-                          content="Trouvé via Directorie.qc. Le fait qu'ils soient vérifiés Loi 96 nous a fait les choisir plutôt que les concurrents."
+                          content="Trouvé via loi96repertoire.com. Le fait qu'ils soient vérifiés Loi 96 nous a fait les choisir plutôt que les concurrents."
                           rating={4}
                           date="FEB-22-2026"
                           rotation="rotate-[2deg]"
@@ -212,7 +216,7 @@ export default async function BusinessProfile({ params: paramsPromise }: { param
 
       {/* Profile Footer */}
       <footer className="py-40 text-center border-t border-white/5 opacity-40">
-         <p className="text-[10px] uppercase font-black tracking-widest text-neutral-400">© 2026 Système d&apos;Annuaire Zyeuté | Audit Forensique Vérifié le 10 MARS 2026</p>
+         <p className="text-[10px] uppercase font-black tracking-widest text-neutral-400">© 2026 Registre Officiel Loi 96 | Audit Forensique Vérifié le 10 MARS 2026</p>
       </footer>
     </main>
   );

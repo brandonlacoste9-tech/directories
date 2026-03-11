@@ -2,14 +2,14 @@ import os
 import json
 import time
 from datetime import datetime
-from gravity_claw import GravityClaw
+from gravity_claw import Sentinelle-96
 
-# ZYEUTÉ INBOUND NEXUS MONITOR
+# REGISTRE_LOI96 INBOUND NEXUS MONITOR
 # Mission: Listen for business owner replies and update the directory.
 
 def simulate_responses():
     root_dir = "c:\\Users\\booboo\\directorie\\directories"
-    claw = GravityClaw(root_dir=root_dir)
+    claw = Sentinelle-96(root_dir=root_dir)
     directory_file = os.path.join(root_dir, "src", "lib", "directory_data.json")
 
     print("👂 [NEXUS_MONITOR]: Listening for field responses...")

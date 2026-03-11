@@ -99,13 +99,13 @@ export default function ComplianceDossier({ businessName, neq, riskScore, violat
           </p>
           
           <div style={{ background: '#7f1d1d', padding: '20px 40px', display: 'inline-block', color: '#fff', borderRadius: '4px', boxShadow: '5px 5px 0 #000', cursor: 'pointer', transition: 'transform 0.1s' }}>
-            <span style={{ fontSize: '1.25rem', fontWeight: 900 }}>ACTIVATE ZYEUTÉ COMPLIANCE SHIELD</span>
+            <span style={{ fontSize: '1.25rem', fontWeight: 900 }}>ACTIVATE LOI 96 COMPLIANCE SHIELD</span>
           </div>
         </div>
       </div>
 
       <div style={{ marginTop: '60px', paddingTop: '20px', borderTop: '1px solid #cbd5e1', fontSize: '0.625rem', color: '#64748b', textAlign: 'center' }}>
-        ZYEUTÉ LINGUISTIC LABORATORIES | FORENSIC AUDIT #88-2026-XQ | ALBERTA DIVISION
+        REGISTRE OFFICIEL LOI 96 | AUDIT FORENSIQUE #88-2026-XQ | DIVISION QUÉBEC
       </div>
     </div>
   );

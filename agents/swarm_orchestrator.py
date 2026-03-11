@@ -2,7 +2,7 @@ import subprocess
 import time
 import sys
 
-# ZYEUTÉ MULTI-AGENT ORCHESTRATOR
+# REGISTRE_LOI96 MULTI-AGENT ORCHESTRATOR
 # Mission: Scale the swarm to maximum capacity.
 
 def launch_swarm(num_sweepers=3, num_monitors=2, num_diplomats=1, num_openmanus=1, num_outreach=1):

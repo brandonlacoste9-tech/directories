@@ -2,6 +2,7 @@
 
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import directoryData from '@/lib/directory_data.json';
 
 interface BusinessItem {
@@ -49,8 +50,9 @@ export default function Home() {
       {/* Navigation Header - Bilingual */}
       <nav className="w-full h-24 border-b border-red-600/20 flex items-center justify-between px-6 lg:px-20 backdrop-blur-3xl sticky top-0 z-50 bg-black/60 shadow-2xl">
         <div className="flex items-center gap-12">
-          <Link href="/">
-            <h1 className="text-2xl font-black tracking-tighter uppercase text-gradient-gold">ZYEUTÉ <span className="font-light text-white">RÉPERTOIRE</span></h1>
+          <Link href="/" className="flex items-center gap-4">
+            <Image src="/bill96-logo.png" alt="Loi 96 Logo" width={40} height={40} className="rounded-sm shadow-2xl brightness-125" />
+            <h1 className="text-2xl font-black tracking-tighter uppercase text-gradient-gold">LOI 96 <span className="font-light text-white">RÉPERTOIRE</span></h1>
           </Link>
           <div className="hidden lg:flex gap-8 text-[10px] font-black uppercase tracking-[0.3em] text-neutral-500">
              {categories.map((cat) => (
@@ -85,7 +87,7 @@ export default function Home() {
           </h2>
           
           <p className="text-xl text-neutral-400 max-w-2xl mx-auto mb-12">
-            Le premier répertoire de conformité autonome au monde. Protégez votre entreprise contre les amendes linguistiques prédatrices grâce à la surveillance forensique de Zyeuté.
+            Le premier répertoire de conformité autonome au monde. Protégez votre entreprise contre les amendes linguistiques prédatrices grâce à la surveillance forensique du Répertoire Loi 96.
             <br/><span className="text-sm opacity-50 mt-4 block italic">The world&apos;s first autonomous compliance directory. Protect your enterprise from linguistic fines.</span>
           </p>
 
@@ -176,7 +178,7 @@ export default function Home() {
           <div className="flex justify-between items-end mb-12">
              <div>
                 <h3 className="text-3xl font-black uppercase tracking-tight">RÉPERTOIRE VEDETTE</h3>
-                <p className="text-xs text-neutral-500 font-bold uppercase tracking-widest mt-2">Recently analyzed by GravityClaw v2.0</p>
+                <p className="text-xs text-neutral-500 font-bold uppercase tracking-widest mt-2">Recently analyzed by Sentinelle-96 v2.0</p>
              </div>
              <Link href="/archive" className="text-[10px] font-black uppercase tracking-widest text-neutral-500 hover:text-white pb-1 border-b border-transparent hover:border-white transition-all">
                 CONSULTER LES ARCHIVES &rarr;
@@ -238,7 +240,7 @@ export default function Home() {
 
       <footer className="w-full py-12 border-t border-white/5 text-center mt-20">
          <p className="text-[10px] font-black uppercase tracking-[0.5em] text-neutral-600">
-            ZYEUTÉ LINGUISTIC SWARM | © 2026 QUÉBEC CANADA
+            REGISTRE OFFICIEL LOI 96 | © 2026 QUÉBEC CANADA
          </p>
       </footer>
     </main>

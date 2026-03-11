@@ -4,7 +4,7 @@ import os
 import uuid
 import datetime
 
-# 2026 ZYEUTÉ SWARM AGENT: Scout & Populate
+# 2026 REGISTRE_LOI96 SWARM AGENT: Scout & Populate
 # Reads findings.md and creates high-fidelity business profile data for the mass directory.
 
 FINDINGS_FILE = "agents/findings.md"
@@ -50,7 +50,7 @@ def populate_site():
     for lead in leads:
         slug = lead["name"].lower().replace(" ", "-").replace(".", "").replace(",", "")
         business_db[slug] = {
-            "id": f"ZY-{uuid.uuid4().hex[:5].upper()}",
+            "id": f"LOI96-{uuid.uuid4().hex[:5].upper()}",
             "name": lead["name"],
             "category": "CONSTRUCTION" if "plomberie" in slug else "SERVICES",
             "slug": slug,

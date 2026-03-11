@@ -10,9 +10,9 @@ except ImportError:
     resend = None
 
 
-class GravityClaw:
+class Sentinelle-96:
     """
-    GRAVITYCLAW ORCHESTRATOR v2.0 - SWARM EDITION
+    SENTINELLE-96 ORCHESTRATOR v2.0 - SWARM EDITION
     Mission: Autonomous Bill 96 Compliance Discovery & Remediation
     """
 
@@ -73,7 +73,7 @@ class GravityClaw:
         self.save_memory(mem)
 
     def scout_new_leads(self, sector: str = "Construction"):
-        print(f"🕵️‍♂️ [GRAVITYCLAW]: Scouting {sector} sector...")
+        print(f"🕵️‍♂️ [SENTINELLE-96]: Scouting {sector} sector...")
         leads = [
             {
                 "name": f"{sector} Systems Elite",
@@ -105,7 +105,7 @@ class GravityClaw:
             slug = "".join(c for c in name_clean if c.isalnum() or c == "-")
 
             new_entry: Dict[str, Any] = {
-                "id": f"ZY-{uuid.uuid4().hex[:5].upper()}",
+                "id": f"LOI96-{str(uuid.uuid4().hex)[:5].upper()}",
                 "name": business_data["name"],
                 "category": "SERVICES",
                 "slug": slug,
@@ -140,18 +140,20 @@ class GravityClaw:
             subject = f"URGENT : Avis de non-conformité linguistique (Loi 96) - {business_name}"
             body = (
                 f"À l'attention de la direction de {business_name},\n\n"
-                f"Notre essaim autonome (GravityClaw v2.0) a identifié des lacunes linguistiques critiques "
-                f"sur le domaine {domain}. En vertu de la Charte de la langue française (Loi 96), "
-                "le défaut de priorité au français dans les communications numériques peut entraîner des amendes "
-                "quotidiennes dépassant 20 000 $.\n\n"
-                "Zyeuté a préparé un audit forensique pour votre entité. Nous recommandons une remédiation immédiate "
-                "pour éviter la prochaine vague d'application de l'OQLF.\n\n"
+                f"Notre essaim autonome (Sentinelle-96 v2.0) a identifié des lacunes "
+                f"linguistiques critiques sur le domaine {domain}. En vertu de la "
+                "Charte de la langue française (Loi 96), le défaut de priorité au "
+                "français dans les communications numériques peut entraîner des "
+                "amendes quotidiennes dépassant 20 000 $.\n\n"
+                "Le Registre Loi 96 a préparé un audit forensique pour votre "
+                "entité. Nous recommandons une remédiation immédiate pour éviter "
+                "la prochaine vague d'application de l'OQLF.\n\n"
                 "Consultez votre dossier : https://loi96repertoire.com/directory\n\n"
                 "-----------------------------------\n"
                 "English context: Critical linguistic gaps identified. Fines exceeding $20k/day possible under Bill 96.\n\n"
                 "Respectueusement,\n"
                 "Max Agent-Zero\n"
-                "Orchestrateur d'Essaim Linguistique Zyeuté"
+                "Orchestrateur du Registre Loi 96"
             )
         else:
             subject = f"Avis : Audit de conformité linguistique au Québec - {business_name}"
@@ -159,12 +161,12 @@ class GravityClaw:
                 f"Bonjour,\n\n"
                 f"Un audit linguistique a été effectué sur {domain}. Nous avons détecté des risques de conformité "
                 "modérés qui pourraient attirer l'attention des autorités réglementaires sous la Loi 96.\n\n"
-                "Zyeuté a ajouté votre entreprise au Répertoire Public de Conformité. Vous pouvez réclamer votre "
+                "Le Registre a ajouté votre entreprise au Répertoire Public de Conformité. Vous pouvez réclamer votre "
                 "profil et demander un plan de remédiation complet ici : https://loi96repertoire.com/claim\n\n"
                 "-----------------------------------\n"
                 "English context: Linguistic audit performed. Moderate compliance risks detected under Bill 96.\n\n"
                 "Cordialement,\n"
-                "Orchestration GravityClaw"
+                "Orchestration Sentinelle-96"
             )
             
         return {"subject": subject, "body": body}
@@ -204,12 +206,12 @@ class GravityClaw:
                 if self.resend_key and resend:
                     try:
                         resend.Emails.send({
-                            "from": "Zyeuté Compliance <compliance@loi96repertoire.com>",
+                            "from": "Registre Loi 96 <compliance@loi96repertoire.com>",
                             "to": ["brandonlacoste9@gmail.com"], # Safety: Send to user for verification in dev
                             "subject": notice["subject"],
                             "html": notice["body"].replace("\n", "<br>")
                         })
-                        print(f"✅ [RESEND]: Email sent via API.")
+                        print("✅ [RESEND]: Email sent via API.")
                     except Exception as e:
                         print(f"❌ [RESEND_ERR]: {str(e)}")
                         send_success = False

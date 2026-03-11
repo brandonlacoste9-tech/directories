@@ -49,7 +49,7 @@ function ClaimContent() {
       <div className="max-w-4xl w-full">
         {/* Navigation */}
         <div className="mb-12 flex justify-between items-center bg-white/5 backdrop-blur-3xl p-6 rounded-full border border-white/10">
-           <Link href="/" className="text-xl font-black tracking-tighter uppercase text-gradient-gold">ZYEUTÉ<span className="font-light text-white">.QC</span></Link>
+           <Link href="/" className="text-xl font-black tracking-tighter uppercase text-gradient-gold">LOI 96<span className="font-light text-white">.REPERTOIRE</span></Link>
            <Link href="/" className="text-[10px] font-black uppercase tracking-widest text-neutral-400 hover:text-white transition-colors">Cancel & Return</Link>
         </div>
 
@@ -80,7 +80,7 @@ function ClaimContent() {
                        </div>
 
                        <div className="space-y-6 pt-6">
-                          <p className="text-sm text-neutral-400 leading-relaxed font-medium">To finalize your claim and trigger the <span className="text-white">Linguistic Compliance Seal</span>, you must verify ownership via the Zyeuté secure checkout.</p>
+                          <p className="text-sm text-neutral-400 leading-relaxed font-medium">To finalize your claim and trigger the <span className="text-white">Linguistic Compliance Seal</span>, you must verify ownership via the official secure channel.</p>
                           
                           <div className="flex flex-col gap-4">
                              <div className="flex items-center gap-4 p-4 bg-emerald-500/10 border border-emerald-500/20 rounded-2xl">

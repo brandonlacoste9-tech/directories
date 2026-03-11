@@ -2,15 +2,15 @@ import os
 import json
 import time
 from datetime import datetime
-from gravity_claw import GravityClaw
+from gravity_claw import Sentinelle-96
 
-# ZYEUTÉ RESPONSE DIPLOMAT
+# REGISTRE_LOI96 RESPONSE DIPLOMAT
 # Mission: Handle inbound communications and manage remediation conversion.
 
 class ResponseDiplomat:
     def __init__(self, root_dir: str):
         self.root_dir = root_dir
-        self.claw = GravityClaw(root_dir=root_dir)
+        self.claw = Sentinelle-96(root_dir=root_dir)
         self.is_running = True
 
     def generate_reply(self, signal_type: str, company_name: str):
@@ -25,20 +25,20 @@ class ResponseDiplomat:
                 "de remédiation Loi 96 complet. Ce document détaille les étapes pour aligner votre présence numérique "
                 "avec les exigences de l'OQLF.\n\n"
                 "Un agent de notre équipe d'accompagnement vous contactera sous peu pour finaliser l'implémentation.\n\n"
-                "Cordialement,\nL'Équipe de Diplomatie Zyeuté"
+                "Cordialement,\nL'Équipe de Diplomatie Le Registre Loi 96"
             ),
             "CLICKED": (
                 f"Bonjour {company_name},\n\n"
                 "Nous avons remarqué votre intérêt pour le rapport de conformité de votre entreprise. "
                 "C'est un premier pas crucial pour sécuriser vos opérations au Québec.\n\n"
                 "Souhaitez-vous une consultation gratuite pour interpréter les résultats de votre audit ?\n\n"
-                "Cordialement,\nL'Équipe de Diplomatie Zyeuté"
+                "Cordialement,\nL'Équipe de Diplomatie Le Registre Loi 96"
             ),
             "CONVERTED": (
                 f"Félicitations {company_name}!\n\n"
-                "Votre bouclier de conformité Zyeuté est maintenant actif. Votre entreprise est désormais protégée par "
+                "Votre bouclier de conformité Le Registre Loi 96 est maintenant actif. Votre entreprise est désormais protégée par "
                 "notre système de surveillance continue des normes de la Loi 96.\n\n"
-                "Bienvenue dans l'écosystème de pérennité linguistique Zyeuté."
+                "Bienvenue dans l'écosystème de pérennité linguistique Le Registre Loi 96."
             ),
             "DISPUTED": (
                 f"Bonjour {company_name},\n\n"
@@ -46,10 +46,10 @@ class ResponseDiplomat:
                 "preuves de non-conformité relevées sur vos actifs numériques.\n\n"
                 "Nous vous reviendrons avec un rapport détaillé liant chaque manquement aux articles spécifiques "
                 "de la Charte de la langue française.\n\n"
-                "Cordialement,\nService de Vérification Zyeuté"
+                "Cordialement,\nService de Vérification Le Registre Loi 96"
             )
         }
-        return replies.get(signal_type, "Action enregistrée dans le registre Zyeuté. En attente de traitement diplomatique.")
+        return replies.get(signal_type, "Action enregistrée dans le registre Le Registre Loi 96. En attente de traitement diplomatique.")
 
     def run_diplomacy(self):
         print("🕊️ [RESPONSE_DIPLOMAT]: NEXUS DIPLOMACY ACTIVE.")
@@ -89,7 +89,7 @@ class ResponseDiplomat:
                             action["reply_sent"] = {
                                 "time": timestamp,
                                 "content": reply_text,
-                                "agent": "ZYEUTÉ_DIPLOMAT_01"
+                                "agent": "REGISTRE_LOI96_DIPLOMAT_01"
                             }
                             
                             self.claw.prying_action(biz.get("domain"), f"DIPLOMACY_REPLY_SENT_{signal}")

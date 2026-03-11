@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 interface SwarmLead {
   name: string;
@@ -67,11 +68,11 @@ export default function SwarmPage() {
     <main className="min-h-screen bg-[#0a0a0a] text-white font-sans selection:bg-red-600/30">
       <nav className="border-b border-white/5 bg-black/50 backdrop-blur-xl sticky top-0 z-50 px-8 py-4 flex justify-between items-center">
         <div className="flex items-center gap-4">
-           <div className="w-10 h-10 bg-red-600 rounded-lg flex items-center justify-center shadow-[0_0_20px_#dc2626]">
-              <span className="font-black text-xl">Γ</span>
-           </div>
+           <Link href="/" className="flex items-center gap-4 group">
+             <Image src="/bill96-logo.png" alt="Loi 96 Logo" width={36} height={36} className="rounded-md shadow-2xl brightness-125 group-hover:scale-110 transition-transform" />
+           </Link>
            <div>
-              <h1 className="text-xl font-black tracking-tighter uppercase">GRAVITYCLAW <span className="text-red-600">v2.0</span></h1>
+              <h1 className="text-xl font-black tracking-tighter uppercase">SENTINELLE-96 <span className="text-red-600">v2.0</span></h1>
               <p className="text-[10px] text-neutral-500 font-bold tracking-widest uppercase">Orchestrateur d&apos;Essaim Autonome</p>
            </div>
         </div>

@@ -5,7 +5,7 @@ from typing import Dict, Any, List
 
 class RemediationSwarm:
     """
-    ZYEUTÉ REMEDIATION SWARM v1.0
+    REGISTRE_LOI96 REMEDIATION SWARM v1.0
     Mission: Generate autonomous compliance packages (patches) for non-compliant businesses.
     """
 

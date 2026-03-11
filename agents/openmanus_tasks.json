@@ -21,7 +21,7 @@
     "created_at": "2026-03-11 14:07:22"
   },
   {
-    "id": "SWEEP_ZY-407A8",
+    "id": "SWEEP_LOI96-407A8",
     "prompt": "Audite le site web 'tech-sol.com' (Tech-Solutions Laval) pour vérifier la conformité à la Loi 96 du Québec. Identifie au moins 3 sources de non-conformité (ex: menus en anglais, manque de bascule de langue, CGU non traduites). Fournis un rapport détaillé en français avec des recommandations.",
     "domain": "tech-sol.com",
     "status": "DONE",
@@ -30,7 +30,7 @@
     "completed_at": "2026-03-11 16:01:36"
   },
   {
-    "id": "SWEEP_ZY-AFA6F",
+    "id": "SWEEP_LOI96-AFA6F",
     "prompt": "Audite le site web 'groupetechnologymtl-high.com' (Groupe Technology Montreal High) pour vérifier la conformité à la Loi 96 du Québec. Identifie au moins 3 sources de non-conformité (ex: menus en anglais, manque de bascule de langue, CGU non traduites). Fournis un rapport détaillé en français avec des recommandations.",
     "domain": "groupetechnologymtl-high.com",
     "status": "IN_PROGRESS",
@@ -38,56 +38,56 @@
     "started_at": "2026-03-11 16:02:06"
   },
   {
-    "id": "SWEEP_ZY-2ADB2",
+    "id": "SWEEP_LOI96-2ADB2",
     "prompt": "Audite le site web 'plomberiemtl.ca' (Plomberie Montréal Inc.) pour vérifier la conformité à la Loi 96 du Québec. Identifie au moins 3 sources de non-conformité (ex: menus en anglais, manque de bascule de langue, CGU non traduites). Fournis un rapport détaillé en français avec des recommandations.",
     "domain": "plomberiemtl.ca",
     "status": "PENDING",
     "created_at": "2026-03-11 15:51:37"
   },
   {
-    "id": "SWEEP_ZY-3D33D",
+    "id": "SWEEP_LOI96-3D33D",
     "prompt": "Audite le site web 'cjp-const.ca' (Construction Jean-Paul) pour vérifier la conformité à la Loi 96 du Québec. Identifie au moins 3 sources de non-conformité (ex: menus en anglais, manque de bascule de langue, CGU non traduites). Fournis un rapport détaillé en français avec des recommandations.",
     "domain": "cjp-const.ca",
     "status": "PENDING",
     "created_at": "2026-03-11 15:51:37"
   },
   {
-    "id": "SWEEP_ZY-71383",
+    "id": "SWEEP_LOI96-71383",
     "prompt": "Audite le site web 'construction-systems-elite.qc.ca' (Construction Systems Elite) pour vérifier la conformité à la Loi 96 du Québec. Identifie au moins 3 sources de non-conformité (ex: menus en anglais, manque de bascule de langue, CGU non traduites). Fournis un rapport détaillé en français avec des recommandations.",
     "domain": "construction-systems-elite.qc.ca",
     "status": "PENDING",
     "created_at": "2026-03-11 15:51:37"
   },
   {
-    "id": "SWEEP_ZY-D94F5",
+    "id": "SWEEP_LOI96-D94F5",
     "prompt": "Audite le site web 'groupeconstructionmtl-high.com' (Groupe Construction Montreal High) pour vérifier la conformité à la Loi 96 du Québec. Identifie au moins 3 sources de non-conformité (ex: menus en anglais, manque de bascule de langue, CGU non traduites). Fournis un rapport détaillé en français avec des recommandations.",
     "domain": "groupeconstructionmtl-high.com",
     "status": "PENDING",
     "created_at": "2026-03-11 15:51:37"
   },
   {
-    "id": "SWEEP_ZY-F60C9",
+    "id": "SWEEP_LOI96-F60C9",
     "prompt": "Audite le site web 'services-systems-elite.qc.ca' (Services Systems Elite) pour vérifier la conformité à la Loi 96 du Québec. Identifie au moins 3 sources de non-conformité (ex: menus en anglais, manque de bascule de langue, CGU non traduites). Fournis un rapport détaillé en français avec des recommandations.",
     "domain": "services-systems-elite.qc.ca",
     "status": "PENDING",
     "created_at": "2026-03-11 15:51:37"
   },
   {
-    "id": "SWEEP_ZY-E75AB",
+    "id": "SWEEP_LOI96-E75AB",
     "prompt": "Audite le site web 'groupeservicesmtl-high.com' (Groupe Services Montreal High) pour vérifier la conformité à la Loi 96 du Québec. Identifie au moins 3 sources de non-conformité (ex: menus en anglais, manque de bascule de langue, CGU non traduites). Fournis un rapport détaillé en français avec des recommandations.",
     "domain": "groupeservicesmtl-high.com",
     "status": "PENDING",
     "created_at": "2026-03-11 15:51:37"
   },
   {
-    "id": "SWEEP_ZY-5A255",
+    "id": "SWEEP_LOI96-5A255",
     "prompt": "Audite le site web 'commerce-systems-elite.qc.ca' (Commerce Systems Elite) pour vérifier la conformité à la Loi 96 du Québec. Identifie au moins 3 sources de non-conformité (ex: menus en anglais, manque de bascule de langue, CGU non traduites). Fournis un rapport détaillé en français avec des recommandations.",
     "domain": "commerce-systems-elite.qc.ca",
     "status": "PENDING",
     "created_at": "2026-03-11 15:51:37"
   },
   {
-    "id": "SWEEP_ZY-A1852",
+    "id": "SWEEP_LOI96-A1852",
     "prompt": "Audite le site web 'groupecommercemtl-high.com' (Groupe Commerce Montreal High) pour vérifier la conformité à la Loi 96 du Québec. Identifie au moins 3 sources de non-conformité (ex: menus en anglais, manque de bascule de langue, CGU non traduites). Fournis un rapport détaillé en français avec des recommandations.",
     "domain": "groupecommercemtl-high.com",
     "status": "PENDING",

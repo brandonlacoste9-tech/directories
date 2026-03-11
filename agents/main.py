@@ -3,15 +3,15 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import os
 import asyncio
-from gravity_claw import GravityClaw
+from gravity_claw import Sentinelle-96
 from initiate_audits import calculate_risk_score
 from remediation_swarm import RemediationSwarm
 
-app = FastAPI(title="Zyeuté Agentic API", version="2.0.0")
+app = FastAPI(title="Le Registre Loi 96 Agentic API", version="2.0.0")
 
 # Setup Paths
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-claw = GravityClaw(root_dir=PROJECT_ROOT)
+claw = Sentinelle-96(root_dir=PROJECT_ROOT)
 remedy = RemediationSwarm(root_dir=PROJECT_ROOT)
 
 origins = [
@@ -76,7 +76,7 @@ async def trigger_agent_audit(request: AuditRequest):
 
 @app.post("/api/swarm/deploy")
 async def deploy_swarm_agent(sector: str = "Construction"):
-    """DEPLOYS GRAVITYCLAW SWARM: Discovery -> Audit -> Directory Sync"""
+    """DEPLOYS SENTINELLE-96 SWARM: Discovery -> Audit -> Directory Sync"""
     try:
         print(f"🕵️‍♂️ [Max] Deploying Swarm: {sector}")
         leads = claw.scout_new_leads(sector=sector)
