@@ -5,10 +5,10 @@ import sys
 # ZYEUTÉ MULTI-AGENT ORCHESTRATOR
 # Mission: Scale the swarm to maximum capacity.
 
-def launch_swarm(num_sweepers=3, num_monitors=2, num_diplomats=1):
+def launch_swarm(num_sweepers=3, num_monitors=2, num_diplomats=1, num_openmanus=1):
     processes = []
     
-    print(f"🚀 [ORCHESTRATOR]: Spawning {num_sweepers} Sweepers, {num_monitors} Monitors, and {num_diplomats} Diplomats...")
+    print(f"🚀 [ORCHESTRATOR]: Spawning {num_sweepers} Sweepers, {num_monitors} Monitors, {num_diplomats} Diplomats, {num_openmanus} OpenManus Bridge(s)...")
     
     # Launch Sweepers (Hyper-Swarm)
     for i in range(num_sweepers):
@@ -40,6 +40,16 @@ def launch_swarm(num_sweepers=3, num_monitors=2, num_diplomats=1):
         processes.append(p)
         time.sleep(1)
 
+    # Launch OpenManus Bridge (Deep AI Executor)
+    for i in range(num_openmanus):
+        print(f"🧠 [AGENT]: Starting OpenManus-Bridge #{i+1}")
+        p = subprocess.Popen([sys.executable, "agents/openmanus_agent.py"],
+                             stdout=subprocess.PIPE,
+                             stderr=subprocess.PIPE,
+                             text=True)
+        processes.append(p)
+        time.sleep(1)
+
     print(f"✅ [SYSTEM]: Swarm fully operational with {len(processes)} active agents.")
     
     try:
@@ -56,4 +66,4 @@ def launch_swarm(num_sweepers=3, num_monitors=2, num_diplomats=1):
             p.terminate()
 
 if __name__ == "__main__":
-    launch_swarm(num_sweepers=4, num_monitors=2, num_diplomats=1)
+    launch_swarm(num_sweepers=4, num_monitors=2, num_diplomats=1, num_openmanus=1)
