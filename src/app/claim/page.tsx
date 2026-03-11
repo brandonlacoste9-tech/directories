@@ -1,6 +1,6 @@
 'use client';
 
-import React, { use, useState } from 'react';
+import React, { Suspense, useState } from 'react';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 import directoryData from '@/lib/directory_data.json';
@@ -15,7 +15,7 @@ interface Business {
   loc: string;
 }
 
-export default function ClaimPage() {
+function ClaimContent() {
   const searchParams = useSearchParams();
   const businessId = searchParams.get('businessId');
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -123,6 +123,19 @@ export default function ClaimPage() {
     </main>
   );
 }
+
+export default function ClaimPage() {
+  return (
+    <Suspense fallback={
+      <main className="min-h-screen leather-bg py-24 px-6 lg:px-20 flex items-center justify-center text-white font-black uppercase tracking-widest">
+        Loading Dossier...
+      </main>
+    }>
+      <ClaimContent />
+    </Suspense>
+  );
+}
+
 
 function BenefitItem({ icon, title, desc }: { icon: string, title: string, desc: string }) {
   return (
