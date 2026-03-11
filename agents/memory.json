@@ -1,10 +1,35 @@
 {
   "version": "1.0",
   "uptime": "2026-03-09T21:59:53.509839",
-  "total_audits": 604,
+  "total_audits": 609,
   "compliance_buffer": [],
   "semantic_index": {},
   "active_tasks": [
+    {
+      "time": "2026-03-11 16:21:21",
+      "target": "stlaurent-services-troisrivi\u00e8res-ltee.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
+    },
+    {
+      "time": "2026-03-11 16:21:19",
+      "target": "bor\u00e9al-restauration-troisrivi\u00e8res-inc.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
+    },
+    {
+      "time": "2026-03-11 16:21:17",
+      "target": "groupe-restauration-troisrivi\u00e8res-ltee.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
+    },
+    {
+      "time": "2026-03-11 16:21:15",
+      "target": "nordique-technologie-troisrivi\u00e8res-inc.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
+    },
+    {
+      "time": "2026-03-11 16:21:13",
+      "target": "https://example.com",
+      "action": "NOTICE_DISPATCHED_MODERATE"
+    },
     {
       "time": "2026-03-11 16:01:36",
       "target": "tech-sol.com",
@@ -78,31 +103,6 @@
     {
       "time": "2026-03-11 03:55:49",
       "target": "groupe-technologie-sherbrooke-inc.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
-    },
-    {
-      "time": "2026-03-11 03:55:49",
-      "target": "nordique-construction-sherbrooke-inc.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
-    },
-    {
-      "time": "2026-03-11 03:55:49",
-      "target": "bor\u00e9al-construction-l\u00e9vis-enr.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
-    },
-    {
-      "time": "2026-03-11 03:55:49",
-      "target": "solutions-technologie-laval-inc.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
-    },
-    {
-      "time": "2026-03-11 03:55:49",
-      "target": "syst\u00e8mes-manufacturier-montr\u00e9al-enr.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
-    },
-    {
-      "time": "2026-03-11 03:55:49",
-      "target": "bor\u00e9al-services-longueuil-enr.ca",
       "action": "DIPLOMACY_REPLY_SENT_INBOUND"
     }
   ]

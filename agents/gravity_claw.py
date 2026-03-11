@@ -193,6 +193,8 @@ class GravityClaw:
                 target_biz["domain"]
             )
             
+            target_biz.setdefault("interactions", [])
+            
             status = "STAGED"
             if auto_send:
                 # High-fidelity transmission
@@ -217,7 +219,7 @@ class GravityClaw:
                     target_biz["isOutreachSent"] = True
                     target_biz["outreachDate"] = datetime.now().strftime("%Y-%m-%d")
                     target_biz["outreachStatus"] = "SENT"
-                    target_biz["interactions"].append({
+                    target_biz.setdefault("interactions", []).append({
                         "type": "OUTREACH",
                         "timestamp": datetime.now().isoformat(),
                         "detail": f"Forensic notice dispatched: {target_biz['riskLevel']}"
