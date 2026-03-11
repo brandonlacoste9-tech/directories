@@ -5,10 +5,10 @@ import sys
 # ZYEUTÉ MULTI-AGENT ORCHESTRATOR
 # Mission: Scale the swarm to maximum capacity.
 
-def launch_swarm(num_sweepers=3, num_monitors=2):
+def launch_swarm(num_sweepers=3, num_monitors=2, num_diplomats=1):
     processes = []
     
-    print(f"🚀 [ORCHESTRATOR]: Spawning {num_sweepers} Sweeper Agents and {num_monitors} Monitor Agents...")
+    print(f"🚀 [ORCHESTRATOR]: Spawning {num_sweepers} Sweepers, {num_monitors} Monitors, and {num_diplomats} Diplomats...")
     
     # Launch Sweepers (Hyper-Swarm)
     for i in range(num_sweepers):
@@ -18,12 +18,22 @@ def launch_swarm(num_sweepers=3, num_monitors=2):
                              stderr=subprocess.PIPE,
                              text=True)
         processes.append(p)
-        time.sleep(1) # Stagger starts to avoid initial API collisions
+        time.sleep(1)
         
     # Launch Monitors (Response Nexus)
     for i in range(num_monitors):
         print(f"👂 [AGENT]: Starting Response-Monitor #{i+1}")
         p = subprocess.Popen([sys.executable, "agents/response_nexus_monitor.py"], 
+                             stdout=subprocess.PIPE, 
+                             stderr=subprocess.PIPE,
+                             text=True)
+        processes.append(p)
+        time.sleep(1)
+
+    # Launch Diplomats (Response Replies)
+    for i in range(num_diplomats):
+        print(f"🕊️ [AGENT]: Starting Response-Diplomat #{i+1}")
+        p = subprocess.Popen([sys.executable, "agents/response_diplomat.py"], 
                              stdout=subprocess.PIPE, 
                              stderr=subprocess.PIPE,
                              text=True)
