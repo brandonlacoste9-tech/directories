@@ -1,109 +1,109 @@
 {
   "version": "1.0",
   "uptime": "2026-03-09T21:59:53.509839",
-  "total_audits": 609,
+  "total_audits": 649,
   "compliance_buffer": [],
   "semantic_index": {},
   "active_tasks": [
     {
-      "time": "2026-03-11 16:21:21",
-      "target": "stlaurent-services-troisrivi\u00e8res-ltee.ca",
+      "time": "2026-03-11 17:17:18",
+      "target": "stlaurent-technologie-montr\u00e9al-enr.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 16:21:19",
-      "target": "bor\u00e9al-restauration-troisrivi\u00e8res-inc.ca",
+      "time": "2026-03-11 17:17:16",
+      "target": "stlaurent-commerce-qu\u00e9bec-ltee.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 16:21:17",
-      "target": "groupe-restauration-troisrivi\u00e8res-ltee.ca",
+      "time": "2026-03-11 17:17:14",
+      "target": "stlaurent-manufacturier-qu\u00e9bec-inc.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 16:21:15",
-      "target": "nordique-technologie-troisrivi\u00e8res-inc.ca",
+      "time": "2026-03-11 17:17:11",
+      "target": "stlaurent-restauration-longueuil-enr.ca",
       "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 16:21:13",
-      "target": "https://example.com",
-      "action": "NOTICE_DISPATCHED_MODERATE"
+      "time": "2026-03-11 17:17:09",
+      "target": "syst\u00e8mes-technologie-troisrivi\u00e8res-ltee.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 16:01:36",
-      "target": "tech-sol.com",
-      "action": "OPENMANUS_TASK_COMPLETED_SWEEP_ZY-407A8"
+      "time": "2026-03-11 17:12:07",
+      "target": "syst\u00e8mes-services-troisrivi\u00e8res-inc.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:55:50",
-      "target": "groupe-construction-longueuil-ltee.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
+      "time": "2026-03-11 17:12:05",
+      "target": "expert-commerce-troisrivi\u00e8res-enr.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:55:50",
-      "target": "bor\u00e9al-construction-laval-enr.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
+      "time": "2026-03-11 17:12:03",
+      "target": "bor\u00e9al-services-troisrivi\u00e8res-ltee.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:55:50",
-      "target": "bor\u00e9al-services-l\u00e9vis-enr.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
+      "time": "2026-03-11 17:12:01",
+      "target": "stlaurent-technologie-longueuil-inc.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:55:50",
-      "target": "nordique-manufacturier-qu\u00e9bec-inc.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
+      "time": "2026-03-11 17:11:59",
+      "target": "stlaurent-restauration-longueuil-ltee.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:55:50",
-      "target": "nordique-construction-gatineau-inc.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
+      "time": "2026-03-11 17:06:56",
+      "target": "nordique-commerce-troisrivi\u00e8res-enr.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:55:50",
-      "target": "groupe-commerce-qu\u00e9bec-ltee.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
+      "time": "2026-03-11 17:06:53",
+      "target": "stlaurent-restauration-sherbrooke-ltee.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:55:50",
-      "target": "\u00e9lite-commerce-qu\u00e9bec-ltee.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
+      "time": "2026-03-11 17:06:50",
+      "target": "stlaurent-technologie-montr\u00e9al-ltee.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:55:50",
-      "target": "bor\u00e9al-manufacturier-longueuil-inc.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
+      "time": "2026-03-11 17:06:48",
+      "target": "\u00e9lite-commerce-troisrivi\u00e8res-inc.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:55:50",
-      "target": "groupe-restauration-laval-ltee.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
+      "time": "2026-03-11 17:06:45",
+      "target": "bor\u00e9al-commerce-troisrivi\u00e8res-enr.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:55:50",
-      "target": "bor\u00e9al-services-montr\u00e9al-inc.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
+      "time": "2026-03-11 17:01:42",
+      "target": "stlaurent-commerce-laval-ltee.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:55:50",
-      "target": "bor\u00e9al-restauration-longueuil-ltee.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
+      "time": "2026-03-11 17:01:40",
+      "target": "nordique-services-troisrivi\u00e8res-inc.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:55:50",
-      "target": "nordique-construction-gatineau-enr.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
+      "time": "2026-03-11 17:01:38",
+      "target": "stlaurent-services-qu\u00e9bec-inc.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:55:50",
-      "target": "groupe-services-montr\u00e9al-inc.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
+      "time": "2026-03-11 17:01:35",
+      "target": "expert-manufacturier-troisrivi\u00e8res-ltee.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     },
     {
-      "time": "2026-03-11 03:55:49",
-      "target": "groupe-technologie-sherbrooke-inc.ca",
-      "action": "DIPLOMACY_REPLY_SENT_INBOUND"
+      "time": "2026-03-11 17:01:33",
+      "target": "groupe-technologie-troisrivi\u00e8res-ltee.ca",
+      "action": "NOTICE_DISPATCHED_HIGH"
     }
   ]
 }

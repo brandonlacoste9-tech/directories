@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'fr_CA',
-    url: 'https://zyeute.qc.ca',
+    url: 'https://loi96repertoire.com',
     title: 'Zyeuté Répertoire | Conformité Loi 96',
     description: 'Surveillance autonome de la Loi 96 pour les entreprises québécoises.',
     siteName: 'Zyeuté',

@@ -126,7 +126,17 @@
       "fr_desc": "Conformité standard : Traductions complètes, SEO localisé et Politiques de confidentialité conformes à la Loi 25/96.",
       "complexity": "HIGH",
       "estimated_time": "6h"
-    }
+    },
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:40:50.072303",
+        "detail": "Forensic notice dispatched: MODERATE"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "cleaning-systems-elite": {
     "id": "ZY-6FA69",
@@ -721,7 +731,17 @@
       "METADATA_MISMATCH: SEO targeting English-only.",
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "nordique-technologie-troisrivières-inc.ca"
+    "domain": "nordique-technologie-troisrivières-inc.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:40:52.114027",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "groupe-restauration-trois-rivières-ltee": {
     "id": "ZY-5450D",
@@ -737,7 +757,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "groupe-restauration-troisrivières-ltee.ca"
+    "domain": "groupe-restauration-troisrivières-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:40:54.142258",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "boréal-restauration-trois-rivières-inc": {
     "id": "ZY-445C3",
@@ -753,7 +783,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "boréal-restauration-troisrivières-inc.ca"
+    "domain": "boréal-restauration-troisrivières-inc.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:40:56.165838",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "st-laurent-services-trois-rivières-ltee": {
     "id": "ZY-D75F0",
@@ -769,7 +809,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-services-troisrivières-ltee.ca"
+    "domain": "stlaurent-services-troisrivières-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:40:58.183599",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "groupe-technologie-lévis-enr": {
     "id": "ZY-41277",
@@ -830,7 +880,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-restauration-gatineau-enr.ca"
+    "domain": "stlaurent-restauration-gatineau-enr.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:46:00.219956",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "st-laurent-manufacturier-laval-inc": {
     "id": "ZY-898E7",
@@ -846,7 +906,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-manufacturier-laval-inc.ca"
+    "domain": "stlaurent-manufacturier-laval-inc.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:46:02.262166",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "élite-services-montréal-enr": {
     "id": "ZY-0E419",
@@ -954,7 +1024,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-commerce-troisrivières-ltee.ca"
+    "domain": "stlaurent-commerce-troisrivières-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:46:04.291726",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "solutions-services-québec-ltee": {
     "id": "ZY-9A23A",
@@ -989,7 +1069,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-services-laval-enr.ca"
+    "domain": "stlaurent-services-laval-enr.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:46:06.334734",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "boréal-commerce-sherbrooke-ltee": {
     "id": "ZY-53FB3",
@@ -1043,7 +1133,17 @@
       "BILL_96_GAP: Client portal lacks French gateway.",
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-construction-laval-inc.ca"
+    "domain": "stlaurent-construction-laval-inc.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:46:08.370011",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "nordique-services-montréal-enr": {
     "id": "ZY-2D781",
@@ -1096,7 +1196,17 @@
       "METADATA_MISMATCH: SEO targeting English-only.",
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-technologie-troisrivières-ltee.ca"
+    "domain": "stlaurent-technologie-troisrivières-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:51:10.505004",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "expert-manufacturier-laval-enr": {
     "id": "ZY-F2CBD",
@@ -1152,7 +1262,17 @@
       "BILL_96_GAP: Client portal lacks French gateway.",
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-construction-sherbrooke-ltee.ca"
+    "domain": "stlaurent-construction-sherbrooke-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:51:12.532871",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "élite-restauration-montréal-inc": {
     "id": "ZY-A6432",
@@ -1243,7 +1363,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-restauration-québec-inc.ca"
+    "domain": "stlaurent-restauration-québec-inc.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:51:14.560006",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "élite-commerce-longueuil-ltee": {
     "id": "ZY-2B35B",
@@ -1353,7 +1483,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-services-laval-ltee.ca"
+    "domain": "stlaurent-services-laval-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:51:16.585025",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "groupe-restauration-sherbrooke-inc": {
     "id": "ZY-912CF",
@@ -1388,7 +1528,17 @@
       "METADATA_MISMATCH: SEO targeting English-only.",
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "groupe-technologie-troisrivières-inc.ca"
+    "domain": "groupe-technologie-troisrivières-inc.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:51:18.614814",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "expert-technologie-trois-rivières-ltee": {
     "id": "ZY-AE537",
@@ -1405,7 +1555,17 @@
       "METADATA_MISMATCH: SEO targeting English-only.",
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "expert-technologie-troisrivières-ltee.ca"
+    "domain": "expert-technologie-troisrivières-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:56:21.206094",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "élite-commerce-laval-inc": {
     "id": "ZY-808AA",
@@ -1570,7 +1730,17 @@
       "METADATA_MISMATCH: SEO targeting English-only.",
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "solutions-services-troisrivières-inc.ca"
+    "domain": "solutions-services-troisrivières-inc.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:56:23.535082",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "boréal-technologie-gatineau-inc": {
     "id": "ZY-CA81D",
@@ -1662,7 +1832,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-services-lévis-ltee.ca"
+    "domain": "stlaurent-services-lévis-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:56:25.907434",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "élite-technologie-sherbrooke-enr": {
     "id": "ZY-7D778",
@@ -1867,7 +2047,17 @@
       "METADATA_MISMATCH: SEO targeting English-only.",
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "solutions-restauration-troisrivières-inc.ca"
+    "domain": "solutions-restauration-troisrivières-inc.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:56:28.430168",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "solutions-commerce-montréal-inc": {
     "id": "ZY-37D06",
@@ -1979,7 +2169,17 @@
       "METADATA_MISMATCH: SEO targeting English-only.",
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "groupe-technologie-troisrivières-enr.ca"
+    "domain": "groupe-technologie-troisrivières-enr.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T16:56:30.591855",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "élite-services-laval-inc": {
     "id": "ZY-914D6",
@@ -2032,7 +2232,17 @@
       "METADATA_MISMATCH: SEO targeting English-only.",
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "groupe-technologie-troisrivières-ltee.ca"
+    "domain": "groupe-technologie-troisrivières-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:01:33.379579",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "systèmes-services-montréal-ltee": {
     "id": "ZY-2216B",
@@ -2141,7 +2351,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "expert-manufacturier-troisrivières-ltee.ca"
+    "domain": "expert-manufacturier-troisrivières-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:01:35.770523",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "boréal-commerce-lévis-ltee": {
     "id": "ZY-6AAA5",
@@ -2251,7 +2471,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-services-québec-inc.ca"
+    "domain": "stlaurent-services-québec-inc.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:01:38.072971",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "nordique-manufacturier-québec-enr": {
     "id": "ZY-2F1CC",
@@ -2341,7 +2571,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "nordique-services-troisrivières-inc.ca"
+    "domain": "nordique-services-troisrivières-inc.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:01:40.495253",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "st-laurent-commerce-laval-ltee": {
     "id": "ZY-C5E45",
@@ -2357,7 +2597,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-commerce-laval-ltee.ca"
+    "domain": "stlaurent-commerce-laval-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:01:42.904535",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "boréal-commerce-trois-rivières-enr": {
     "id": "ZY-9C26B",
@@ -2373,7 +2623,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "boréal-commerce-troisrivières-enr.ca"
+    "domain": "boréal-commerce-troisrivières-enr.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:06:45.904708",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "systèmes-construction-laval-enr": {
     "id": "ZY-8E6D2",
@@ -2511,8 +2771,16 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "élite-commerce-troisrivières-inc.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:06:48.415779",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "systèmes-services-québec-inc": {
     "id": "ZY-143BF",
@@ -2619,7 +2887,17 @@
       "METADATA_MISMATCH: SEO targeting English-only.",
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-technologie-montréal-ltee.ca"
+    "domain": "stlaurent-technologie-montréal-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:06:50.976303",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "solutions-services-montréal-inc": {
     "id": "ZY-BD6E8",
@@ -2654,7 +2932,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-restauration-sherbrooke-ltee.ca"
+    "domain": "stlaurent-restauration-sherbrooke-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:06:53.830462",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "groupe-services-québec-inc": {
     "id": "ZY-DD8F4",
@@ -2744,7 +3032,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "nordique-commerce-troisrivières-enr.ca"
+    "domain": "nordique-commerce-troisrivières-enr.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:06:56.869042",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "boréal-technologie-sherbrooke-inc": {
     "id": "ZY-4C8BB",
@@ -2871,7 +3169,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-restauration-longueuil-ltee.ca"
+    "domain": "stlaurent-restauration-longueuil-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:11:59.437858",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "boréal-technologie-laval-inc": {
     "id": "ZY-88172",
@@ -2925,7 +3233,17 @@
       "METADATA_MISMATCH: SEO targeting English-only.",
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-technologie-longueuil-inc.ca"
+    "domain": "stlaurent-technologie-longueuil-inc.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:12:01.466561",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "solutions-technologie-sherbrooke-ltee": {
     "id": "ZY-6630D",
@@ -3023,7 +3341,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "boréal-services-troisrivières-ltee.ca"
+    "domain": "boréal-services-troisrivières-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:12:03.493729",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "nordique-services-gatineau-ltee": {
     "id": "ZY-2AB3D",
@@ -3115,7 +3443,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "expert-commerce-troisrivières-enr.ca"
+    "domain": "expert-commerce-troisrivières-enr.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:12:05.523701",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "systèmes-services-trois-rivières-inc": {
     "id": "ZY-F9C27",
@@ -3131,7 +3469,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "systèmes-services-troisrivières-inc.ca"
+    "domain": "systèmes-services-troisrivières-inc.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:12:07.551406",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "systèmes-technologie-trois-rivières-ltee": {
     "id": "ZY-88186",
@@ -3148,7 +3496,17 @@
       "METADATA_MISMATCH: SEO targeting English-only.",
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "systèmes-technologie-troisrivières-ltee.ca"
+    "domain": "systèmes-technologie-troisrivières-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:17:09.686895",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "boréal-manufacturier-montréal-ltee": {
     "id": "ZY-9B586",
@@ -3239,8 +3597,16 @@
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
     "domain": "stlaurent-restauration-longueuil-enr.ca",
-    "outreachStatus": "PENDING",
-    "interactions": []
+    "outreachStatus": "SENT",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:17:11.912919",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11"
   },
   "expert-commerce-gatineau-inc": {
     "id": "ZY-AAA30",
@@ -3292,7 +3658,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-manufacturier-québec-inc.ca"
+    "domain": "stlaurent-manufacturier-québec-inc.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:17:14.100222",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "st-laurent-commerce-québec-ltee": {
     "id": "ZY-E82F6",
@@ -3308,7 +3684,17 @@
     "violations": [
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-commerce-québec-ltee.ca"
+    "domain": "stlaurent-commerce-québec-ltee.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:17:16.284290",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "systèmes-commerce-montréal-ltee": {
     "id": "ZY-CC84E",
@@ -3343,7 +3729,17 @@
       "METADATA_MISMATCH: SEO targeting English-only.",
       "TIERED_ENFORCEMENT: 25+ Employee bracket detected."
     ],
-    "domain": "stlaurent-technologie-montréal-enr.ca"
+    "domain": "stlaurent-technologie-montréal-enr.ca",
+    "interactions": [
+      {
+        "type": "OUTREACH",
+        "timestamp": "2026-03-11T17:17:19.647624",
+        "detail": "Forensic notice dispatched: HIGH"
+      }
+    ],
+    "isOutreachSent": true,
+    "outreachDate": "2026-03-11",
+    "outreachStatus": "SENT"
   },
   "st-laurent-restauration-trois-rivières-inc": {
     "id": "ZY-42CAB",

@@ -146,7 +146,7 @@ class GravityClaw:
                 "quotidiennes dépassant 20 000 $.\n\n"
                 "Zyeuté a préparé un audit forensique pour votre entité. Nous recommandons une remédiation immédiate "
                 "pour éviter la prochaine vague d'application de l'OQLF.\n\n"
-                "Consultez votre dossier : http://zyeute.qc.ca/directory\n\n"
+                "Consultez votre dossier : https://loi96repertoire.com/directory\n\n"
                 "-----------------------------------\n"
                 "English context: Critical linguistic gaps identified. Fines exceeding $20k/day possible under Bill 96.\n\n"
                 "Respectueusement,\n"
@@ -160,7 +160,7 @@ class GravityClaw:
                 f"Un audit linguistique a été effectué sur {domain}. Nous avons détecté des risques de conformité "
                 "modérés qui pourraient attirer l'attention des autorités réglementaires sous la Loi 96.\n\n"
                 "Zyeuté a ajouté votre entreprise au Répertoire Public de Conformité. Vous pouvez réclamer votre "
-                "profil et demander un plan de remédiation complet ici : http://zyeute.qc.ca/claim\n\n"
+                "profil et demander un plan de remédiation complet ici : https://loi96repertoire.com/claim\n\n"
                 "-----------------------------------\n"
                 "English context: Linguistic audit performed. Moderate compliance risks detected under Bill 96.\n\n"
                 "Cordialement,\n"
@@ -204,7 +204,7 @@ class GravityClaw:
                 if self.resend_key and resend:
                     try:
                         resend.Emails.send({
-                            "from": "Zyeuté Compliance <compliance@zyeute.qc.ca>",
+                            "from": "Zyeuté Compliance <compliance@loi96repertoire.com>",
                             "to": ["brandonlacoste9@gmail.com"], # Safety: Send to user for verification in dev
                             "subject": notice["subject"],
                             "html": notice["body"].replace("\n", "<br>")
