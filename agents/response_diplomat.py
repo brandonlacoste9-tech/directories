@@ -75,8 +75,8 @@ class ResponseDiplomat:
                     interactions = biz.get("interactions", [])
                     # Check for unhandled signals (actions without a RESPONSE)
                     for action in interactions:
-                        if action.get("type").startswith("INBOUND") and "reply_sent" not in action:
-                            signal = action.get("type").replace("INBOUND_", "")
+                        if action.get("type") == "INBOUND" and "reply_sent" not in action:
+                            signal = action.get("signal", "INQUIRY")
                             company = biz.get("name")
                             
                             print(f"📧 [DIPLOMACY]: Handling {signal} from {company}...")
