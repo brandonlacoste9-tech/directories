@@ -39,3 +39,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+
+# Agent state (contains PII / business data)
+agents/memory.json
+agents/dlq.json
+agents/openmanus_results.json
+agents/openmanus_tasks.json
+
+# Drizzle
+drizzle/migrations/*.sql

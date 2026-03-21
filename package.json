@@ -1,14 +1,25 @@
 {
   "name": "directories",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "drizzle-kit migrate",
+    "db:studio": "drizzle-kit studio",
+    "db:push": "drizzle-kit push",
+    "swarm:start": "python3 agents/swarm_orchestrator_v2.py",
+    "swarm:audit": "python3 agents/sentinelle_96_v2.py",
+    "swarm:scrape": "python3 agents/req_scraper.py"
   },
   "dependencies": {
+    "@neondatabase/serverless": "^1.0.2",
+    "dotenv": "^17.3.1",
+    "drizzle-kit": "^0.31.10",
+    "drizzle-orm": "^0.45.1",
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3",
